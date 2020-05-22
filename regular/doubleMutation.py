@@ -9,11 +9,12 @@
 import sys
 import os
 import time
+import requests
 from trieHelper import *
 
 #Macros
 TEMP_F = "temp_doubleMutationHelper" #Name of the temporary directory where we store the singly mutated sequences.
-PDB_T = trieHelper()
+PDB_T = trieHelper() #Our trie
 
 def echoPWD():
     print(os.popen('echo $PWD').read())
@@ -27,9 +28,16 @@ def createDir(t_f):
         os.system('rm -rf ' + t_f)
     os.system('mkdir ' + t_f)    
 
-def getFASTA(fileName):
+#First insert is the original FASTA sequence. With this mutations back into the original sequence are redundant.
+def initializeTrie(pdbID):
+    response = requests.get('https://www.rcsb.org/fasta/entry/' + pdbID).text.split()
+    trieHelper.insertNode(PDB_T, response[len(response) - 1].lower())
+    
+#We only want to compare the part of the FASTA sequence that can be changed.
+#The range given from the command line argument is not 0 indexed, so we subtract 1 from the start
+def getFASTA(fileName, start, end):
     with open(fileName) as f:
-        return f.read()
+        return f.read()[start - 1: end]
 
 #Deletes the leftover files from multiMutant. I thought they were annoying.
 def cleanMultiMutant(argv):
@@ -72,15 +80,19 @@ def gatherDoubles(argv, t_f):
     os.system('rm -rf ' + fPath + ' ' + t_f + '/sequentialPipelineInvocation.sh')
 
 #Uses PDB_T, a trie, to check if a FASTA sequence is found. If it is, we remove the folder, as it's redundant.
-def removeRedundants(workingDir):
+#We get the FASTA sequence with getFASTA(), and use r, the range, to specify a substring to grab
+def removeRedundants(workingDir, argv):
     print("Removing redundant sequences...")
+    initializeTrie(argv[1])
     os.chdir(workingDir)
 
-    i = 0
-    j = 0
+    
+    i, j = 0, 0
+    r = argv[3].split(':')
+    r = [int(r[0]), int(r[1])]
     for dirs in os.walk('.', topdown = False):
         if(dirs[0] != '.'):
-            seq = getFASTA(dirs[0] + '/' + dirs[0] + '.fasta.txt').lower()
+            seq = getFASTA(dirs[0] + '/' + dirs[0] + '.fasta.txt', r[0], r[1]).lower()
             if trieHelper.insertNode(PDB_T, seq) == True: #If True then we remove, since it's a redundant sequence
                 os.system('rm -rf ' + dirs[0])
                 i += 1
@@ -116,10 +128,9 @@ def main():
     callMultiMutant(sys.argv)
     gatherPDBs(sys.argv, TEMP_F)
     mutateDirectory(sys.argv)
-
-    midTime = time.time()
     
-    removeRedundants('D_' + getPath(sys.argv))
+    midTime = time.time()
+    removeRedundants('D_' + getPath(sys.argv), sys.argv)
     cleanMultiMutant(sys.argv)
 
     print("\nTime spent grabbing and mutating: %f minutes" % ((midTime - startTime) / 60))

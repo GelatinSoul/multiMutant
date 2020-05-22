@@ -39,6 +39,9 @@ class trieHelper:
     def getNode(self):
         return trieNode()
 
+    def getOriginalSeq(self, seq):
+        self.originalSeq = seq
+    
     #Inserts the sequence into the Trie
     #Returns True if the sequence already exists (which means it's a redundant sequence)
     #Returns False if this sequence is unique
