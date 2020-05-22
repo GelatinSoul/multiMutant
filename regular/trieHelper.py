@@ -1,4 +1,4 @@
-#Trie Helper created by William Tian on May 22nd, 2020.
+#Trie Helper, this file was created by William Tian on May 22nd, 2020.
 #doubleMutation.py is dependent on this, unless the code for redundant sequence checking is all commented out.
 #A basic and bare Trie for the purpose of doubleMutation.py.
 #Be advised when inserting into the trie. Wrong input will give unexpected results and and throw no error.
@@ -38,9 +38,6 @@ class trieHelper:
 
     def getNode(self):
         return trieNode()
-
-    def getOriginalSeq(self, seq):
-        self.originalSeq = seq
     
     #Inserts the sequence into the Trie
     #Returns True if the sequence already exists (which means it's a redundant sequence)

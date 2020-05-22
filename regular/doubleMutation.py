@@ -128,7 +128,10 @@ def mutateDirectory(argv):
 def main():
     if(len(sys.argv) < 4):
         sys.exit("Please enter the correct command line arguments")
-
+    r = getRange(argv)
+    if(r[0] == r[1]):
+        sys.exit("This script doesn't do single mutations and the range specified is one. Use multiMutant.sh instead.")
+        
     startTime = time.time()
     print("Grabbing PDB files and mutating...")
     
