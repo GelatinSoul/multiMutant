@@ -3,6 +3,8 @@
 #The results are consolidated into a file called "D_<PDBID><Chain><Range>_out"
 #Redundant results are removed entirely, but the program still goes through the process of creating them.
 #This is done through the use of a trie, and examining the FASTA sequences for each PDB
+#The trie is created from the file trieHelper.py.
+#doubleMutation.py is dependent on trieHelper for deleting redundant sequences.
 
 import sys
 import os
@@ -27,6 +29,13 @@ def getFASTA(fileName):
     with open(fileName) as f:
         return f.read()
 
+#Deletes the leftover files from multiMutant. I thought they were annoying.
+def cleanMultiMutant(argv):
+    os.system('rm -rf ' + getPath(argv))
+
+    #Commenting this out so you don't have to redownload the PDB file every time you want to call on the same sequence
+    #os.system('rm promute/' + argv[1] + '.pdb')
+    
 #Mutates a given sequence with the given parameters.
 #argv[0] is never used. argv[1] is the PDB ID.
 #argv[2] is the Chain (Note: Case sensitive). argv[3] is the range (Note: Inclusive on both ends).
@@ -51,7 +60,7 @@ def gatherPDBs(argv, t_f):
     os.chdir('./' + fPath)
     for dirs in os.walk('.', topdown = False):
         if(dirs[0] != '.'):
-            os.system('cp ' + dirs[0] + '/' + dirs[0] + '.pdb' + ' ../' + t_f)
+            os.system('mv ' + dirs[0] + '/' + dirs[0] + '.pdb' + ' ../' + t_f)
     os.chdir('..')
 
 #Moves the entire folder of sequences into one main folder.
@@ -94,7 +103,6 @@ def mutateDirectory(argv):
             os.system('rm ./promute/' + file + '.pdb')
 
             gatherDoubles(temp_argv, dir)
-        
     
 def main():
     if(len(sys.argv) < 4):
@@ -103,6 +111,7 @@ def main():
     gatherPDBs(sys.argv, TEMP_F)
     mutateDirectory(sys.argv)
     removeRedundants('D_' + sys.argv[1] + sys.argv[2] + sys.argv[3] + '_out')
+    cleanMultiMutant(sys.argv)
     
 if __name__ == "__main__":
     main()

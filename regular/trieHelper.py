@@ -1,11 +1,14 @@
-#A basic Trie for the purpose of doubleMutation.py.
-#The order is alphabetical from the amino acid's name, not their abbreviation.
+#Trie Helper created by William Tian on May 22nd, 2020.
+#doubleMutation.py is dependent on this, unless the code for redundant sequence checking is all commented out.
+#A basic and bare Trie for the purpose of doubleMutation.py.
+#Be advised when inserting into the trie. Wrong input will give unexpected results and and throw no error.
 
 class trieNode:
     def __init__(self):
         self.children = [None] * 20
         
 #Lower case because most of the FASTA sequence is lower case.
+#The order is alphabetical from the amino acid's name, not their abbreviation.
 map = {
     'a':0,
     'r':1,
