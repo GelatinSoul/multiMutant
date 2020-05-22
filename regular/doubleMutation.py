@@ -17,6 +17,7 @@ PDB_T = trieHelper()
 def echoPWD():
     print(os.popen('echo $PWD').read())
 
+#Returns the path for the folder outputed by multiMutant.sh. It'll look like "<ID><CHAIN><RANGE>_out"
 def getPath(argv):
     return argv[1] + argv[2] + argv[3] + '_out'
 
@@ -110,7 +111,7 @@ def main():
     callMultiMutant(sys.argv)
     gatherPDBs(sys.argv, TEMP_F)
     mutateDirectory(sys.argv)
-    removeRedundants('D_' + sys.argv[1] + sys.argv[2] + sys.argv[3] + '_out')
+    removeRedundants('D_' + getPath(sys.argv))
     cleanMultiMutant(sys.argv)
     
 if __name__ == "__main__":
