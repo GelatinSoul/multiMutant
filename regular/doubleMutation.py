@@ -29,9 +29,9 @@ def createDir(t_f):
     os.system('mkdir ' + t_f)    
 
 #First insert is the original FASTA sequence. With this mutations back into the original sequence are redundant.
-def initializeTrie(pdbID):
+def initializeTrie(pdbID, start, end):
     response = requests.get('https://www.rcsb.org/fasta/entry/' + pdbID).text.split()
-    trieHelper.insertNode(PDB_T, response[len(response) - 1].lower())
+    trieHelper.insertNode(PDB_T, response[len(response) - 1][start - 1: end].lower())
     
 #We only want to compare the part of the FASTA sequence that can be changed.
 #The range given from the command line argument is not 0 indexed, so we subtract 1 from the start
@@ -83,13 +83,13 @@ def gatherDoubles(argv, t_f):
 #We get the FASTA sequence with getFASTA(), and use r, the range, to specify a substring to grab
 def removeRedundants(workingDir, argv):
     print("Removing redundant sequences...")
-    initializeTrie(argv[1])
     os.chdir(workingDir)
 
     
     i, j = 0, 0
     r = argv[3].split(':')
     r = [int(r[0]), int(r[1])]
+    initializeTrie(argv[1], r[0], r[1])
     for dirs in os.walk('.', topdown = False):
         if(dirs[0] != '.'):
             seq = getFASTA(dirs[0] + '/' + dirs[0] + '.fasta.txt', r[0], r[1]).lower()
