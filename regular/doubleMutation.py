@@ -8,6 +8,7 @@
 
 import sys
 import os
+import time
 from trieHelper import *
 
 #Macros
@@ -45,7 +46,7 @@ def callMultiMutant(argv):
     fPath = getPath(argv)
     os.system('rm -rf ' + fPath)
 
-    print('Calling ./multiMutant.sh ' + argv[1] + ' ' + argv[2] + ' ' + argv[3])
+    #print('Calling ./multiMutant.sh ' + argv[1] + ' ' + argv[2] + ' ' + argv[3])
         
     os.popen('./multiMutant.sh ' + argv[1] + ' ' + argv[2] + ' ' + argv[3]).read()  
     os.system('find ./' + fPath + ' -type d -empty -delete') #Removes redundant folders   
@@ -86,7 +87,7 @@ def removeRedundants(workingDir):
             j += 1
     os.chdir('..') #Changes back to the root directory for this file
     os.system('rm -rf ' + TEMP_F) #Removes the temporary folder which we used for our singly mutated sequences
-    print("Removed %d redundant sequences out of %d total sequences." % (i, j))
+    print("\nRemoved %d redundant sequences out of %d total sequences." % (i, j))
     print("There are now %d sequences total." % (j - i))
     
 # Grabs the temporary directory, and mutates everything in it again.
@@ -108,11 +109,24 @@ def mutateDirectory(argv):
 def main():
     if(len(sys.argv) < 4):
         sys.exit("Please enter the correct command line arguments")
+
+    startTime = time.time()
+    print("Grabbing PDB files and mutating...")
+    
     callMultiMutant(sys.argv)
     gatherPDBs(sys.argv, TEMP_F)
     mutateDirectory(sys.argv)
+
+    midTime = time.time()
+    
     removeRedundants('D_' + getPath(sys.argv))
     cleanMultiMutant(sys.argv)
+
+    print("\nTime spent grabbing and mutating: %f minutes" % ((midTime - startTime) / 60))
+    print("Time spent removing redundant sequences: %f minutes" % ((time.time() - midTime) / 60))
+    print("Total time elapsed: %f" % ((time.time() - startTime) / 60))
+
+    print("\nFolder is D_" + getPath(sys.argv))
     
 if __name__ == "__main__":
     main()
