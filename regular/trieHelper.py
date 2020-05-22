@@ -4,6 +4,7 @@
 class trieNode:
     def __init__(self):
         self.children = [None] * 20
+        
 #Lower case because most of the FASTA sequence is lower case.
 map = {
     'a':0,
@@ -35,7 +36,7 @@ class trieHelper:
     def getNode(self):
         return trieNode()
 
-    #Insert the sequence into the Trie
+    #Inserts the sequence into the Trie
     #Returns True if the sequence already exists (which means it's a redundant sequence)
     #Returns False if this sequence is unique
     def insertNode(self, seq):
@@ -47,3 +48,4 @@ class trieHelper:
                 currNode.children[i] = self.getNode()
                 found = False
             currNode = currNode.children[i]
+        return found

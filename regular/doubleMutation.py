@@ -1,8 +1,8 @@
 #Double Mutation created by William Tian on May 21st, 2020.
-#Uses multiMutant.sh (which in return uses ProMute) to mutate a given PDB ID twice.
+#Uses multiMutant.sh (which in also depends upon ProMute) to mutate a given PDB ID twice.
 #The results are consolidated into a file called "D_<PDBID><Chain><Range>_out"
 #Redundant results are removed entirely, but the program still goes through the process of creating them.
-#This is done through the use of a trie
+#This is done through the use of a trie, and examining the FASTA sequences for each PDB
 
 import sys
 import os
@@ -33,14 +33,11 @@ def getFASTA(fileName):
 #Essentially just calls ./multiMutant.sh with the command line arguments passed
 def callMultiMutant(argv):
     fPath = getPath(argv)
-
     os.system('rm -rf ' + fPath)
 
-    print('./multiMutant.sh ' + argv[1] + ' ' + argv[2] + ' ' + argv[3])
+    print('Calling ./multiMutant.sh ' + argv[1] + ' ' + argv[2] + ' ' + argv[3])
         
-    
-    os.popen('./multiMutant.sh ' + argv[1] + ' ' + argv[2] + ' ' + argv[3]).read()
-    
+    os.popen('./multiMutant.sh ' + argv[1] + ' ' + argv[2] + ' ' + argv[3]).read()  
     os.system('find ./' + fPath + ' -type d -empty -delete') #Removes redundant folders   
 
 #MultiMutant.sh creates a bunch of PDB files across multiple folders in a new directory.
@@ -63,26 +60,27 @@ def gatherDoubles(argv, t_f):
     os.system('mv ' + fPath + '/* ' + t_f)
     os.system('rm -rf ' + fPath + ' ' + t_f + '/sequentialPipelineInvocation.sh')
 
-#Uses a PDB_T, a trie, to check if a FASTA sequence is found. If it is, we remove the folder, as it's redundant.
+#Uses PDB_T, a trie, to check if a FASTA sequence is found. If it is, we remove the folder, as it's redundant.
 def removeRedundants(workingDir):
+    print("Removing redundant sequences...")
     os.chdir(workingDir)
-    echoPWD()
 
-
-    
+    i = 0
+    j = 0
     for dirs in os.walk('.', topdown = False):
         if(dirs[0] != '.'):
             seq = getFASTA(dirs[0] + '/' + dirs[0] + '.fasta.txt').lower()
             if trieHelper.insertNode(PDB_T, seq) == True: #If True then we remove, since it's a redundant sequence
-                #os.system('rm -rf ' + dirs[0])
-                print('rm -rf ' + dirs[0])
-
-
-    echoPWD()
-
+                os.system('rm -rf ' + dirs[0])
+                i += 1
+            j += 1
     os.chdir('..') #Changes back to the root directory for this file
     os.system('rm -rf ' + TEMP_F) #Removes the temporary folder which we used for our singly mutated sequences
+    print("Removed %d redundant sequences out of %d total sequences." % (i, j))
+    print("There are now %d sequences total." % (j - i))
     
+# Grabs the temporary directory, and mutates everything in it again.
+#Those results are then moved into the final directory, under the variable "dir"
 def mutateDirectory(argv):
     dir = 'D_' + argv[1] +  argv[2] + argv[3] + '_out'
     createDir(dir)
