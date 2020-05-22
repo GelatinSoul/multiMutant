@@ -28,6 +28,10 @@ def createDir(t_f):
         os.system('rm -rf ' + t_f)
     os.system('mkdir ' + t_f)    
 
+def getRange(argv):
+    r = argv[3].split(':')
+    return [int(r[0]), int(r[1])]
+    
 #First insert is the original FASTA sequence. With this mutations back into the original sequence are redundant.
 def initializeTrie(pdbID, start, end):
     response = requests.get('https://www.rcsb.org/fasta/entry/' + pdbID).text.split()
@@ -37,6 +41,7 @@ def initializeTrie(pdbID, start, end):
 #The range given from the command line argument is not 0 indexed, so we subtract 1 from the start
 def getFASTA(fileName, start, end):
     with open(fileName) as f:
+        #print(f.read()[start - 1: end])
         return f.read()[start - 1: end]
 
 #Deletes the leftover files from multiMutant. I thought they were annoying.
@@ -62,17 +67,20 @@ def callMultiMutant(argv):
 #MultiMutant.sh creates a bunch of PDB files across multiple folders in a new directory.
 #This gathers all those files and puts them into a single temporary folder. Specified by t_f.
 #This new folder will be discarded once the PDB files are mutated again, giving the original sequence two mutations.
+#Inserts into a trie so future singly mutated sequences are removed
 def gatherPDBs(argv, t_f):
     fPath = getPath(argv)
-    
+    r = getRange(argv)
     createDir(t_f)
     
     os.chdir('./' + fPath)
     for dirs in os.walk('.', topdown = False):
-        if(dirs[0] != '.'):
+        if dirs[0] != '.':
+            fileName = dirs[0] + '/' + dirs[0] + '.fasta.txt'
+            trieHelper.insertNode(PDB_T, getFASTA(fileName, r[0], r[1]).lower())
             os.system('mv ' + dirs[0] + '/' + dirs[0] + '.pdb' + ' ../' + t_f)
     os.chdir('..')
-
+    
 #Moves the entire folder of sequences into one main folder.
 def gatherDoubles(argv, t_f):
     fPath = getPath(argv)
@@ -87,8 +95,7 @@ def removeRedundants(workingDir, argv):
 
     
     i, j = 0, 0
-    r = argv[3].split(':')
-    r = [int(r[0]), int(r[1])]
+    r = getRange(argv)
     initializeTrie(argv[1], r[0], r[1])
     for dirs in os.walk('.', topdown = False):
         if(dirs[0] != '.'):
