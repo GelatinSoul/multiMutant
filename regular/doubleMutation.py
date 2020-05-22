@@ -96,7 +96,7 @@ def mutateDirectory(argv):
     createDir(dir)
     
     for file in os.listdir(TEMP_F):
-        if file.endswith(".pdb") and file.startswith("1CRN.A10"): ##Change this to .pdb to get all files!
+        if file.endswith(".pdb"): #Add "and file.startswith()" to troubleshoot.
             os.system('mv ' + TEMP_F + '/' + file + ' promute') #Moves the current file in the loop into ./promute/
             file = file.replace('.pdb', '')
             temp_argv = [0, file, argv[2], argv[3]] #Create a new argv, with the PDB ID as the file we just obtained
