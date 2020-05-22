@@ -128,7 +128,7 @@ def mutateDirectory(argv):
 def main():
     if(len(sys.argv) < 4):
         sys.exit("Please enter the correct command line arguments")
-    r = getRange(argv)
+    r = getRange(sys.argv)
     if(r[0] == r[1]):
         sys.exit("This script doesn't do single mutations and the range specified is one. Use multiMutant.sh instead.")
         
@@ -145,7 +145,7 @@ def main():
 
     print("\nTime spent grabbing and mutating: %f minutes" % ((midTime - startTime) / 60))
     print("Time spent removing redundant sequences: %f minutes" % ((time.time() - midTime) / 60))
-    print("Total time elapsed: %f" % ((time.time() - startTime) / 60))
+    print("Total time elapsed: %f minutes" % ((time.time() - startTime) / 60))
 
     print("\nFolder is D_" + getPath(sys.argv))
     
