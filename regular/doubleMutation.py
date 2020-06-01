@@ -14,7 +14,11 @@ from trieHelper import *
 
 #Macros
 TEMP_F = "temp_doubleMutationHelper" #Name of the temporary directory where we store the singly mutated sequences.
-PDB_T = trieHelper() #Our trie
+
+#You can swap between one or the other by commenting and uncommenting out the 3 lines of code when we use
+#one of these data structures. In experience, the Map seems slightly faster.
+#PDB_T = trieHelper() #Our trie
+PDB_DICT = {} #A map
 
 def echoPWD():
     print(os.popen('echo $PWD').read())
@@ -35,7 +39,8 @@ def getRange(argv):
 #First insert is the original FASTA sequence. With this mutations back into the original sequence are redundant.
 def initializeTrie(pdbID, start, end):
     response = requests.get('https://www.rcsb.org/fasta/entry/' + pdbID).text.split()
-    trieHelper.insertNode(PDB_T, response[len(response) - 1][start - 1: end].lower())
+    #trieHelper.insertNode(PDB_T, response[len(response) - 1][start - 1: end].lower())
+    PDB_DICT[response[len(response) - 1][start - 1: end].lower()] = ""
     
 #We only want to compare the part of the FASTA sequence that can be changed.
 #The range given from the command line argument is not 0 indexed, so we subtract 1 from the start
@@ -77,7 +82,8 @@ def gatherPDBs(argv, t_f):
     for dirs in os.walk('.', topdown = False):
         if dirs[0] != '.':
             fileName = dirs[0] + '/' + dirs[0] + '.fasta.txt'
-            trieHelper.insertNode(PDB_T, getFASTA(fileName, r[0], r[1]).lower())
+            PDB_DICT[getFASTA(fileName, r[0], r[1]).lower()] = ""
+            #trieHelper.insertNode(PDB_T, getFASTA(fileName, r[0], r[1]).lower())
             os.system('mv ' + dirs[0] + '/' + dirs[0] + '.pdb' + ' ../' + t_f)
     os.chdir('..')
     
@@ -100,9 +106,12 @@ def removeRedundants(workingDir, argv):
     for dirs in os.walk('.', topdown = False):
         if(dirs[0] != '.'):
             seq = getFASTA(dirs[0] + '/' + dirs[0] + '.fasta.txt', r[0], r[1]).lower()
-            if trieHelper.insertNode(PDB_T, seq) == True: #If True then we remove, since it's a redundant sequence
+            if seq in PDB_DICT:
+            #if trieHelper.insertNode(PDB_T, seq) == True: #If True then we remove, since it's a redundant sequence
                 os.system('rm -rf ' + dirs[0])
                 i += 1
+            else:
+                PDB_DICT[seq] = ""
             j += 1
     os.chdir('..') #Changes back to the root directory for this file
     os.system('rm -rf ' + TEMP_F) #Removes the temporary folder which we used for our singly mutated sequences
@@ -116,7 +125,7 @@ def mutateDirectory(argv):
     createDir(dir)
     
     for file in os.listdir(TEMP_F):
-        if file.endswith(".pdb"): #Add "and file.startswith()" to troubleshoot.
+        if file.endswith(".pdb"):
             os.system('mv ' + TEMP_F + '/' + file + ' promute') #Moves the current file in the loop into ./promute/
             file = file.replace('.pdb', '')
             temp_argv = [0, file, argv[2], argv[3]] #Create a new argv, with the PDB ID as the file we just obtained
