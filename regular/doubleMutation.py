@@ -17,7 +17,7 @@ TEMP_F = "temp_doubleMutationHelper" #Name of the temporary directory where we s
 
 #You can swap between one or the other by commenting and uncommenting out the 3 lines of code when we use
 #one of these data structures. In experience, the Map seems slightly faster.
-#PDB_T = trieHelper() #Our trie
+PDB_T = trieHelper() #Our trie
 PDB_DICT = {} #A map
 
 def echoPWD():
@@ -143,7 +143,10 @@ def main():
         
     startTime = time.time()
     print("Grabbing PDB files and mutating...")
-    
+
+    sys.argv[1] = sys.argv[1].upper()
+    sys.argv[2] = sys.argv[2].upper()
+
     callMultiMutant(sys.argv)
     gatherPDBs(sys.argv, TEMP_F)
     mutateDirectory(sys.argv)
