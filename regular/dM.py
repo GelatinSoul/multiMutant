@@ -1,5 +1,6 @@
 import sys
 import os
+import subprocess
 import requests
 import time
 
@@ -15,6 +16,8 @@ aminoIndex = {
 
 PDB_DICT = {}
 PDB_SINGLE_DICT = {}
+REMOVALS = 0
+DEV_NULL = open(os.devnull, 'w')
 
 ##
 #Helper functions
@@ -31,6 +34,7 @@ def createDir(d):
 
 def changeAt(string, index, target):
     return string[:index] + target + string[index + 1:]
+
 ##
 ##
 ##
@@ -46,44 +50,73 @@ def initialize(pdbID, chainID, start, end):
     FASTA_SEQ = sequence
     PDB_DICT[FASTA_SEQ] = ""
        
-def callProMute(pdbID, chainID, start, end, opt):
+def callProMute(pdbID, chainID, start, end, em = "no ", hphilic = "", hphobic = ""):
     os.chdir('promute')
     print("Gathering PDB files and mutating...\n")
-    callProMuteHelper(FASTA_SEQ, pdbID, chainID, start, end, opt, 1)
+    callProMuteHelper(FASTA_SEQ, pdbID, chainID, start, end, 1, em, hphilic, hphobic)
     os.chdir('..')
 
-def callProMuteHelper(seq, pdbID, chainID, start, end, opt, mutationNumber):
+def callProMuteHelper(seq, pdbID, chainID, start, end, mutationNumber, em, hphilic, hphobic):
+    #global PDB_SINGLE_DICT #Specifying global seems to have no affect...
+    #global PDB_DICT
+    global REMOVALS
     for residueNum in range(end-start+1):
         for target in aminoIndex:
             targetResidue = aminoIndex.get(target)
             newSeq = changeAt(seq, residueNum, targetResidue).lower()
             if not newSeq in PDB_SINGLE_DICT or mutationNumber == 1:
-                parameters = "%s %s %d %s %s" % (pdbID, chainID, residueNum + start + 1, targetResidue, opt)
+                if mutationNumber == 1:
+                    parameters = "%s %s %d %s %s %s %s" % (pdbID, chainID, residueNum + start + 1, targetResidue, "no", "", "")
+                else:
+                    parameters = "%s %s %d %s %s %s %s" % (pdbID, chainID, residueNum + start + 1, targetResidue, em, hphilic, hphobic)
                 command = "./proMute " + parameters
                 newPdbID = ("%s.%s%d%s" % (pdbID, chainID, residueNum + start + 1, targetResidue)).upper()
                 if mutationNumber == 1:
-                    PDB_SINGLE_DICT[newSeq] = 1
-                    os.system(command)
-                    callProMuteHelper(newSeq, newPdbID, chainID, start, end, opt, 2)
-                    os.system('rm %s.fasta.txt %s.pdb' %(newPdbID, newPdbID))
+                    print("\n-----SINGLE MUTATION-----")
+                    print(command)
+                    print(newPdbID)
+                    PDB_SINGLE_DICT[newSeq] = pdbID
+                    #os.system(command)
+                    subprocess.call(command, stdout = DEV_NULL, shell = True)
+                    callProMuteHelper(newSeq, newPdbID, chainID, start, end, 2, em, hphilic, hphobic)
+                    #os.system('rm %s.fasta.txt %s.pdb' %(newPdbID, newPdbID))
 
                     if(newSeq in PDB_DICT):
                         d = PDB_DICT.pop(newSeq)
-                        os.system('rm -rf ../%s/%s_out' %(D_DIR, d))
+                        print("Removing a folder: %s_out" %(d))
+                        REMOVALS += 1
+                        #os.system('rm -rf ../%s/%s_out' %(D_DIR, d))
                 elif mutationNumber == 2:
+                #elif not newSeq in PDB_DICT and mutationNumber == 2:
                     PDB_DICT[newSeq] = newPdbID
-                    os.system(command)
-                    createDir(newPdbID + '_out')
-                    os.system('mv %s.fasta.txt %s.pdb %s_out' %(pdbID, pdbID, pdbID))
-                    os.system('mv %s_out ../%s' %(pdbID, D_DIR))
                     
-def movePDBs():
+                    #newPID = os.fork()
+                    #if newPID == 0: #Child Process
+                    print("\n-----SECOND MUTATION-----")
+                    print(command)
+                    print(newPdbID)
+                    
+                    #os.system(command)
+                    #createDir(newPdbID + '_out')
+                    print("Moving files into an %s_out" % (newPdbID))
+                    #os.system('mv %s.fasta.txt %s.pdb %s_out' %(newPdbID, newPdbID, newPdbID))
+                        ##if em == "em ":
+                            #os.system('mv %s_em.pdb %s_out' %(newPdbID, newPdbID))
+                    print("Moving %s_out to the ../%s" % (newPdbID, D_DIR))
+                    #os.system('mv %s_out ../%s' %(newPdbID, D_DIR))
+                    #os._exit(0)
+
+#Delete this
+def movePDBs(em):
     os.chdir('promute')
     print("\nOrganizing and moving files over...")
-    for pdbID in PDB_DICT.values():
-        createDir(pdbID + '_out')
-        os.system('mv %s.fasta.txt %s.pdb %s_out' %(pdbID, pdbID, pdbID))
-        os.system('mv %s_out ../%s' %(pdbID, D_DIR))
+    for ne in PDB_DICT:
+        newPdbID = PDB_DICT[ne]
+        createDir(newPdbID + '_out')
+        os.system('mv %s.fasta.txt %s.pdb %s_out' %(newPdbID, newPdbID, newPdbID))
+        if(em == "em"):
+            os.system('mv %s_em.pdb %s_out' %(newPdbID, newPdbID))
+        os.system('mv %s_out ../%s' %(newPdbID, D_DIR))
     os.chdir('..')
     
 #argv[1] = PDBID
@@ -97,16 +130,31 @@ def main():
     r = getRange(sys.argv[3])
     initialize(sys.argv[1], sys.argv[2], r[0] + 1, r[1])
 
+    sys.argv[1] = sys.argv[1].upper()
+    sys.argv[2] = sys.argv[2].upper()
+    emFlag, hphilicFlag, hphobicFlag = "no ", "", ""
+    for i in range (4, len(sys.argv)):
+        flag = sys.argv[i].lower()
+        if flag == "em":
+            emFlag = flag
+        elif flag == "srem":
+            emFlag = flag + " "
+        elif flag == "hphilic":
+            hphilicFlag = flag 
+        elif flag == "hphobic":
+            hphobicFlag = flag
+    
     startTime = time.time()
-    if len(sys.argv) == 5:
-        callProMute(sys.argv[1], sys.argv[2], r[0], r[1]-1, sys.argv[4])
-    else:
-        callProMute(sys.argv[1], sys.argv[2], r[0], r[1]-1, 'no')
-        
-    #movePDBs()
-
+    callProMute(sys.argv[1], sys.argv[2], r[0], r[1] - 1, emFlag, hphilicFlag, hphobicFlag)
+    #movePDBs(emFlag)
+    
     print("\nTime elapsed: %f minutes" % ((time.time() - startTime) / 60))
     print("Folder is %s" % (D_DIR)) 
-        
+
+    print(len(PDB_SINGLE_DICT))
+    print(len(PDB_DICT))
+    print(REMOVALS)
+    
+    
 if __name__ == "__main__":
     main()
