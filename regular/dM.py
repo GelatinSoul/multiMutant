@@ -61,6 +61,7 @@ def callProMuteHelper(seq, pdbID, chainID, start, end, mutationNumber, em, hphil
     #global PDB_SINGLE_DICT #Specifying global seems to have no affect...
     #global PDB_DICT
     global REMOVALS
+    global CHILD_PIDS
     for residueNum in range(end-start+1):
         for target in aminoIndex:
             targetResidue = aminoIndex.get(target)
@@ -84,7 +85,7 @@ def callProMuteHelper(seq, pdbID, chainID, start, end, mutationNumber, em, hphil
 
                     if(newSeq in PDB_DICT):
                         d = PDB_DICT.pop(newSeq)
-                        print("Removing a folder: %s_out" %(d))
+                        #print("Removing a folder: %s_out" %(d))
                         REMOVALS += 1
                         #os.system('rm -rf %s*' % (d))
                         #os.system('rm -rf ../%s/%s_out' %(D_DIR, d))
@@ -110,7 +111,6 @@ def callProMuteHelper(seq, pdbID, chainID, start, end, mutationNumber, em, hphil
                     else:
                         CHILD_PIDS.append(newPID)
 
-#Delete this
 def movePDBs(em):
     os.chdir('promute')
     print("\nOrganizing and moving files over...") 
