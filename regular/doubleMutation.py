@@ -10,14 +10,14 @@ import sys
 import os
 import time
 import requests
-from trieHelper import *
+#from trieHelper import *
 
 #Macros
 TEMP_F = "temp_doubleMutationHelper" #Name of the temporary directory where we store the singly mutated sequences.
 
-#You can swap between one or the other by commenting and uncommenting out the 3 lines of code when we use
+#You can swap between one or the other by commenting and uncommenting out the few lines of code below when we use
 #one of these data structures. In experience, the Map seems slightly faster.
-PDB_T = trieHelper() #Our trie
+#PDB_T = trieHelper() #Our trie
 PDB_DICT = {} #A map
 
 def echoPWD():
@@ -60,19 +60,19 @@ def cleanMultiMutant(argv):
 #argv[0] is never used. argv[1] is the PDB ID.
 #argv[2] is the Chain (Note: Case sensitive). argv[3] is the range (Note: Inclusive on both ends).
 #Essentially just calls ./multiMutant.sh with the command line arguments passed
-def callMultiMutant(argv):
+def callMultiMutant(argv, seq = "", em="", hphilic="", hphobic=""):
     fPath = getPath(argv)
     os.system('rm -rf ' + fPath)
 
-    #print('Calling ./multiMutant.sh ' + argv[1] + ' ' + argv[2] + ' ' + argv[3])
-        
-    os.popen('./multiMutant.sh ' + argv[1] + ' ' + argv[2] + ' ' + argv[3]).read()  
+    #print('Calling ./multiMutant.sh ' + argv[1] + ' ' + argv[2] + ' ' + argv[3] + ' ' + em + hphilic + hphobic) 
+
+    os.popen('./multiMutant.sh ' + argv[1] + ' ' + argv[2] + ' ' + argv[3] + ' ' + em + hphilic + hphobic).read()  
     os.system('find ./' + fPath + ' -type d -empty -delete') #Removes redundant folders   
 
 #MultiMutant.sh creates a bunch of PDB files across multiple folders in a new directory.
 #This gathers all those files and puts them into a single temporary folder. Specified by t_f.
 #This new folder will be discarded once the PDB files are mutated again, giving the original sequence two mutations.
-#Inserts into a trie so future singly mutated sequences are removed
+#Inserts into a trie or map so future singly mutated sequences are removed
 def gatherPDBs(argv, t_f):
     fPath = getPath(argv)
     r = getRange(argv)
@@ -93,12 +93,11 @@ def gatherDoubles(argv, t_f):
     os.system('mv ' + fPath + '/* ' + t_f)
     os.system('rm -rf ' + fPath + ' ' + t_f + '/sequentialPipelineInvocation.sh')
 
-#Uses PDB_T, a trie, to check if a FASTA sequence is found. If it is, we remove the folder, as it's redundant.
+#Uses PDB_T, a trie, (or PDB_DICT, a map) to check if a FASTA sequence is found. If it is, we remove the folder, as it's redundant.
 #We get the FASTA sequence with getFASTA(), and use r, the range, to specify a substring to grab
 def removeRedundants(workingDir, argv):
     print("Removing redundant sequences...")
     os.chdir(workingDir)
-
     
     i, j = 0, 0
     r = getRange(argv)
@@ -118,9 +117,9 @@ def removeRedundants(workingDir, argv):
     print("\nRemoved %d redundant sequences out of %d total sequences." % (i, j))
     print("There are now %d sequences total." % (j - i))
     
-# Grabs the temporary directory, and mutates everything in it again.
+# Grabs the temporary directory, and mutates everything in it again. This is where we do our second mutation
 #Those results are then moved into the final directory, under the variable "dir"
-def mutateDirectory(argv):
+def mutateDirectory(argv, em = "", hphilic = "", hphobic = ""):
     dir = 'D_' + argv[1] +  argv[2] + argv[3] + '_out'
     createDir(dir)
     
@@ -129,7 +128,7 @@ def mutateDirectory(argv):
             os.system('mv ' + TEMP_F + '/' + file + ' promute') #Moves the current file in the loop into ./promute/
             file = file.replace('.pdb', '')
             temp_argv = [0, file, argv[2], argv[3]] #Create a new argv, with the PDB ID as the file we just obtained
-            callMultiMutant(temp_argv)
+            callMultiMutant(temp_argv, em, hphilic, hphobic )
             os.system('rm ./promute/' + file + '.pdb')
 
             gatherDoubles(temp_argv, dir)
@@ -140,16 +139,27 @@ def main():
     r = getRange(sys.argv)
     if(r[0] == r[1]):
         sys.exit("This script doesn't do single mutations and the range specified is one. Use multiMutant.sh instead.")
-        
-    startTime = time.time()
-    print("Grabbing PDB files and mutating...")
 
+    
     sys.argv[1] = sys.argv[1].upper()
     sys.argv[2] = sys.argv[2].upper()
+    #Checking for flags
+    emFlag, hphilicFlag, hphobicFlag = "","",""
+    for i in range(4, len(sys.argv)):
+        flag = sys.argv[i].lower()
+        if(flag == "-em"):
+            emFlag = flag + " "
+        elif(flag == "-hphilic"):
+            hphilicFlag = flag + " "
+        elif(flag == "-hphobic"):
+            hphobicFlag = flag + " "
 
+    startTime = time.time()
+    print("Grabbing PDB files and mutating...")
+    
     callMultiMutant(sys.argv)
     gatherPDBs(sys.argv, TEMP_F)
-    mutateDirectory(sys.argv)
+    mutateDirectory(sys.argv, emFlag, hphilicFlag, hphobicFlag)
     
     midTime = time.time()
     removeRedundants('D_' + getPath(sys.argv), sys.argv)
