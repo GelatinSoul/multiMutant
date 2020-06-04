@@ -51,15 +51,15 @@ def initialize(pdbID, chainID, start, end):
     FASTA_SEQ = sequence
     PDB_DICT[FASTA_SEQ] = ""
        
-def callProMute(pdbID, chainID, start, end, em = "no ", hphilic = "", hphobic = ""):
+def callProMute(pdbID, chainID, start, end, em = "no", hphilic = "", hphobic = ""):
     os.chdir('promute')
     print("Gathering PDB files and mutating...\n")
     callProMuteHelper(FASTA_SEQ, pdbID, chainID, start, end, 1, em, hphilic, hphobic)
     os.chdir('..')
 
 def callProMuteHelper(seq, pdbID, chainID, start, end, mutationNumber, em, hphilic, hphobic):
-    #global PDB_SINGLE_DICT #Specifying global seems to have no affect...
-    #global PDB_DICT
+    global PDB_SINGLE_DICT #Specifying some of these seem to do nothing. You at least need to specify REMOVALS though
+    global PDB_DICT
     global REMOVALS
     global CHILD_PIDS
     for residueNum in range(end-start+1):
@@ -77,7 +77,7 @@ def callProMuteHelper(seq, pdbID, chainID, start, end, mutationNumber, em, hphil
                     #print("\n-----SINGLE MUTATION-----")
                     #print(command)
                     #print(newPdbID)
-                    PDB_SINGLE_DICT[newSeq] = pdbID
+                    PDB_SINGLE_DICT[newSeq] = ""
                     #os.system(command)
                     subprocess.call(command, stdout = DEV_NULL, shell = True)
                     callProMuteHelper(newSeq, newPdbID, chainID, start, end, 2, em, hphilic, hphobic)
@@ -128,6 +128,7 @@ def movePDBs(em):
 
 def cleanProMute(pdbID):
     os.chdir('promute')
+    print("\nDeleting leftover files...")
     os.system('rm -rf %s*' % (pdbID))
     os.chdir('..')
 
@@ -161,6 +162,7 @@ def main():
     
     for i, child in enumerate(CHILD_PIDS):
         os.waitpid(child, 0)
+        
     movePDBs(emFlag)
     cleanProMute(sys.argv[1])
     print("\nTime elapsed: %f minutes" % ((time.time() - startTime) / 60))
