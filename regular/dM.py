@@ -1,6 +1,7 @@
 import sys
 import os
 import subprocess
+import threading
 import requests
 import time
 
@@ -12,13 +13,17 @@ FASTA_SEQ = ""
 aminoIndex = {
     0:'a', 1:'r', 2:'n', 3:'d', 4:'c', 5:'q', 6:'e', 7:'g', 8:'h', 9:'i',
     10:'l', 11:'k', 12:'m', 13:'f', 14:'p', 15:'s', 16:'t', 17:'w', 18:'y', 19:'v'}
-#aminoIndex = {0:'k', 1:'m', 2:'n', 3:'d'}
 
 PDB_DICT = {}
 PDB_SINGLE_DICT = {}
 REMOVALS = 0
 DEV_NULL = open(os.devnull, 'w')
-CHILD_PIDS = []
+
+THREADS = []
+PROMUTES = {0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0} #We have 8 Promute folders. May change to 16 later...
+MAXTHREADS = len(PROMUTES) + 1 #The 1 is because onf of the threads is the original
+SEMA = threading.BoundedSemaphore(len(PROMUTES))
+MUTEX = threading.Lock()
 
 ##
 #Helper functions
@@ -92,25 +97,40 @@ def callProMuteHelper(seq, pdbID, chainID, start, end, mutationNumber, em, hphil
                 #elif mutationNumber == 2:
                 elif not newSeq in PDB_DICT and mutationNumber == 2:
                     PDB_DICT[newSeq] = newPdbID
-                    
-                    newPID = os.fork()
-                    if newPID == 0: #Child Process
-                        #print("\n-----SECOND MUTATION-----")
-                        #print(command)
-                        #print(newPdbID)
-                        #subprocess.call(command, shell = True)
-                        subprocess.call(command, stdout = DEV_NULL, shell = True)
-                        #createDir(newPdbID + '_out')
-                        #print("Moving files into an %s_out" % (newPdbID))
-                        #os.system('mv %s.fasta.txt %s.pdb %s_out' %(newPdbID, newPdbID, newPdbID))
-                        #if em == "em ":
-                            #os.system('mv %s_em.pdb %s_out' %(newPdbID, newPdbID))
-                        #print("Moving %s_out to the ../%s" % (newPdbID, D_DIR))
-                        #os.system('mv %s_out ../%s' %(newPdbID, D_DIR))
-                        os._exit(0)
-                    else:
-                        CHILD_PIDS.append(newPID)
 
+                    command_wrapper = [command, pdbID, newPdbID]
+                    t = threading.Thread(target=proMuteThreadWrapper, args = command_wrapper)
+                    THREADS.append(t)
+                    while not t.is_alive():
+                        #time.sleep(1)
+                        if threading.active_count() < MAXTHREADS:
+                           t.start() #We create a thread.
+                           break
+
+
+def proMuteThreadWrapper(command, pdbID, newPdbID):
+    threadData = threading.local()
+    threadData.i = -1
+    SEMA.acquire()
+    while threadData.i == -1:
+        MUTEX.acquire()
+        for x, y in PROMUTES.items():
+            if y == 0:
+                PROMUTES[x] = 1
+                threadData.i = x
+                print(PROMUTES)
+                break
+        MUTEX.release()
+
+    command = './promute_' + str(threadData.i) + '/' + command
+    
+    subprocess.call(command, shell = True)    
+
+    MUTEX.acquire()
+    PROMUTES[threadData.i] = 0
+    MUTEX.release()
+    SEMA.release()
+    
 def movePDBs(em):
     os.chdir('promute')
     print("\nOrganizing and moving files over...") 
@@ -160,9 +180,9 @@ def main():
     startTime = time.time()
     callProMute(sys.argv[1], sys.argv[2], r[0], r[1] - 1, emFlag, hphilicFlag, hphobicFlag)
     
-    for i, child in enumerate(CHILD_PIDS):
-        os.waitpid(child, 0)
-        
+    for t in THREADS:
+        t.join()
+    
     movePDBs(emFlag)
     cleanProMute(sys.argv[1])
     print("\nTime elapsed: %f minutes" % ((time.time() - startTime) / 60))
