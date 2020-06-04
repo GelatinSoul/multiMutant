@@ -75,7 +75,7 @@ allTargets() {
 # Download and build proMute if it doesn't exist
 if [ ! -d promute ];
 then
-	git clone https://gitlab.cs.wwu.edu/tianw/promute.git
+	git clone https://gitlab.cs.wwu.edu/carpend3/promute.git
 	cd promute
 	make
 	cd ..
