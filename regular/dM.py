@@ -18,6 +18,7 @@ PDB_DICT = {}
 PDB_SINGLE_DICT = {}
 REMOVALS = 0
 DEV_NULL = open(os.devnull, 'w')
+CHILD_PIDS = []
 
 ##
 #Helper functions
@@ -72,9 +73,9 @@ def callProMuteHelper(seq, pdbID, chainID, start, end, mutationNumber, em, hphil
                 command = "./proMute " + parameters
                 newPdbID = ("%s.%s%d%s" % (pdbID, chainID, residueNum + start + 1, targetResidue)).upper()
                 if mutationNumber == 1:
-                    print("\n-----SINGLE MUTATION-----")
-                    print(command)
-                    print(newPdbID)
+                    #print("\n-----SINGLE MUTATION-----")
+                    #print(command)
+                    #print(newPdbID)
                     PDB_SINGLE_DICT[newSeq] = pdbID
                     #os.system(command)
                     subprocess.call(command, stdout = DEV_NULL, shell = True)
@@ -93,18 +94,21 @@ def callProMuteHelper(seq, pdbID, chainID, start, end, mutationNumber, em, hphil
                     
                     newPID = os.fork()
                     if newPID == 0: #Child Process
-                        print("\n-----SECOND MUTATION-----")
-                        print(command)
-                        print(newPdbID)
+                        #print("\n-----SECOND MUTATION-----")
+                        #print(command)
+                        #print(newPdbID)
+                        #subprocess.call(command, shell = True)
                         subprocess.call(command, stdout = DEV_NULL, shell = True)
                         #createDir(newPdbID + '_out')
-                        print("Moving files into an %s_out" % (newPdbID))
+                        #print("Moving files into an %s_out" % (newPdbID))
                         #os.system('mv %s.fasta.txt %s.pdb %s_out' %(newPdbID, newPdbID, newPdbID))
                         #if em == "em ":
                             #os.system('mv %s_em.pdb %s_out' %(newPdbID, newPdbID))
-                        print("Moving %s_out to the ../%s" % (newPdbID, D_DIR))
+                        #print("Moving %s_out to the ../%s" % (newPdbID, D_DIR))
                         #os.system('mv %s_out ../%s' %(newPdbID, D_DIR))
                         os._exit(0)
+                    else:
+                        CHILD_PIDS.append(newPID)
 
 #Delete this
 def movePDBs(em):
@@ -113,8 +117,12 @@ def movePDBs(em):
     for newPdbID in PDB_DICT.values():
         createDir(newPdbID + '_out')
         os.system('mv %s.fasta.txt %s.pdb %s_out' %(newPdbID, newPdbID, newPdbID))
-        if(em == "em "):
-            os.system('mv %s_em.pdb %s_out' %(newPdbID, newPdbID))
+        if(em == "em" or em == "srem"): #Unsure if it captures all possibilities
+            try:
+                os.system('mv %s_em.pdb %s_out' %(newPdbID, newPdbID))
+            except:
+                #This should ONLY happen when using srem, since not every file gets energy minimized.
+                pass
         os.system('mv %s_out ../%s' %(newPdbID, D_DIR))
     os.chdir('..')
 
@@ -136,7 +144,7 @@ def main():
 
     sys.argv[1] = sys.argv[1].upper()
     sys.argv[2] = sys.argv[2].upper()
-    emFlag, hphilicFlag, hphobicFlag = "no ", "", ""
+    emFlag, hphilicFlag, hphobicFlag = "no", "", ""
     for i in range (4, len(sys.argv)):
         flag = sys.argv[i].lower()
         if flag == "em":
@@ -151,21 +159,12 @@ def main():
     startTime = time.time()
     callProMute(sys.argv[1], sys.argv[2], r[0], r[1] - 1, emFlag, hphilicFlag, hphobicFlag)
     
-    pid = os.getpid()
-    try:
-        os.waitpid(pid, 0)
-    except:
-        print("Yay")
-
+    for i, child in enumerate(CHILD_PIDS):
+        os.waitpid(child, 0)
     movePDBs(emFlag)
     cleanProMute(sys.argv[1])
     print("\nTime elapsed: %f minutes" % ((time.time() - startTime) / 60))
-    print("Folder is %s" % (D_DIR)) 
-
-    print(len(PDB_SINGLE_DICT))
-    print(len(PDB_DICT))
-    print(REMOVALS)
-    
+    print("Folder is %s" % (D_DIR))   
     
 if __name__ == "__main__":
     main()
