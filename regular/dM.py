@@ -161,13 +161,13 @@ def main():
     for i in range (4, len(sys.argv)):
         flag = sys.argv[i].lower()
         if flag == "em" or flag == "-em":
-            emFlag = flag
+            emFlag = "em"
         elif flag == "srem" or flag == "-srem":
-            emFlag = flag
+            emFlag = "srem"
         elif flag == "hphilic" or flag == "-hphilic":
-            hphilicFlag = flag 
+            hphilicFlag = "hphilic" 
         elif flag == "hphobic" or flag == "-hphobic":
-            hphobicFlag = flag
+            hphobicFlag = "hphobic"
     
     startTime = time.time()
     callProMute(sys.argv[1], sys.argv[2], r[0], r[1] - 1, emFlag, hphilicFlag, hphobicFlag)
