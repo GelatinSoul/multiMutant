@@ -28,7 +28,7 @@ def main():
     pdbID = sys.argv[1]
     chainID = sys.argv[2]
     r = getRange(sys.argv[3])
-    filename = "D_"+pdbID+chainID+str(r[0] + 1)+":"+str(r[1])+"_out"
+    filename = "D_"+pdbID+"."+chainID+"."+str(r[0] + 1)+"_"+str(r[1])
     if len(sys.argv) == 5:
         em = sys.argv[4]
     else:

@@ -72,7 +72,7 @@ def callProMuteHelper(seq, pdbID, chainID, start, end, mutationNumber, em, hphil
                 if mutationNumber == 1:
                     parameters = "%s %s %d %s %s %s %s" % (pdbID, chainID, residueNum + start + 1, targetResidue, "no", "", "")
                 else:
-                    parameters = "%s %s %d %s %s %s %s" % (pdbID, chainID, residueNum + start + 1, targetResidue, em, hphilic, hphobic)
+                    parameters = "%s %s %d %s %s %s %s" % (pdbID, chainID, residueNum + start + 1, targetResidue, "em", hphilic, hphobic)
                 command = "./proMute " + parameters
                 newPdbID = ("%s.%s%d%s" % (pdbID, chainID, residueNum + start + 1, targetResidue)).upper()
                 if mutationNumber == 1:
@@ -113,7 +113,7 @@ def proMuteThreadWrapper(command, pdbID, newPdbID):
 
     os.system('cp ./%s.pdb ./promute_%s' % (pdbID, threadData.i))
     command = './promute_' + str(threadData.i) + '/' + command
-    
+    print(command)
     subprocess.call(command, stdout = DEV_NULL, shell = True)    
 
     MUTEX.acquire()
@@ -126,13 +126,16 @@ def movePDBs(em):
     print("\nOrganizing and moving files over...") 
     for newPdbID in PDB_DICT.values():
         createDir(newPdbID + '_out')
-        os.system('mv %s.fasta.txt %s.pdb %s_out' %(newPdbID, newPdbID, newPdbID))
-        if(em == "em" or em == "srem"): #Unsure if it captures all possibilities. This may break if someone uses weird options or commands
-            try:
-                os.system('mv %s_em.pdb %s_out' %(newPdbID, newPdbID))
-            except:
+        os.system('mv %s.fasta.txt %s.pdb %s_em.pdb %s_out' %(newPdbID, newPdbID, newPdbID, newPdbID))
+        
+        ## Commented out this block of code to ensure that it always copies over the em.pdb
+        
+        #if(em == "em" or em == "srem"): #Unsure if it captures all possibilities. This may break if someone uses weird options or commands
+            #try:
+        #os.system('mv %s_em.pdb %s_out' %(newPdbID, newPdbID))
+           # except:
                 #This should ONLY happen when using srem, since not every file gets energy minimized.
-                pass
+            #    pass
         os.system('mv %s_out ../%s' %(newPdbID, D_DIR))
     os.chdir('..')
 

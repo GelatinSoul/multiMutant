@@ -1,0 +1,2118 @@
+1CRN.pdb	A	4	C	Error: No mutation needed
+1CRN.pdb	A	3	C	Error: No mutation needed
+1CRN.pdb	A	4	S	Not L->S	Single Chain	Scwrl	1CRN.A4S.pdb	Forced: Skipped
+1CRN.pdb	A	4	T	Not L->S	Single Chain	Scwrl	1CRN.A4T.pdb	Forced: Skipped
+1CRN.pdb	A	3	A	L->S	Single Chain	Scwrl	1CRN.A3A.pdb	Forced: Skipped
+1CRN.pdb	A	3	N	Not L->S	Single Chain	Scwrl	1CRN.A3N.pdb	Forced: Skipped
+1CRN.pdb	A	4	V	Not L->S	Single Chain	Scwrl	1CRN.A4V.pdb	Forced: Skipped
+1CRN.pdb	A	3	W	Not L->S	Single Chain	Scwrl	1CRN.A3W.pdb	Forced: Skipped
+1CRN.pdb	A	3	Q	Not L->S	Single Chain	Scwrl	1CRN.A3Q.pdb	Forced: Skipped
+1CRN.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	1CRN.A3Y.pdb	Forced: Skipped
+1CRN.pdb	A	3	M	Not L->S	Single Chain	Scwrl	1CRN.A3M.pdb	Forced: Skipped
+1CRN.pdb	A	3	I	Not L->S	Single Chain	Scwrl	1CRN.A3I.pdb	Forced: Skipped
+1CRN.pdb	A	4	A	L->S	Single Chain	Scwrl	1CRN.A4A.pdb	Forced: Skipped
+1CRN.pdb	A	3	S	Not L->S	Single Chain	Scwrl	1CRN.A3S.pdb	Forced: Skipped
+1CRN.pdb	A	3	V	Not L->S	Single Chain	Scwrl	1CRN.A3V.pdb	Forced: Skipped
+1CRN.pdb	A	4	G	L->S	Single Chain	Scwrl	1CRN.A4G.pdb	Forced: Skipped
+1CRN.pdb	A	3	P	Not L->S	Single Chain	Scwrl	1CRN.A3P.pdb	Forced: Skipped
+1CRN.pdb	A	3	F	Not L->S	Single Chain	Scwrl	1CRN.A3F.pdb	Forced: Skipped
+1CRN.pdb	A	3	D	Not L->S	Single Chain	Scwrl	1CRN.A3D.pdb	Forced: Skipped
+1CRN.pdb	A	4	L	Not L->S	Single Chain	Scwrl	1CRN.A4L.pdb	Forced: Skipped
+1CRN.pdb	A	4	P	Not L->S	Single Chain	Scwrl	1CRN.A4P.pdb	Forced: Skipped
+1CRN.pdb	A	4	I	Not L->S	Single Chain	Scwrl	1CRN.A4I.pdb	Forced: Skipped
+1CRN.pdb	A	4	M	Not L->S	Single Chain	Scwrl	1CRN.A4M.pdb	Forced: Skipped
+1CRN.pdb	A	3	L	Not L->S	Single Chain	Scwrl	1CRN.A3L.pdb	Forced: Skipped
+1CRN.pdb	A	4	W	Not L->S	Single Chain	Scwrl	1CRN.A4W.pdb	Forced: Skipped
+1CRN.pdb	A	4	E	Not L->S	Single Chain	Scwrl	1CRN.A4E.pdb	Forced: Skipped
+1CRN.pdb	A	3	G	L->S	Single Chain	Scwrl	1CRN.A3G.pdb	Forced: Skipped
+1CRN.pdb	A	3	E	Not L->S	Single Chain	Scwrl	1CRN.A3E.pdb	Forced: Skipped
+1CRN.pdb	A	4	F	Not L->S	Single Chain	Scwrl	1CRN.A4F.pdb	Forced: Skipped
+1CRN.pdb	A	3	K	Not L->S	Single Chain	Scwrl	1CRN.A3K.pdb	Forced: Skipped
+1CRN.pdb	A	4	D	Not L->S	Single Chain	Scwrl	1CRN.A4D.pdb	Forced: Skipped
+1CRN.pdb	A	3	H	Not L->S	Single Chain	Scwrl	1CRN.A3H.pdb	Forced: Skipped
+1CRN.pdb	A	4	Y	Not L->S	Single Chain	Scwrl	1CRN.A4Y.pdb	Forced: Skipped
+1CRN.pdb	A	4	N	Not L->S	Single Chain	Scwrl	1CRN.A4N.pdb	Forced: Skipped
+1CRN.pdb	A	3	T	Not L->S	Single Chain	Scwrl	1CRN.A3T.pdb	Forced: Skipped
+1CRN.pdb	A	4	Q	Not L->S	Single Chain	Scwrl	1CRN.A4Q.pdb	Forced: Skipped
+1CRN.pdb	A	3	R	Not L->S	Single Chain	Scwrl	1CRN.A3R.pdb	Forced: Skipped
+1CRN.pdb	A	4	K	Not L->S	Single Chain	Scwrl	1CRN.A4K.pdb	Forced: Skipped
+1CRN.pdb	A	4	H	Not L->S	Single Chain	Scwrl	1CRN.A4H.pdb	Forced: Skipped
+1CRN.pdb	A	4	R	Not L->S	Single Chain	Scwrl	1CRN.A4R.pdb	Forced: Skipped
+1CRN.pdb	A	3	C	Error: No mutation needed
+1CRN.pdb	A	4	C	Error: No mutation needed
+1CRN.pdb	A	3	G	L->S	Single Chain	Scwrl	1CRN.A3G.pdb	Forced: Skipped
+1CRN.pdb	A	3	S	Not L->S	Single Chain	Scwrl	1CRN.A3S.pdb	Forced: Skipped
+1CRN.pdb	A	3	T	Not L->S	Single Chain	Scwrl	1CRN.A3T.pdb	Forced: Skipped
+1CRN.pdb	A	3	K	Not L->S	Single Chain	Scwrl	1CRN.A3K.pdb	Forced: Skipped
+1CRN.pdb	A	4	Q	Not L->S	Single Chain	Scwrl	1CRN.A4Q.pdb	Forced: Skipped
+1CRN.pdb	A	3	A	L->S	Single Chain	Scwrl	1CRN.A3A.pdb	Forced: Skipped
+1CRN.pdb	A	4	P	Not L->S	Single Chain	Scwrl	1CRN.A4P.pdb	Forced: Skipped
+1CRN.pdb	A	4	Y	Not L->S	Single Chain	Scwrl	1CRN.A4Y.pdb	Forced: Skipped
+1CRN.pdb	A	4	A	L->S	Single Chain	Scwrl	1CRN.A4A.pdb	Forced: Skipped
+1CRN.pdb	A	4	T	Not L->S	Single Chain	Scwrl	1CRN.A4T.pdb	Forced: Skipped
+1CRN.pdb	A	3	M	Not L->S	Single Chain	Scwrl	1CRN.A3M.pdb	Forced: Skipped
+1CRN.pdb	A	3	I	Not L->S	Single Chain	Scwrl	1CRN.A3I.pdb	Forced: Skipped
+1CRN.pdb	A	3	P	Not L->S	Single Chain	Scwrl	1CRN.A3P.pdb	Forced: Skipped
+1CRN.pdb	A	4	L	Not L->S	Single Chain	Scwrl	1CRN.A4L.pdb	Forced: Skipped
+1CRN.pdb	A	3	L	Not L->S	Single Chain	Scwrl	1CRN.A3L.pdb	Forced: Skipped
+1CRN.pdb	A	3	V	Not L->S	Single Chain	Scwrl	1CRN.A3V.pdb	Forced: Skipped
+1CRN.pdb	A	4	I	Not L->S	Single Chain	Scwrl	1CRN.A4I.pdb	Forced: Skipped
+1CRN.pdb	A	3	D	Not L->S	Single Chain	Scwrl	1CRN.A3D.pdb	Forced: Skipped
+1CRN.pdb	A	3	W	Not L->S	Single Chain	Scwrl	1CRN.A3W.pdb	Forced: Skipped
+1CRN.pdb	A	4	G	L->S	Single Chain	Scwrl	1CRN.A4G.pdb	Forced: Skipped
+1CRN.pdb	A	3	E	Not L->S	Single Chain	Scwrl	1CRN.A3E.pdb	Forced: Skipped
+1CRN.pdb	A	3	F	Not L->S	Single Chain	Scwrl	1CRN.A3F.pdb	Forced: Skipped
+1CRN.pdb	A	4	F	Not L->S	Single Chain	Scwrl	1CRN.A4F.pdb	Forced: Skipped
+1CRN.pdb	A	4	M	Not L->S	Single Chain	Scwrl	1CRN.A4M.pdb	Forced: Skipped
+1CRN.pdb	A	4	S	Not L->S	Single Chain	Scwrl	1CRN.A4S.pdb	Forced: Skipped
+1CRN.pdb	A	3	H	Not L->S	Single Chain	Scwrl	1CRN.A3H.pdb	Forced: Skipped
+1CRN.pdb	A	4	R	Not L->S	Single Chain	Scwrl	1CRN.A4R.pdb	Forced: Skipped
+1CRN.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	1CRN.A3Y.pdb	Forced: Skipped
+1CRN.pdb	A	4	W	Not L->S	Single Chain	Scwrl	1CRN.A4W.pdb	Forced: Skipped
+1CRN.pdb	A	3	N	Not L->S	Single Chain	Scwrl	1CRN.A3N.pdb	Forced: Skipped
+1CRN.pdb	A	4	V	Not L->S	Single Chain	Scwrl	1CRN.A4V.pdb	Forced: Skipped
+1CRN.pdb	A	3	R	Not L->S	Single Chain	Scwrl	1CRN.A3R.pdb	Forced: Skipped
+1CRN.pdb	A	4	D	Not L->S	Single Chain	Scwrl	1CRN.A4D.pdb	Forced: Skipped
+1CRN.pdb	A	4	E	Not L->S	Single Chain	Scwrl	1CRN.A4E.pdb	Forced: Skipped
+1CRN.pdb	A	3	Q	Not L->S	Single Chain	Scwrl	1CRN.A3Q.pdb	Forced: Skipped
+1CRN.pdb	A	4	H	Not L->S	Single Chain	Scwrl	1CRN.A4H.pdb	Forced: Skipped
+1CRN.pdb	A	4	N	Not L->S	Single Chain	Scwrl	1CRN.A4N.pdb	Forced: Skipped
+1CRN.pdb	A	4	K	Not L->S	Single Chain	Scwrl	1CRN.A4K.pdb	Forced: Skipped
+1CRN.pdb	A	4	C	Error: No mutation needed
+1CRN.pdb	A	3	C	Error: No mutation needed
+1CRN.pdb	A	3	A	L->S	Single Chain	Scwrl	1CRN.A3A.pdb	Forced: Skipped
+1CRN.pdb	A	3	V	Not L->S	Single Chain	Scwrl	1CRN.A3V.pdb	Forced: Skipped
+1CRN.pdb	A	3	P	Not L->S	Single Chain	Scwrl	1CRN.A3P.pdb	Forced: Skipped
+1CRN.pdb	A	4	A	L->S	Single Chain	Scwrl	1CRN.A4A.pdb	Forced: Skipped
+1CRN.pdb	A	3	L	Not L->S	Single Chain	Scwrl	1CRN.A3L.pdb	Forced: Skipped
+1CRN.pdb	A	4	P	Not L->S	Single Chain	Scwrl	1CRN.A4P.pdb	Forced: Skipped
+1CRN.pdb	A	3	G	L->S	Single Chain	Scwrl	1CRN.A3G.pdb	Forced: Skipped
+1CRN.pdb	A	4	L	Not L->S	Single Chain	Scwrl	1CRN.A4L.pdb	Forced: Skipped
+1CRN.pdb	A	3	S	Not L->S	Single Chain	Scwrl	1CRN.A3S.pdb	Forced: Skipped
+1CRN.pdb	A	4	I	Not L->S	Single Chain	Scwrl	1CRN.A4I.pdb	Forced: Skipped
+1CRN.pdb	A	4	V	Not L->S	Single Chain	Scwrl	1CRN.A4V.pdb	Forced: Skipped
+1CRN.pdb	A	4	G	L->S	Single Chain	Scwrl	1CRN.A4G.pdb	Forced: Skipped
+1CRN.pdb	A	3	M	Not L->S	Single Chain	Scwrl	1CRN.A3M.pdb	Forced: Skipped
+1CRN.pdb	A	4	M	Not L->S	Single Chain	Scwrl	1CRN.A4M.pdb	Forced: Skipped
+1CRN.pdb	A	3	I	Not L->S	Single Chain	Scwrl	1CRN.A3I.pdb	Forced: Skipped
+1CRN.pdb	A	4	W	Not L->S	Single Chain	Scwrl	1CRN.A4W.pdb	Forced: Skipped
+1CRN.pdb	A	3	F	Not L->S	Single Chain	Scwrl	1CRN.A3F.pdb	Forced: Skipped
+1CRN.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	1CRN.A3Y.pdb	Forced: Skipped
+1CRN.pdb	A	4	T	Not L->S	Single Chain	Scwrl	1CRN.A4T.pdb	Forced: Skipped
+1CRN.pdb	A	3	T	Not L->S	Single Chain	Scwrl	1CRN.A3T.pdb	Forced: Skipped
+1CRN.pdb	A	4	D	Not L->S	Single Chain	Scwrl	1CRN.A4D.pdb	Forced: Skipped
+1CRN.pdb	A	4	S	Not L->S	Single Chain	Scwrl	1CRN.A4S.pdb	Forced: Skipped
+1CRN.pdb	A	3	W	Not L->S	Single Chain	Scwrl	1CRN.A3W.pdb	Forced: Skipped
+1CRN.pdb	A	4	E	Not L->S	Single Chain	Scwrl	1CRN.A4E.pdb	Forced: Skipped
+1CRN.pdb	A	3	D	Not L->S	Single Chain	Scwrl	1CRN.A3D.pdb	Forced: Skipped
+1CRN.pdb	A	3	E	Not L->S	Single Chain	Scwrl	1CRN.A3E.pdb	Forced: Skipped
+1CRN.pdb	A	4	F	Not L->S	Single Chain	Scwrl	1CRN.A4F.pdb	Forced: Skipped
+1CRN.pdb	A	3	H	Not L->S	Single Chain	Scwrl	1CRN.A3H.pdb	Forced: Skipped
+1CRN.pdb	A	3	K	Not L->S	Single Chain	Scwrl	1CRN.A3K.pdb	Forced: Skipped
+1CRN.pdb	A	4	N	Not L->S	Single Chain	Scwrl	1CRN.A4N.pdb	Forced: Skipped
+1CRN.pdb	A	4	Q	Not L->S	Single Chain	Scwrl	1CRN.A4Q.pdb	Forced: Skipped
+1CRN.pdb	A	4	R	Not L->S	Single Chain	Scwrl	1CRN.A4R.pdb	Forced: Skipped
+1CRN.pdb	A	3	N	Not L->S	Single Chain	Scwrl	1CRN.A3N.pdb	Forced: Skipped
+1CRN.pdb	A	4	K	Not L->S	Single Chain	Scwrl	1CRN.A4K.pdb	Forced: Skipped
+1CRN.pdb	A	4	Y	Not L->S	Single Chain	Scwrl	1CRN.A4Y.pdb	Forced: Skipped
+1CRN.pdb	A	4	H	Not L->S	Single Chain	Scwrl	1CRN.A4H.pdb	Forced: Skipped
+1CRN.pdb	A	3	R	Not L->S	Single Chain	Scwrl	1CRN.A3R.pdb	Forced: Skipped
+1CRN.pdb	A	3	Q	Not L->S	Single Chain	Scwrl	1CRN.A3Q.pdb	Forced: Skipped
+1CRN.pdb	A	3	C	Error: No mutation needed
+1CRN.pdb	A	4	C	Error: No mutation needed
+1CRN.pdb	A	3	I	Not L->S	Single Chain	Scwrl	1CRN.A3I.pdb	Forced: Skipped
+1CRN.pdb	A	3	L	Not L->S	Single Chain	Scwrl	1CRN.A3L.pdb	Forced: Skipped
+1CRN.pdb	A	3	P	Not L->S	Single Chain	Scwrl	1CRN.A3P.pdb	Forced: Skipped
+1CRN.pdb	A	3	M	Not L->S	Single Chain	Scwrl	1CRN.A3M.pdb	Forced: Skipped
+1CRN.pdb	A	3	S	Not L->S	Single Chain	Scwrl	1CRN.A3S.pdb	Forced: Skipped
+1CRN.pdb	A	4	P	Not L->S	Single Chain	Scwrl	1CRN.A4P.pdb	Forced: Skipped
+1CRN.pdb	A	3	E	Not L->S	Single Chain	Scwrl	1CRN.A3E.pdb	Forced: Skipped
+1CRN.pdb	A	3	G	L->S	Single Chain	Scwrl	1CRN.A3G.pdb	Forced: Skipped
+1CRN.pdb	A	3	N	Not L->S	Single Chain	Scwrl	1CRN.A3N.pdb	Forced: Skipped
+1CRN.pdb	A	4	L	Not L->S	Single Chain	Scwrl	1CRN.A4L.pdb	Forced: Skipped
+1CRN.pdb	A	3	T	Not L->S	Single Chain	Scwrl	1CRN.A3T.pdb	Forced: Skipped
+1CRN.pdb	A	3	V	Not L->S	Single Chain	Scwrl	1CRN.A3V.pdb	Forced: Skipped
+1CRN.pdb	A	3	A	L->S	Single Chain	Scwrl	1CRN.A3A.pdb	Forced: Skipped
+1CRN.pdb	A	4	K	Not L->S	Single Chain	Scwrl	1CRN.A4K.pdb	Forced: Skipped
+1CRN.pdb	A	4	S	Not L->S	Single Chain	Scwrl	1CRN.A4S.pdb	Forced: Skipped
+1CRN.pdb	A	3	R	Not L->S	Single Chain	Scwrl	1CRN.A3R.pdb	Forced: Skipped
+1CRN.pdb	A	4	F	Not L->S	Single Chain	Scwrl	1CRN.A4F.pdb	Forced: Skipped
+1CRN.pdb	A	4	A	L->S	Single Chain	Scwrl	1CRN.A4A.pdb	Forced: Skipped
+1CRN.pdb	A	4	M	Not L->S	Single Chain	Scwrl	1CRN.A4M.pdb	Forced: Skipped
+1CRN.pdb	A	4	I	Not L->S	Single Chain	Scwrl	1CRN.A4I.pdb	Forced: Skipped
+1CRN.pdb	A	3	W	Not L->S	Single Chain	Scwrl	1CRN.A3W.pdb	Forced: Skipped
+1CRN.pdb	A	3	D	Not L->S	Single Chain	Scwrl	1CRN.A3D.pdb	Forced: Skipped
+1CRN.pdb	A	3	F	Not L->S	Single Chain	Scwrl	1CRN.A3F.pdb	Forced: Skipped
+1CRN.pdb	A	4	T	Not L->S	Single Chain	Scwrl	1CRN.A4T.pdb	Forced: Skipped
+1CRN.pdb	A	3	Q	Not L->S	Single Chain	Scwrl	1CRN.A3Q.pdb	Forced: Skipped
+1CRN.pdb	A	4	G	L->S	Single Chain	Scwrl	1CRN.A4G.pdb	Forced: Skipped
+1CRN.pdb	A	4	V	Not L->S	Single Chain	Scwrl	1CRN.A4V.pdb	Forced: Skipped
+1CRN.pdb	A	3	H	Not L->S	Single Chain	Scwrl	1CRN.A3H.pdb	Forced: Skipped
+1CRN.pdb	A	4	E	Not L->S	Single Chain	Scwrl	1CRN.A4E.pdb	Forced: Skipped
+1CRN.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	1CRN.A3Y.pdb	Forced: Skipped
+1CRN.pdb	A	3	K	Not L->S	Single Chain	Scwrl	1CRN.A3K.pdb	Forced: Skipped
+1CRN.pdb	A	4	D	Not L->S	Single Chain	Scwrl	1CRN.A4D.pdb	Forced: Skipped
+1CRN.pdb	A	4	N	Not L->S	Single Chain	Scwrl	1CRN.A4N.pdb	Forced: Skipped
+1CRN.pdb	A	4	R	Not L->S	Single Chain	Scwrl	1CRN.A4R.pdb	Forced: Skipped
+1CRN.pdb	A	4	W	Not L->S	Single Chain	Scwrl	1CRN.A4W.pdb	Forced: Skipped
+1CRN.pdb	A	4	Y	Not L->S	Single Chain	Scwrl	1CRN.A4Y.pdb	Forced: Skipped
+1CRN.pdb	A	4	H	Not L->S	Single Chain	Scwrl	1CRN.A4H.pdb	Forced: Skipped
+1CRN.pdb	A	4	Q	Not L->S	Single Chain	Scwrl	1CRN.A4Q.pdb	Forced: Skipped
+6Y2E.pdb	A	135	A	L->S	Single Chain	Scwrl	6Y2E.A135A.pdb	Forced: Skipped
+6Y2E.pdb	A	135	A	L->S	Single Chain	Scwrl	6Y2E.A135A.pdb	Forced: Skipped
+6Y2E.pdb	A	135	A	L->S	Single Chain	Scwrl	6Y2E.A135A.pdb	Forced: Skipped
+6Y2E.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A13A.pdb	Forced: Skipped
+6Y2E.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A13R.pdb	Forced: Skipped
+6Y2E.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A13N.pdb	Forced: Skipped
+6Y2E.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A13D.pdb	Forced: Skipped
+6Y2E.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A13C.pdb	Forced: Skipped
+6Y2E.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A13Q.pdb	Forced: Skipped
+6Y2E.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A13E.pdb	Forced: Skipped
+6Y2E.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A13G.pdb	Forced: Skipped
+6Y2E.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A13H.pdb	Forced: Skipped
+6Y2E.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A13I.pdb	Forced: Skipped
+6Y2E.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A13L.pdb	Forced: Skipped
+6Y2E.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A13K.pdb	Forced: Skipped
+6Y2E.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A13M.pdb	Forced: Skipped
+6Y2E.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A13F.pdb	Forced: Skipped
+6Y2E.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A13P.pdb	Forced: Skipped
+6Y2E.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A13S.pdb	Forced: Skipped
+6Y2E.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A13T.pdb	Forced: Skipped
+6Y2E.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A13W.pdb	Forced: Skipped
+6Y2E.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A13Y.pdb	Forced: Skipped
+6Y2E.pdb	A	13	V	Error: No mutation needed
+6Y2E.pdb	A	14	A	L->S	Single Chain	Scwrl	6Y2E.A14A.pdb	Forced: Skipped
+6Y2E.pdb	A	14	R	Not L->S	Single Chain	Scwrl	6Y2E.A14R.pdb	Forced: Skipped
+6Y2E.pdb	A	14	N	L->S	Single Chain	Scwrl	6Y2E.A14N.pdb	Forced: Skipped
+6Y2E.pdb	A	14	D	L->S	Single Chain	Scwrl	6Y2E.A14D.pdb	Forced: Skipped
+6Y2E.pdb	A	14	C	L->S	Single Chain	Scwrl	6Y2E.A14C.pdb	Forced: Skipped
+6Y2E.pdb	A	14	Q	Not L->S	Single Chain	Scwrl	6Y2E.A14Q.pdb	Forced: Skipped
+6Y2E.pdb	A	14	E	Error: No mutation needed
+6Y2E.pdb	A	14	G	L->S	Single Chain	Scwrl	6Y2E.A14G.pdb	Forced: Skipped
+6Y2E.pdb	A	14	H	Not L->S	Single Chain	Scwrl	6Y2E.A14H.pdb	Forced: Skipped
+6Y2E.pdb	A	14	I	Not L->S	Single Chain	Scwrl	6Y2E.A14I.pdb	Forced: Skipped
+6Y2E.pdb	A	14	L	Not L->S	Single Chain	Scwrl	6Y2E.A14L.pdb	Forced: Skipped
+6Y2E.pdb	A	14	K	Not L->S	Single Chain	Scwrl	6Y2E.A14K.pdb	Forced: Skipped
+6Y2E.pdb	A	14	M	Not L->S	Single Chain	Scwrl	6Y2E.A14M.pdb	Forced: Skipped
+6Y2E.pdb	A	14	F	Not L->S	Single Chain	Scwrl	6Y2E.A14F.pdb	Forced: Skipped
+6Y2E.pdb	A	14	P	L->S	Single Chain	Scwrl	6Y2E.A14P.pdb	Forced: Skipped
+6Y2E.pdb	A	14	S	L->S	Single Chain	Scwrl	6Y2E.A14S.pdb	Forced: Skipped
+6Y2E.pdb	A	14	T	L->S	Single Chain	Scwrl	6Y2E.A14T.pdb	Forced: Skipped
+6Y2E.pdb	A	14	W	Not L->S	Single Chain	Scwrl	6Y2E.A14W.pdb	Forced: Skipped
+6Y2E.pdb	A	14	Y	Not L->S	Single Chain	Scwrl	6Y2E.A14Y.pdb	Forced: Skipped
+6Y2E.pdb	A	14	V	Not L->S	Single Chain	Scwrl	6Y2E.A14V.pdb	Forced: Skipped
+6Y2E.pdb	A	15	A	Not L->S	Single Chain	Scwrl	6Y2E.A15A.pdb	Forced: Skipped
+6Y2E.pdb	A	15	R	Not L->S	Single Chain	Scwrl	6Y2E.A15R.pdb	Forced: Skipped
+6Y2E.pdb	A	15	N	Not L->S	Single Chain	Scwrl	6Y2E.A15N.pdb	Forced: Skipped
+6Y2E.pdb	A	15	D	Not L->S	Single Chain	Scwrl	6Y2E.A15D.pdb	Forced: Skipped
+6Y2E.pdb	A	15	C	Not L->S	Single Chain	Scwrl	6Y2E.A15C.pdb	Forced: Skipped
+6Y2E.pdb	A	15	Q	Not L->S	Single Chain	Scwrl	6Y2E.A15Q.pdb	Forced: Skipped
+6Y2E.pdb	A	15	E	Not L->S	Single Chain	Scwrl	6Y2E.A15E.pdb	Forced: Skipped
+6Y2E.pdb	A	15	G	Error: No mutation needed
+6Y2E.pdb	A	15	H	Not L->S	Single Chain	Scwrl	6Y2E.A15H.pdb	Forced: Skipped
+6Y2E.pdb	A	15	I	Not L->S	Single Chain	Scwrl	6Y2E.A15I.pdb	Forced: Skipped
+6Y2E.pdb	A	15	L	Not L->S	Single Chain	Scwrl	6Y2E.A15L.pdb	Forced: Skipped
+6Y2E.pdb	A	15	K	Not L->S	Single Chain	Scwrl	6Y2E.A15K.pdb	Forced: Skipped
+6Y2E.pdb	A	15	M	Not L->S	Single Chain	Scwrl	6Y2E.A15M.pdb	Forced: Skipped
+6Y2E.pdb	A	15	F	Not L->S	Single Chain	Scwrl	6Y2E.A15F.pdb	Forced: Skipped
+6Y2E.pdb	A	15	P	Not L->S	Single Chain	Scwrl	6Y2E.A15P.pdb	Forced: Skipped
+6Y2E.pdb	A	15	S	Not L->S	Single Chain	Scwrl	6Y2E.A15S.pdb	Forced: Skipped
+6Y2E.pdb	A	15	T	Not L->S	Single Chain	Scwrl	6Y2E.A15T.pdb	Forced: Skipped
+6Y2E.pdb	A	15	W	Not L->S	Single Chain	Scwrl	6Y2E.A15W.pdb	Forced: Skipped
+6Y2E.pdb	A	15	Y	Not L->S	Single Chain	Scwrl	6Y2E.A15Y.pdb	Forced: Skipped
+6Y2E.pdb	A	15	V	Not L->S	Single Chain	Scwrl	6Y2E.A15V.pdb	Forced: Skipped
+6Y2E.pdb	A	16	A	L->S	Single Chain	Scwrl	6Y2E.A16A.pdb	Forced: Skipped
+6Y2E.pdb	A	16	R	Not L->S	Single Chain	Scwrl	6Y2E.A16R.pdb	Forced: Skipped
+6Y2E.pdb	A	16	N	Not L->S	Single Chain	Scwrl	6Y2E.A16N.pdb	Forced: Skipped
+6Y2E.pdb	A	16	D	Not L->S	Single Chain	Scwrl	6Y2E.A16D.pdb	Forced: Skipped
+6Y2E.pdb	A	16	C	Error: No mutation needed
+6Y2E.pdb	A	16	Q	Not L->S	Single Chain	Scwrl	6Y2E.A16Q.pdb	Forced: Skipped
+6Y2E.pdb	A	16	E	Not L->S	Single Chain	Scwrl	6Y2E.A16E.pdb	Forced: Skipped
+6Y2E.pdb	A	16	G	L->S	Single Chain	Scwrl	6Y2E.A16G.pdb	Forced: Skipped
+6Y2E.pdb	A	16	H	Not L->S	Single Chain	Scwrl	6Y2E.A16H.pdb	Forced: Skipped
+6Y2E.pdb	A	16	I	Not L->S	Single Chain	Scwrl	6Y2E.A16I.pdb	Forced: Skipped
+6Y2E.pdb	A	16	L	Not L->S	Single Chain	Scwrl	6Y2E.A16L.pdb	Forced: Skipped
+6Y2E.pdb	A	16	K	Not L->S	Single Chain	Scwrl	6Y2E.A16K.pdb	Forced: Skipped
+6Y2E.pdb	A	16	M	Not L->S	Single Chain	Scwrl	6Y2E.A16M.pdb	Forced: Skipped
+6Y2E.pdb	A	16	F	Not L->S	Single Chain	Scwrl	6Y2E.A16F.pdb	Forced: Skipped
+6Y2E.pdb	A	16	P	Not L->S	Single Chain	Scwrl	6Y2E.A16P.pdb	Forced: Skipped
+6Y2E.pdb	A	16	S	Not L->S	Single Chain	Scwrl	6Y2E.A16S.pdb	Forced: Skipped
+6Y2E.pdb	A	16	T	Not L->S	Single Chain	Scwrl	6Y2E.A16T.pdb	Forced: Skipped
+6Y2E.pdb	A	16	W	Not L->S	Single Chain	Scwrl	6Y2E.A16W.pdb	Forced: Skipped
+6Y2E.pdb	A	16	Y	Not L->S	Single Chain	Scwrl	6Y2E.A16Y.pdb	Forced: Skipped
+6Y2E.pdb	A	16	V	Not L->S	Single Chain	Scwrl	6Y2E.A16V.pdb	Forced: Skipped
+6Y2E.pdb	A	17	A	L->S	Single Chain	Scwrl	6Y2E.A17A.pdb	Forced: Skipped
+6Y2E.pdb	A	17	R	Not L->S	Single Chain	Scwrl	6Y2E.A17R.pdb	Forced: Skipped
+6Y2E.pdb	A	17	N	L->S	Single Chain	Scwrl	6Y2E.A17N.pdb	Forced: Skipped
+6Y2E.pdb	A	17	D	L->S	Single Chain	Scwrl	6Y2E.A17D.pdb	Forced: Skipped
+6Y2E.pdb	A	17	C	L->S	Single Chain	Scwrl	6Y2E.A17C.pdb	Forced: Skipped
+6Y2E.pdb	A	17	Q	Not L->S	Single Chain	Scwrl	6Y2E.A17Q.pdb	Forced: Skipped
+6Y2E.pdb	A	17	E	L->S	Single Chain	Scwrl	6Y2E.A17E.pdb	Forced: Skipped
+6Y2E.pdb	A	17	G	L->S	Single Chain	Scwrl	6Y2E.A17G.pdb	Forced: Skipped
+6Y2E.pdb	A	17	H	Not L->S	Single Chain	Scwrl	6Y2E.A17H.pdb	Forced: Skipped
+6Y2E.pdb	A	17	I	Not L->S	Single Chain	Scwrl	6Y2E.A17I.pdb	Forced: Skipped
+6Y2E.pdb	A	17	L	Not L->S	Single Chain	Scwrl	6Y2E.A17L.pdb	Forced: Skipped
+6Y2E.pdb	A	17	K	Not L->S	Single Chain	Scwrl	6Y2E.A17K.pdb	Forced: Skipped
+6Y2E.pdb	A	17	M	Error: No mutation needed
+6Y2E.pdb	A	17	F	Not L->S	Single Chain	Scwrl	6Y2E.A17F.pdb	Forced: Skipped
+6Y2E.pdb	A	17	P	L->S	Single Chain	Scwrl	6Y2E.A17P.pdb	Forced: Skipped
+6Y2E.pdb	A	17	S	L->S	Single Chain	Scwrl	6Y2E.A17S.pdb	Forced: Skipped
+6Y2E.pdb	A	17	T	L->S	Single Chain	Scwrl	6Y2E.A17T.pdb	Forced: Skipped
+6Y2E.pdb	A	17	W	Not L->S	Single Chain	Scwrl	6Y2E.A17W.pdb	Forced: Skipped
+6Y2E.pdb	A	17	Y	Not L->S	Single Chain	Scwrl	6Y2E.A17Y.pdb	Forced: Skipped
+6Y2E.pdb	A	17	V	L->S	Single Chain	Scwrl	6Y2E.A17V.pdb	Forced: Skipped
+6Y2E.pdb	A	12	A	L->S	Single Chain	Scwrl	6Y2E.A12A.pdb	Forced: Skipped
+6Y2E.pdb	A	12	R	Not L->S	Single Chain	Scwrl	6Y2E.A12R.pdb	Forced: Skipped
+6Y2E.pdb	A	12	N	L->S	Single Chain	Scwrl	6Y2E.A12N.pdb	Forced: Skipped
+6Y2E.pdb	A	12	D	L->S	Single Chain	Scwrl	6Y2E.A12D.pdb	Forced: Skipped
+6Y2E.pdb	A	12	C	L->S	Single Chain	Scwrl	6Y2E.A12C.pdb	Forced: Skipped
+6Y2E.pdb	A	12	Q	L->S	Single Chain	Scwrl	6Y2E.A12Q.pdb	Forced: Skipped
+6Y2E.pdb	A	12	E	L->S	Single Chain	Scwrl	6Y2E.A12E.pdb	Forced: Skipped
+6Y2E.pdb	A	12	G	L->S	Single Chain	Scwrl	6Y2E.A12G.pdb	Forced: Skipped
+6Y2E.pdb	A	12	H	L->S	Single Chain	Scwrl	6Y2E.A12H.pdb	Forced: Skipped
+6Y2E.pdb	A	12	I	L->S	Single Chain	Scwrl	6Y2E.A12I.pdb	Forced: Skipped
+6Y2E.pdb	A	12	L	L->S	Single Chain	Scwrl	6Y2E.A12L.pdb	Forced: Skipped
+6Y2E.pdb	A	12	K	Error: No mutation needed
+6Y2E.pdb	A	12	A	L->S	Single Chain	Scwrl	6Y2E.A12A.pdb	Forced: Skipped
+6Y2E.pdb	A	12	R	Not L->S	Single Chain	Scwrl	6Y2E.A12R.pdb	Forced: Skipped
+6Y2E.pdb	A	12	N	L->S	Single Chain	Scwrl	6Y2E.A12N.pdb	Forced: Skipped
+6Y2E.pdb	A	12	D	L->S	Single Chain	Scwrl	6Y2E.A12D.pdb	Forced: Skipped
+6Y2E.pdb	A	12	C	L->S	Single Chain	Scwrl	6Y2E.A12C.pdb	Forced: Skipped
+6Y2E.pdb	A	12	Q	L->S	Single Chain	Scwrl	6Y2E.A12Q.pdb	Forced: Skipped
+6Y2E.pdb	A	12	E	L->S	Single Chain	Scwrl	6Y2E.A12E.pdb	Forced: Skipped
+6Y2E.pdb	A	12	G	L->S	Single Chain	Scwrl	6Y2E.A12G.pdb	Forced: Skipped
+6Y2E.pdb	A	12	H	L->S	Single Chain	Scwrl	6Y2E.A12H.pdb	Forced: Skipped
+6Y2E.pdb	A	12	I	L->S	Single Chain	Scwrl	6Y2E.A12I.pdb	Forced: Skipped
+6Y2E.pdb	A	12	L	L->S	Single Chain	Scwrl	6Y2E.A12L.pdb	Forced: Skipped
+6Y2E.pdb	A	12	K	Error: No mutation needed
+6Y2E.pdb	A	12	M	L->S	Single Chain	Scwrl	6Y2E.A12M.pdb	Forced: Skipped
+6Y2E.pdb	A	12	F	L->S	Single Chain	Scwrl	6Y2E.A12F.pdb	Forced: Skipped
+6Y2E.pdb	A	12	P	L->S	Single Chain	Scwrl	6Y2E.A12P.pdb	Forced: Skipped
+6Y2E.pdb	A	12	S	L->S	Single Chain	Scwrl	6Y2E.A12S.pdb	Forced: Skipped
+6Y2E.pdb	A	12	T	L->S	Single Chain	Scwrl	6Y2E.A12T.pdb	Forced: Skipped
+6Y2E.pdb	A	12	W	Not L->S	Single Chain	Scwrl	6Y2E.A12W.pdb	Forced: Skipped
+6Y2E.pdb	A	12	A	L->S	Single Chain	Scwrl	6Y2E.A12A.pdb	Forced: Skipped
+6Y2E.pdb	A	12	R	Not L->S	Single Chain	Scwrl	6Y2E.A12R.pdb	Forced: Skipped
+6Y2E.pdb	A	12	N	L->S	Single Chain	Scwrl	6Y2E.A12N.pdb	Forced: Skipped
+6Y2E.pdb	A	12	D	L->S	Single Chain	Scwrl	6Y2E.A12D.pdb	Forced: Skipped
+6Y2E.pdb	A	12	C	L->S	Single Chain	Scwrl	6Y2E.A12C.pdb	Forced: Skipped
+6Y2E.pdb	A	12	Q	L->S	Single Chain	Scwrl	6Y2E.A12Q.pdb	Forced: Skipped
+6Y2E.pdb	A	12	A	L->S	Single Chain	Scwrl	6Y2E.A12A.pdb	Forced: Skipped
+6Y2E.pdb	A	12	A	L->S	Single Chain	Scwrl	6Y2E.A12A.pdb	Forced: Skipped
+6Y2E.pdb	A	12	R	Not L->S	Single Chain	Scwrl	6Y2E.A12R.pdb	Forced: Skipped
+6Y2E.pdb	A	12	N	L->S	Single Chain	Scwrl	6Y2E.A12N.pdb	Forced: Skipped
+6Y2E.pdb	A	12	D	L->S	Single Chain	Scwrl	6Y2E.A12D.pdb	Forced: Skipped
+6Y2E.pdb	A	12	C	L->S	Single Chain	Scwrl	6Y2E.A12C.pdb	Forced: Skipped
+6Y2E.pdb	A	12	Q	L->S	Single Chain	Scwrl	6Y2E.A12Q.pdb	Forced: Skipped
+6Y2E.pdb	A	12	E	L->S	Single Chain	Scwrl	6Y2E.A12E.pdb	Forced: Skipped
+6Y2E.pdb	A	12	G	L->S	Single Chain	Scwrl	6Y2E.A12G.pdb	Forced: Skipped
+6Y2E.pdb	A	12	H	L->S	Single Chain	Scwrl	6Y2E.A12H.pdb	Forced: Skipped
+6Y2E.pdb	A	12	I	L->S	Single Chain	Scwrl	6Y2E.A12I.pdb	Forced: Skipped
+6Y2E.pdb	A	12	L	L->S	Single Chain	Scwrl	6Y2E.A12L.pdb	Forced: Skipped
+6Y2E.pdb	A	12	K	Error: No mutation needed
+6Y2E.pdb	A	12	M	L->S	Single Chain	Scwrl	6Y2E.A12M.pdb	Forced: Skipped
+6Y2E.pdb	A	12	F	L->S	Single Chain	Scwrl	6Y2E.A12F.pdb	Forced: Skipped
+6Y2E.pdb	A	12	P	L->S	Single Chain	Scwrl	6Y2E.A12P.pdb	Forced: Skipped
+6Y2E.pdb	A	12	S	L->S	Single Chain	Scwrl	6Y2E.A12S.pdb	Forced: Skipped
+6Y2E.pdb	A	12	T	L->S	Single Chain	Scwrl	6Y2E.A12T.pdb	Forced: Skipped
+6Y2E.pdb	A	12	W	Not L->S	Single Chain	Scwrl	6Y2E.A12W.pdb	Forced: Skipped
+6Y2E.pdb	A	12	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12Y.pdb	Forced: Skipped
+6Y2E.pdb	A	12	V	L->S	Single Chain	Scwrl	6Y2E.A12V.pdb	Forced: Skipped
+6Y2E.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A13A.pdb	Forced: Skipped
+6Y2E.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A13R.pdb	Forced: Skipped
+6Y2E.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A13N.pdb	Forced: Skipped
+6Y2E.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A13D.pdb	Forced: Skipped
+6Y2E.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A13C.pdb	Forced: Skipped
+6Y2E.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A13Q.pdb	Forced: Skipped
+6Y2E.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A13E.pdb	Forced: Skipped
+6Y2E.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A13G.pdb	Forced: Skipped
+6Y2E.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A13H.pdb	Forced: Skipped
+6Y2E.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A13I.pdb	Forced: Skipped
+6Y2E.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A13L.pdb	Forced: Skipped
+6Y2E.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A13K.pdb	Forced: Skipped
+6Y2E.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A13M.pdb	Forced: Skipped
+6Y2E.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A13F.pdb	Forced: Skipped
+6Y2E.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A13P.pdb	Forced: Skipped
+6Y2E.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A13S.pdb	Forced: Skipped
+6Y2E.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A13T.pdb	Forced: Skipped
+6Y2E.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A13W.pdb	Forced: Skipped
+6Y2E.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A13Y.pdb	Forced: Skipped
+6Y2E.pdb	A	13	V	Error: No mutation needed
+6Y2E.pdb	A	1	A	L->S	Single Chain	Scwrl	6Y2E.A1A_em.pdb	Forced: Run
+6Y2E.pdb	A	12	A	L->S	Single Chain	Scwrl	6Y2E.A12A.pdb	Forced: Skipped
+6Y2E.A12A.pdb	A	12	R	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12R_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	N	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12N_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	D	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12D_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	C	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12C_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12Q_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	E	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12E_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	G	L->S	Single Chain	Scwrl	6Y2E.A12A.A12G_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	H	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12H_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	I	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12I_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	L	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12L_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	M	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12M_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	F	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12F_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	P	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12P_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	S	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12S_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	T	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12T_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	W	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12W_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12Y_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	V	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12V_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A12A.A13A_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13R_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A12A.A13N_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A12A.A13D_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A12A.A13C_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13Q_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13E_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A12A.A13G_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13H_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13I_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13L_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13K_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13M_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13F_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A12A.A13P_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A12A.A13S_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A12A.A13T_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13W_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13Y_em.pdb	Forced: Run
+6Y2E.pdb	A	12	R	Not L->S	Single Chain	Scwrl	6Y2E.A12R.pdb	Forced: Skipped
+6Y2E.pdb	A	2	G	Error: No mutation needed
+6Y2E.pdb	A	3	F	Error: No mutation needed
+6Y2E.pdb	A	2	T	Not L->S	Single Chain	Scwrl	6Y2E.A2T.pdb	Forced: Skipped
+6Y2E.pdb	A	2	I	Not L->S	Single Chain	Scwrl	6Y2E.A2I.pdb	Forced: Skipped
+6Y2E.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A3A.pdb	Forced: Skipped
+6Y2E.pdb	A	3	V	L->S	Single Chain	Scwrl	6Y2E.A3V.pdb	Forced: Skipped
+6Y2E.pdb	A	2	A	Not L->S	Single Chain	Scwrl	6Y2E.A2A.pdb	Forced: Skipped
+6Y2E.pdb	A	2	M	Not L->S	Single Chain	Scwrl	6Y2E.A2M.pdb	Forced: Skipped
+6Y2E.pdb	A	3	P	L->S	Single Chain	Scwrl	6Y2E.A3P.pdb	Forced: Skipped
+6Y2E.pdb	A	3	S	L->S	Single Chain	Scwrl	6Y2E.A3S.pdb	Forced: Skipped
+6Y2E.pdb	A	2	S	Not L->S	Single Chain	Scwrl	6Y2E.A2S.pdb	Forced: Skipped
+6Y2E.pdb	A	2	H	Not L->S	Single Chain	Scwrl	6Y2E.A2H.pdb	Forced: Skipped
+6Y2E.pdb	A	2	F	Not L->S	Single Chain	Scwrl	6Y2E.A2F.pdb	Forced: Skipped
+6Y2E.pdb	A	2	C	Not L->S	Single Chain	Scwrl	6Y2E.A2C.pdb	Forced: Skipped
+6Y2E.pdb	A	3	I	L->S	Single Chain	Scwrl	6Y2E.A3I.pdb	Forced: Skipped
+6Y2E.pdb	A	2	P	Not L->S	Single Chain	Scwrl	6Y2E.A2P.pdb	Forced: Skipped
+6Y2E.pdb	A	3	C	L->S	Single Chain	Scwrl	6Y2E.A3C.pdb	Forced: Skipped
+6Y2E.pdb	A	2	K	Not L->S	Single Chain	Scwrl	6Y2E.A2K.pdb	Forced: Skipped
+6Y2E.pdb	A	3	D	L->S	Single Chain	Scwrl	6Y2E.A3D.pdb	Forced: Skipped
+6Y2E.pdb	A	2	L	Not L->S	Single Chain	Scwrl	6Y2E.A2L.pdb	Forced: Skipped
+6Y2E.pdb	A	2	V	Not L->S	Single Chain	Scwrl	6Y2E.A2V.pdb	Forced: Skipped
+6Y2E.pdb	A	2	Y	Not L->S	Single Chain	Scwrl	6Y2E.A2Y.pdb	Forced: Skipped
+6Y2E.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A2R.pdb	Forced: Skipped
+6Y2E.pdb	A	3	L	L->S	Single Chain	Scwrl	6Y2E.A3L.pdb	Forced: Skipped
+6Y2E.pdb	A	2	D	Not L->S	Single Chain	Scwrl	6Y2E.A2D.pdb	Forced: Skipped
+6Y2E.pdb	A	2	E	Not L->S	Single Chain	Scwrl	6Y2E.A2E.pdb	Forced: Skipped
+6Y2E.pdb	A	3	M	L->S	Single Chain	Scwrl	6Y2E.A3M.pdb	Forced: Skipped
+6Y2E.pdb	A	2	N	Not L->S	Single Chain	Scwrl	6Y2E.A2N.pdb	Forced: Skipped
+6Y2E.pdb	A	3	T	L->S	Single Chain	Scwrl	6Y2E.A3T.pdb	Forced: Skipped
+6Y2E.pdb	A	3	W	Not L->S	Single Chain	Scwrl	6Y2E.A3W.pdb	Forced: Skipped
+6Y2E.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A3G.pdb	Forced: Skipped
+6Y2E.pdb	A	2	Q	Not L->S	Single Chain	Scwrl	6Y2E.A2Q.pdb	Forced: Skipped
+6Y2E.pdb	A	3	N	L->S	Single Chain	Scwrl	6Y2E.A3N.pdb	Forced: Skipped
+6Y2E.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A2W.pdb	Forced: Skipped
+6Y2E.pdb	A	3	E	L->S	Single Chain	Scwrl	6Y2E.A3E.pdb	Forced: Skipped
+6Y2E.pdb	A	3	H	L->S	Single Chain	Scwrl	6Y2E.A3H.pdb	Forced: Skipped
+6Y2E.pdb	A	3	K	Not L->S	Single Chain	Scwrl	6Y2E.A3K.pdb	Forced: Skipped
+6Y2E.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3Y.pdb	Forced: Skipped
+6Y2E.pdb	A	3	Q	L->S	Single Chain	Scwrl	6Y2E.A3Q.pdb	Forced: Skipped
+6Y2E.pdb	A	3	R	Not L->S	Single Chain	Scwrl	6Y2E.A3R.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	G	Error: No mutation needed
+6Y2E.A3E.pdb	A	3	E	Error: No mutation needed
+6Y2E.A3E.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A3E.A3A.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A3E.A3G.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	A	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2A.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	M	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2M.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	C	L->S	Single Chain	Scwrl	6Y2E.A3E.A3C.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	P	L->S	Single Chain	Scwrl	6Y2E.A3E.A3P.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	L	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3L.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	D	L->S	Single Chain	Scwrl	6Y2E.A3E.A3D.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	T	L->S	Single Chain	Scwrl	6Y2E.A3E.A3T.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	I	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3I.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	M	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3M.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	D	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2D.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2W.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	E	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2E.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	W	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3W.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3Y.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	K	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3K.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	F	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2F.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	K	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2K.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	T	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2T.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	H	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2H.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	S	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2S.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	L	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2L.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	N	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2N.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	F	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3F.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	V	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3V.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	I	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2I.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	V	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2V.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	P	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2P.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	C	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2C.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	S	L->S	Single Chain	Scwrl	6Y2E.A3E.A3S.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2R.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	Q	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2Q.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2Y.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	N	L->S	Single Chain	Scwrl	6Y2E.A3E.A3N.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	H	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3H.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	R	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3R.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	Q	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3Q.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	K	Error: No mutation needed
+6Y2E.A2K.pdb	A	3	F	Error: No mutation needed
+6Y2E.A2K.pdb	A	2	I	L->S	Single Chain	Scwrl	6Y2E.A2K.A2I.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	I	L->S	Single Chain	Scwrl	6Y2E.A2K.A3I.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	H	L->S	Single Chain	Scwrl	6Y2E.A2K.A2H.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A2K.A3A.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	A	L->S	Single Chain	Scwrl	6Y2E.A2K.A2A.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	G	L->S	Single Chain	Scwrl	6Y2E.A2K.A2G.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	V	L->S	Single Chain	Scwrl	6Y2E.A2K.A2V.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A2K.A3G.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	D	L->S	Single Chain	Scwrl	6Y2E.A2K.A3D.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	C	L->S	Single Chain	Scwrl	6Y2E.A2K.A2C.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	E	L->S	Single Chain	Scwrl	6Y2E.A2K.A3E.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A2R.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	P	L->S	Single Chain	Scwrl	6Y2E.A2K.A2P.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	C	L->S	Single Chain	Scwrl	6Y2E.A2K.A3C.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	M	L->S	Single Chain	Scwrl	6Y2E.A2K.A2M.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	L	L->S	Single Chain	Scwrl	6Y2E.A2K.A2L.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	T	L->S	Single Chain	Scwrl	6Y2E.A2K.A2T.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	S	L->S	Single Chain	Scwrl	6Y2E.A2K.A2S.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	N	L->S	Single Chain	Scwrl	6Y2E.A2K.A3N.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	T	L->S	Single Chain	Scwrl	6Y2E.A2K.A3T.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	P	L->S	Single Chain	Scwrl	6Y2E.A2K.A3P.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	L	L->S	Single Chain	Scwrl	6Y2E.A2K.A3L.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	F	L->S	Single Chain	Scwrl	6Y2E.A2K.A2F.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	V	L->S	Single Chain	Scwrl	6Y2E.A2K.A3V.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	Q	L->S	Single Chain	Scwrl	6Y2E.A2K.A2Q.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	D	L->S	Single Chain	Scwrl	6Y2E.A2K.A2D.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	Y	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A2Y.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A2W.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	E	L->S	Single Chain	Scwrl	6Y2E.A2K.A2E.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	S	L->S	Single Chain	Scwrl	6Y2E.A2K.A3S.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	N	L->S	Single Chain	Scwrl	6Y2E.A2K.A2N.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	M	L->S	Single Chain	Scwrl	6Y2E.A2K.A3M.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	H	L->S	Single Chain	Scwrl	6Y2E.A2K.A3H.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	W	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A3W.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	K	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A3K.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A3Y.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	Q	L->S	Single Chain	Scwrl	6Y2E.A2K.A3Q.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	R	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A3R.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	L	Error: No mutation needed
+6Y2E.A3L.pdb	A	2	G	Error: No mutation needed
+6Y2E.A3L.pdb	A	2	K	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2K.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	A	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2A.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	M	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2M.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2R.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	F	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2F.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A3L.A3A.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	P	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2P.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	M	L->S	Single Chain	Scwrl	6Y2E.A3L.A3M.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	E	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2E.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	E	L->S	Single Chain	Scwrl	6Y2E.A3L.A3E.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	C	L->S	Single Chain	Scwrl	6Y2E.A3L.A3C.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	V	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2V.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	F	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A3F.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	P	L->S	Single Chain	Scwrl	6Y2E.A3L.A3P.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	L	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2L.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	W	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A3W.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A3Y.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2Y.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	T	L->S	Single Chain	Scwrl	6Y2E.A3L.A3T.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2W.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	H	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2H.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A3L.A3G.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	I	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2I.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	R	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A3R.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	V	L->S	Single Chain	Scwrl	6Y2E.A3L.A3V.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	T	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2T.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	D	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2D.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	I	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A3I.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	H	L->S	Single Chain	Scwrl	6Y2E.A3L.A3H.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	Q	L->S	Single Chain	Scwrl	6Y2E.A3L.A3Q.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	S	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2S.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	Q	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2Q.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	N	L->S	Single Chain	Scwrl	6Y2E.A3L.A3N.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	S	L->S	Single Chain	Scwrl	6Y2E.A3L.A3S.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	N	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2N.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	D	L->S	Single Chain	Scwrl	6Y2E.A3L.A3D.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	K	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A3K.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	C	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2C.pdb	Forced: Skipped
+6Y2E.pdb	A	2	G	Error: No mutation needed
+6Y2E.pdb	A	3	F	Error: No mutation needed
+6Y2E.pdb	A	3	C	L->S	Single Chain	Scwrl	6Y2E.A3C.pdb	Forced: Skipped
+6Y2E.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A3A.pdb	Forced: Skipped
+6Y2E.pdb	A	2	M	Not L->S	Single Chain	Scwrl	6Y2E.A2M.pdb	Forced: Skipped
+6Y2E.pdb	A	2	K	Not L->S	Single Chain	Scwrl	6Y2E.A2K.pdb	Forced: Skipped
+6Y2E.pdb	A	2	V	Not L->S	Single Chain	Scwrl	6Y2E.A2V.pdb	Forced: Skipped
+6Y2E.pdb	A	2	I	Not L->S	Single Chain	Scwrl	6Y2E.A2I.pdb	Forced: Skipped
+6Y2E.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A3G.pdb	Forced: Skipped
+6Y2E.pdb	A	2	L	Not L->S	Single Chain	Scwrl	6Y2E.A2L.pdb	Forced: Skipped
+6Y2E.pdb	A	3	D	L->S	Single Chain	Scwrl	6Y2E.A3D.pdb	Forced: Skipped
+6Y2E.pdb	A	3	S	L->S	Single Chain	Scwrl	6Y2E.A3S.pdb	Forced: Skipped
+6Y2E.pdb	A	2	H	Not L->S	Single Chain	Scwrl	6Y2E.A2H.pdb	Forced: Skipped
+6Y2E.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A2W.pdb	Forced: Skipped
+6Y2E.pdb	A	2	F	Not L->S	Single Chain	Scwrl	6Y2E.A2F.pdb	Forced: Skipped
+6Y2E.pdb	A	2	S	Not L->S	Single Chain	Scwrl	6Y2E.A2S.pdb	Forced: Skipped
+6Y2E.pdb	A	2	Q	Not L->S	Single Chain	Scwrl	6Y2E.A2Q.pdb	Forced: Skipped
+6Y2E.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A2R.pdb	Forced: Skipped
+6Y2E.pdb	A	3	P	L->S	Single Chain	Scwrl	6Y2E.A3P.pdb	Forced: Skipped
+6Y2E.pdb	A	3	I	L->S	Single Chain	Scwrl	6Y2E.A3I.pdb	Forced: Skipped
+6Y2E.pdb	A	3	L	L->S	Single Chain	Scwrl	6Y2E.A3L.pdb	Forced: Skipped
+6Y2E.pdb	A	3	V	L->S	Single Chain	Scwrl	6Y2E.A3V.pdb	Forced: Skipped
+6Y2E.pdb	A	2	A	Not L->S	Single Chain	Scwrl	6Y2E.A2A.pdb	Forced: Skipped
+6Y2E.pdb	A	2	D	Not L->S	Single Chain	Scwrl	6Y2E.A2D.pdb	Forced: Skipped
+6Y2E.pdb	A	2	E	Not L->S	Single Chain	Scwrl	6Y2E.A2E.pdb	Forced: Skipped
+6Y2E.pdb	A	3	N	L->S	Single Chain	Scwrl	6Y2E.A3N.pdb	Forced: Skipped
+6Y2E.pdb	A	3	T	L->S	Single Chain	Scwrl	6Y2E.A3T.pdb	Forced: Skipped
+6Y2E.pdb	A	2	C	Not L->S	Single Chain	Scwrl	6Y2E.A2C.pdb	Forced: Skipped
+6Y2E.pdb	A	2	T	Not L->S	Single Chain	Scwrl	6Y2E.A2T.pdb	Forced: Skipped
+6Y2E.pdb	A	3	M	L->S	Single Chain	Scwrl	6Y2E.A3M.pdb	Forced: Skipped
+6Y2E.pdb	A	2	P	Not L->S	Single Chain	Scwrl	6Y2E.A2P.pdb	Forced: Skipped
+6Y2E.pdb	A	2	N	Not L->S	Single Chain	Scwrl	6Y2E.A2N.pdb	Forced: Skipped
+6Y2E.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3Y.pdb	Forced: Skipped
+6Y2E.pdb	A	3	E	L->S	Single Chain	Scwrl	6Y2E.A3E.pdb	Forced: Skipped
+6Y2E.pdb	A	2	Y	Not L->S	Single Chain	Scwrl	6Y2E.A2Y.pdb	Forced: Skipped
+6Y2E.pdb	A	3	R	Not L->S	Single Chain	Scwrl	6Y2E.A3R.pdb	Forced: Skipped
+6Y2E.pdb	A	3	W	Not L->S	Single Chain	Scwrl	6Y2E.A3W.pdb	Forced: Skipped
+6Y2E.pdb	A	3	H	L->S	Single Chain	Scwrl	6Y2E.A3H.pdb	Forced: Skipped
+6Y2E.pdb	A	3	K	Not L->S	Single Chain	Scwrl	6Y2E.A3K.pdb	Forced: Skipped
+6Y2E.pdb	A	3	Q	L->S	Single Chain	Scwrl	6Y2E.A3Q.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	G	Error: No mutation needed
+6Y2E.A3E.pdb	A	3	E	Error: No mutation needed
+6Y2E.A3E.pdb	A	2	F	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2F.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	M	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2M.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	C	L->S	Single Chain	Scwrl	6Y2E.A3E.A3C.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	V	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3V.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	I	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3I.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	C	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2C.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	V	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2V.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	T	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2T.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	L	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2L.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	T	L->S	Single Chain	Scwrl	6Y2E.A3E.A3T.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	N	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2N.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	E	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2E.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	L	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3L.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	F	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3F.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	S	L->S	Single Chain	Scwrl	6Y2E.A3E.A3S.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	K	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3K.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A3E.A3A.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	H	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3H.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	I	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2I.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	D	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2D.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A3E.A3G.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	D	L->S	Single Chain	Scwrl	6Y2E.A3E.A3D.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2R.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	K	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2K.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	A	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2A.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	P	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2P.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	M	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3M.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	S	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2S.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	R	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3R.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2Y.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	P	L->S	Single Chain	Scwrl	6Y2E.A3E.A3P.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	Q	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2Q.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	N	L->S	Single Chain	Scwrl	6Y2E.A3E.A3N.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	H	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2H.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2W.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3Y.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	W	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3W.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	Q	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3Q.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	K	Error: No mutation needed
+6Y2E.A2K.pdb	A	3	F	Error: No mutation needed
+6Y2E.A2K.pdb	A	2	I	L->S	Single Chain	Scwrl	6Y2E.A2K.A2I.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	L	L->S	Single Chain	Scwrl	6Y2E.A2K.A3L.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	G	L->S	Single Chain	Scwrl	6Y2E.A2K.A2G.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A2K.A3G.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	V	L->S	Single Chain	Scwrl	6Y2E.A2K.A2V.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	D	L->S	Single Chain	Scwrl	6Y2E.A2K.A3D.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	D	L->S	Single Chain	Scwrl	6Y2E.A2K.A2D.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	S	L->S	Single Chain	Scwrl	6Y2E.A2K.A2S.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	N	L->S	Single Chain	Scwrl	6Y2E.A2K.A3N.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	P	L->S	Single Chain	Scwrl	6Y2E.A2K.A3P.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A2W.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	T	L->S	Single Chain	Scwrl	6Y2E.A2K.A2T.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	Q	L->S	Single Chain	Scwrl	6Y2E.A2K.A2Q.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	Y	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A2Y.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	E	L->S	Single Chain	Scwrl	6Y2E.A2K.A3E.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	A	L->S	Single Chain	Scwrl	6Y2E.A2K.A2A.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	H	L->S	Single Chain	Scwrl	6Y2E.A2K.A3H.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	C	L->S	Single Chain	Scwrl	6Y2E.A2K.A2C.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	P	L->S	Single Chain	Scwrl	6Y2E.A2K.A2P.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	F	L->S	Single Chain	Scwrl	6Y2E.A2K.A2F.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A2K.A3A.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	M	L->S	Single Chain	Scwrl	6Y2E.A2K.A2M.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	H	L->S	Single Chain	Scwrl	6Y2E.A2K.A2H.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	Q	L->S	Single Chain	Scwrl	6Y2E.A2K.A3Q.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A2R.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	I	L->S	Single Chain	Scwrl	6Y2E.A2K.A3I.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	N	L->S	Single Chain	Scwrl	6Y2E.A2K.A2N.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	V	L->S	Single Chain	Scwrl	6Y2E.A2K.A3V.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	E	L->S	Single Chain	Scwrl	6Y2E.A2K.A2E.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	R	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A3R.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	T	L->S	Single Chain	Scwrl	6Y2E.A2K.A3T.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	S	L->S	Single Chain	Scwrl	6Y2E.A2K.A3S.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	L	L->S	Single Chain	Scwrl	6Y2E.A2K.A2L.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	M	L->S	Single Chain	Scwrl	6Y2E.A2K.A3M.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	C	L->S	Single Chain	Scwrl	6Y2E.A2K.A3C.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A3Y.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	W	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A3W.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	K	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A3K.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	G	Error: No mutation needed
+6Y2E.A3L.pdb	A	3	L	Error: No mutation needed
+6Y2E.A3L.pdb	A	2	P	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2P.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2R.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	C	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2C.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	D	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2D.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	L	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2L.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	N	L->S	Single Chain	Scwrl	6Y2E.A3L.A3N.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	I	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2I.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	S	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2S.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	I	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A3I.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	T	L->S	Single Chain	Scwrl	6Y2E.A3L.A3T.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	S	L->S	Single Chain	Scwrl	6Y2E.A3L.A3S.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	F	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2F.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	M	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2M.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	F	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A3F.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	C	L->S	Single Chain	Scwrl	6Y2E.A3L.A3C.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	V	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2V.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A3L.A3A.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	K	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2K.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	T	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2T.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	P	L->S	Single Chain	Scwrl	6Y2E.A3L.A3P.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	D	L->S	Single Chain	Scwrl	6Y2E.A3L.A3D.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A3L.A3G.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	H	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2H.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	E	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2E.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2W.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	A	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2A.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	N	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2N.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	Q	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2Q.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	E	L->S	Single Chain	Scwrl	6Y2E.A3L.A3E.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	V	L->S	Single Chain	Scwrl	6Y2E.A3L.A3V.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	H	L->S	Single Chain	Scwrl	6Y2E.A3L.A3H.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A3Y.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	M	L->S	Single Chain	Scwrl	6Y2E.A3L.A3M.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	W	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A3W.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2Y.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	Q	L->S	Single Chain	Scwrl	6Y2E.A3L.A3Q.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	K	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A3K.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	R	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A3R.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	F	Error: No mutation needed
+6Y2E.A2Y.pdb	A	2	Y	Error: No mutation needed
+6Y2E.A2Y.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A2Y.A2R.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	K	Not L->S	Single Chain	Scwrl	6Y2E.A2Y.A2K.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	C	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2C.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A2Y.A3G.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	A	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2A.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	L	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2L.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	M	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2M.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	N	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2N.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	H	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2H.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A2Y.A3A.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	L	L->S	Single Chain	Scwrl	6Y2E.A2Y.A3L.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	I	L->S	Single Chain	Scwrl	6Y2E.A2Y.A3I.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	E	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2E.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	M	L->S	Single Chain	Scwrl	6Y2E.A2Y.A3M.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	T	L->S	Single Chain	Scwrl	6Y2E.A2Y.A3T.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	C	L->S	Single Chain	Scwrl	6Y2E.A2Y.A3C.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A2Y.A3Y.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	P	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2P.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	I	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2I.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	D	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2D.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	T	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2T.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	V	L->S	Single Chain	Scwrl	6Y2E.A2Y.A3V.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	P	L->S	Single Chain	Scwrl	6Y2E.A2Y.A3P.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	F	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2F.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	V	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2V.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	S	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2S.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	Q	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2Q.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	G	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2G.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	N	L->S	Single Chain	Scwrl	6Y2E.A2Y.A3N.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	S	L->S	Single Chain	Scwrl	6Y2E.A2Y.A3S.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	D	L->S	Single Chain	Scwrl	6Y2E.A2Y.A3D.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A2Y.A2W.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	E	L->S	Single Chain	Scwrl	6Y2E.A2Y.A3E.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	W	Not L->S	Single Chain	Scwrl	6Y2E.A2Y.A3W.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	K	Not L->S	Single Chain	Scwrl	6Y2E.A2Y.A3K.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	Q	L->S	Single Chain	Scwrl	6Y2E.A2Y.A3Q.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	H	L->S	Single Chain	Scwrl	6Y2E.A2Y.A3H.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	R	Not L->S	Single Chain	Scwrl	6Y2E.A2Y.A3R.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	3	F	Error: No mutation needed
+6Y2E.A2N.pdb	A	2	N	Error: No mutation needed
+6Y2E.A2N.pdb	A	2	K	Not L->S	Single Chain	Scwrl	6Y2E.A2N.A2K.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	2	A	L->S	Single Chain	Scwrl	6Y2E.A2N.A2A.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	2	G	L->S	Single Chain	Scwrl	6Y2E.A2N.A2G.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	3	D	L->S	Single Chain	Scwrl	6Y2E.A2N.A3D.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A2N.A2R.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A2N.A3A.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	3	S	L->S	Single Chain	Scwrl	6Y2E.A2N.A3S.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	2	H	Not L->S	Single Chain	Scwrl	6Y2E.A2N.A2H.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	3	P	L->S	Single Chain	Scwrl	6Y2E.A2N.A3P.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	2	V	Not L->S	Single Chain	Scwrl	6Y2E.A2N.A2V.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	2	S	L->S	Single Chain	Scwrl	6Y2E.A2N.A2S.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	2	I	Not L->S	Single Chain	Scwrl	6Y2E.A2N.A2I.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	3	T	L->S	Single Chain	Scwrl	6Y2E.A2N.A3T.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	2	T	Not L->S	Single Chain	Scwrl	6Y2E.A2N.A2T.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	3	L	L->S	Single Chain	Scwrl	6Y2E.A2N.A3L.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	2	E	Not L->S	Single Chain	Scwrl	6Y2E.A2N.A2E.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	3	C	L->S	Single Chain	Scwrl	6Y2E.A2N.A3C.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A2N.A3G.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	3	M	L->S	Single Chain	Scwrl	6Y2E.A2N.A3M.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	2	L	Not L->S	Single Chain	Scwrl	6Y2E.A2N.A2L.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	2	M	Not L->S	Single Chain	Scwrl	6Y2E.A2N.A2M.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A2N.A2W.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	3	N	L->S	Single Chain	Scwrl	6Y2E.A2N.A3N.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	2	C	L->S	Single Chain	Scwrl	6Y2E.A2N.A2C.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	3	W	Not L->S	Single Chain	Scwrl	6Y2E.A2N.A3W.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	3	E	L->S	Single Chain	Scwrl	6Y2E.A2N.A3E.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	2	D	L->S	Single Chain	Scwrl	6Y2E.A2N.A2D.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	2	F	Not L->S	Single Chain	Scwrl	6Y2E.A2N.A2F.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	2	P	Not L->S	Single Chain	Scwrl	6Y2E.A2N.A2P.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	3	K	Not L->S	Single Chain	Scwrl	6Y2E.A2N.A3K.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	2	Q	Not L->S	Single Chain	Scwrl	6Y2E.A2N.A2Q.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	2	Y	Not L->S	Single Chain	Scwrl	6Y2E.A2N.A2Y.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	3	I	L->S	Single Chain	Scwrl	6Y2E.A2N.A3I.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	3	V	L->S	Single Chain	Scwrl	6Y2E.A2N.A3V.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A2N.A3Y.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	3	R	Not L->S	Single Chain	Scwrl	6Y2E.A2N.A3R.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	3	H	L->S	Single Chain	Scwrl	6Y2E.A2N.A3H.pdb	Forced: Skipped
+6Y2E.A2N.pdb	A	3	Q	L->S	Single Chain	Scwrl	6Y2E.A2N.A3Q.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	2	G	Error: No mutation needed
+6Y2E.A3D.pdb	A	3	D	Error: No mutation needed
+6Y2E.A3D.pdb	A	2	A	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A2A.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A2R.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	2	P	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A2P.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	3	C	L->S	Single Chain	Scwrl	6Y2E.A3D.A3C.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	2	I	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A2I.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	2	T	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A2T.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	3	I	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A3I.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	3	S	L->S	Single Chain	Scwrl	6Y2E.A3D.A3S.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	3	L	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A3L.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	2	S	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A2S.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	2	C	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A2C.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	2	H	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A2H.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	3	E	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A3E.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	2	M	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A2M.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A3Y.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	3	K	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A3K.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	2	L	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A2L.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	2	D	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A2D.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	2	F	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A2F.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	2	Q	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A2Q.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	3	V	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A3V.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	3	Q	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A3Q.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	3	P	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A3P.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	2	V	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A2V.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A3D.A3G.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	3	F	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A3F.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	2	K	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A2K.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	3	R	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A3R.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A3D.A3A.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	2	N	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A2N.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	3	M	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A3M.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A2W.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	3	N	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A3N.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	3	H	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A3H.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	3	W	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A3W.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	2	E	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A2E.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	3	T	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A3T.pdb	Forced: Skipped
+6Y2E.A3D.pdb	A	2	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3D.A2Y.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	2	H	Error: No mutation needed
+6Y2E.A2H.pdb	A	3	F	Error: No mutation needed
+6Y2E.A2H.pdb	A	3	D	L->S	Single Chain	Scwrl	6Y2E.A2H.A3D.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	3	K	Not L->S	Single Chain	Scwrl	6Y2E.A2H.A3K.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	2	A	L->S	Single Chain	Scwrl	6Y2E.A2H.A2A.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	2	L	Not L->S	Single Chain	Scwrl	6Y2E.A2H.A2L.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	2	F	Not L->S	Single Chain	Scwrl	6Y2E.A2H.A2F.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A2H.A3A.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	3	N	L->S	Single Chain	Scwrl	6Y2E.A2H.A3N.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	2	K	Not L->S	Single Chain	Scwrl	6Y2E.A2H.A2K.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	3	P	L->S	Single Chain	Scwrl	6Y2E.A2H.A3P.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	2	C	L->S	Single Chain	Scwrl	6Y2E.A2H.A2C.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	2	T	L->S	Single Chain	Scwrl	6Y2E.A2H.A2T.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A2H.A3Y.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	2	G	L->S	Single Chain	Scwrl	6Y2E.A2H.A2G.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	3	M	L->S	Single Chain	Scwrl	6Y2E.A2H.A3M.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	2	Q	Not L->S	Single Chain	Scwrl	6Y2E.A2H.A2Q.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	3	W	Not L->S	Single Chain	Scwrl	6Y2E.A2H.A3W.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	3	R	Not L->S	Single Chain	Scwrl	6Y2E.A2H.A3R.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	3	S	L->S	Single Chain	Scwrl	6Y2E.A2H.A3S.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	3	C	L->S	Single Chain	Scwrl	6Y2E.A2H.A3C.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	3	E	L->S	Single Chain	Scwrl	6Y2E.A2H.A3E.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A2H.A2R.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	3	L	L->S	Single Chain	Scwrl	6Y2E.A2H.A3L.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A2H.A3G.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	2	D	L->S	Single Chain	Scwrl	6Y2E.A2H.A2D.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	3	V	L->S	Single Chain	Scwrl	6Y2E.A2H.A3V.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	2	S	L->S	Single Chain	Scwrl	6Y2E.A2H.A2S.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	3	Q	L->S	Single Chain	Scwrl	6Y2E.A2H.A3Q.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	2	E	L->S	Single Chain	Scwrl	6Y2E.A2H.A2E.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	3	T	L->S	Single Chain	Scwrl	6Y2E.A2H.A3T.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	2	V	L->S	Single Chain	Scwrl	6Y2E.A2H.A2V.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	3	H	L->S	Single Chain	Scwrl	6Y2E.A2H.A3H.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	2	M	Not L->S	Single Chain	Scwrl	6Y2E.A2H.A2M.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	2	I	Not L->S	Single Chain	Scwrl	6Y2E.A2H.A2I.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	3	I	L->S	Single Chain	Scwrl	6Y2E.A2H.A3I.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	2	Y	Not L->S	Single Chain	Scwrl	6Y2E.A2H.A2Y.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	2	P	L->S	Single Chain	Scwrl	6Y2E.A2H.A2P.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	2	N	L->S	Single Chain	Scwrl	6Y2E.A2H.A2N.pdb	Forced: Skipped
+6Y2E.A2H.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A2H.A2W.pdb	Forced: Skipped
+6Y2E.pdb	A	2	G	Error: No mutation needed
+6Y2E.pdb	A	3	F	Error: No mutation needed
+6Y2E.pdb	A	2	K	Not L->S	Single Chain	Scwrl	6Y2E.A2K.pdb	Forced: Skipped
+6Y2E.pdb	A	2	N	Not L->S	Single Chain	Scwrl	6Y2E.A2N.pdb	Forced: Skipped
+6Y2E.pdb	A	2	Q	Not L->S	Single Chain	Scwrl	6Y2E.A2Q.pdb	Forced: Skipped
+6Y2E.pdb	A	2	I	Not L->S	Single Chain	Scwrl	6Y2E.A2I.pdb	Forced: Skipped
+6Y2E.pdb	A	2	Y	Not L->S	Single Chain	Scwrl	6Y2E.A2Y.pdb	Forced: Skipped
+6Y2E.pdb	A	2	D	Not L->S	Single Chain	Scwrl	6Y2E.A2D.pdb	Forced: Skipped
+6Y2E.pdb	A	2	C	Not L->S	Single Chain	Scwrl	6Y2E.A2C.pdb	Forced: Skipped
+6Y2E.pdb	A	3	T	L->S	Single Chain	Scwrl	6Y2E.A3T.pdb	Forced: Skipped
+6Y2E.pdb	A	3	D	L->S	Single Chain	Scwrl	6Y2E.A3D.pdb	Forced: Skipped
+6Y2E.pdb	A	2	H	Not L->S	Single Chain	Scwrl	6Y2E.A2H.pdb	Forced: Skipped
+6Y2E.pdb	A	3	S	L->S	Single Chain	Scwrl	6Y2E.A3S.pdb	Forced: Skipped
+6Y2E.pdb	A	3	H	L->S	Single Chain	Scwrl	6Y2E.A3H.pdb	Forced: Skipped
+6Y2E.pdb	A	3	W	Not L->S	Single Chain	Scwrl	6Y2E.A3W.pdb	Forced: Skipped
+6Y2E.pdb	A	3	K	Not L->S	Single Chain	Scwrl	6Y2E.A3K.pdb	Forced: Skipped
+6Y2E.pdb	A	2	L	Not L->S	Single Chain	Scwrl	6Y2E.A2L.pdb	Forced: Skipped
+6Y2E.pdb	A	3	L	L->S	Single Chain	Scwrl	6Y2E.A3L.pdb	Forced: Skipped
+6Y2E.pdb	A	3	E	L->S	Single Chain	Scwrl	6Y2E.A3E.pdb	Forced: Skipped
+6Y2E.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A2W.pdb	Forced: Skipped
+6Y2E.pdb	A	3	P	L->S	Single Chain	Scwrl	6Y2E.A3P.pdb	Forced: Skipped
+6Y2E.pdb	A	3	C	L->S	Single Chain	Scwrl	6Y2E.A3C.pdb	Forced: Skipped
+6Y2E.pdb	A	2	V	Not L->S	Single Chain	Scwrl	6Y2E.A2V.pdb	Forced: Skipped
+6Y2E.pdb	A	2	A	Not L->S	Single Chain	Scwrl	6Y2E.A2A.pdb	Forced: Skipped
+6Y2E.pdb	A	2	S	Not L->S	Single Chain	Scwrl	6Y2E.A2S.pdb	Forced: Skipped
+6Y2E.pdb	A	3	I	L->S	Single Chain	Scwrl	6Y2E.A3I.pdb	Forced: Skipped
+6Y2E.pdb	A	2	E	Not L->S	Single Chain	Scwrl	6Y2E.A2E.pdb	Forced: Skipped
+6Y2E.pdb	A	3	V	L->S	Single Chain	Scwrl	6Y2E.A3V.pdb	Forced: Skipped
+6Y2E.pdb	A	3	M	L->S	Single Chain	Scwrl	6Y2E.A3M.pdb	Forced: Skipped
+6Y2E.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3Y.pdb	Forced: Skipped
+6Y2E.pdb	A	3	R	Not L->S	Single Chain	Scwrl	6Y2E.A3R.pdb	Forced: Skipped
+6Y2E.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A2R.pdb	Forced: Skipped
+6Y2E.pdb	A	2	M	Not L->S	Single Chain	Scwrl	6Y2E.A2M.pdb	Forced: Skipped
+6Y2E.pdb	A	2	T	Not L->S	Single Chain	Scwrl	6Y2E.A2T.pdb	Forced: Skipped
+6Y2E.pdb	A	2	F	Not L->S	Single Chain	Scwrl	6Y2E.A2F.pdb	Forced: Skipped
+6Y2E.pdb	A	3	Q	L->S	Single Chain	Scwrl	6Y2E.A3Q.pdb	Forced: Skipped
+6Y2E.pdb	A	2	P	Not L->S	Single Chain	Scwrl	6Y2E.A2P.pdb	Forced: Skipped
+6Y2E.pdb	A	3	N	L->S	Single Chain	Scwrl	6Y2E.A3N.pdb	Forced: Skipped
+6Y2E.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A3G.pdb	Forced: Skipped
+6Y2E.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A3A.pdb	Forced: Skipped
+6Y2E.pdb	A	3	F	Error: No mutation needed
+6Y2E.pdb	A	2	G	Error: No mutation needed
+6Y2E.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A2R.pdb	Forced: Skipped
+6Y2E.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A3A.pdb	Forced: Skipped
+6Y2E.pdb	A	2	P	Not L->S	Single Chain	Scwrl	6Y2E.A2P.pdb	Forced: Skipped
+6Y2E.pdb	A	2	A	Not L->S	Single Chain	Scwrl	6Y2E.A2A.pdb	Forced: Skipped
+6Y2E.pdb	A	2	T	Not L->S	Single Chain	Scwrl	6Y2E.A2T.pdb	Forced: Skipped
+6Y2E.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A3G.pdb	Forced: Skipped
+6Y2E.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A2W.pdb	Forced: Skipped
+6Y2E.pdb	A	2	M	Not L->S	Single Chain	Scwrl	6Y2E.A2M.pdb	Forced: Skipped
+6Y2E.pdb	A	2	K	Not L->S	Single Chain	Scwrl	6Y2E.A2K.pdb	Forced: Skipped
+6Y2E.pdb	A	2	S	Not L->S	Single Chain	Scwrl	6Y2E.A2S.pdb	Forced: Skipped
+6Y2E.pdb	A	3	T	L->S	Single Chain	Scwrl	6Y2E.A3T.pdb	Forced: Skipped
+6Y2E.pdb	A	3	C	L->S	Single Chain	Scwrl	6Y2E.A3C.pdb	Forced: Skipped
+6Y2E.pdb	A	3	P	L->S	Single Chain	Scwrl	6Y2E.A3P.pdb	Forced: Skipped
+6Y2E.pdb	A	2	I	Not L->S	Single Chain	Scwrl	6Y2E.A2I.pdb	Forced: Skipped
+6Y2E.pdb	A	2	V	Not L->S	Single Chain	Scwrl	6Y2E.A2V.pdb	Forced: Skipped
+6Y2E.pdb	A	3	V	L->S	Single Chain	Scwrl	6Y2E.A3V.pdb	Forced: Skipped
+6Y2E.pdb	A	3	N	L->S	Single Chain	Scwrl	6Y2E.A3N.pdb	Forced: Skipped
+6Y2E.pdb	A	2	H	Not L->S	Single Chain	Scwrl	6Y2E.A2H.pdb	Forced: Skipped
+6Y2E.pdb	A	3	L	L->S	Single Chain	Scwrl	6Y2E.A3L.pdb	Forced: Skipped
+6Y2E.pdb	A	2	C	Not L->S	Single Chain	Scwrl	6Y2E.A2C.pdb	Forced: Skipped
+6Y2E.pdb	A	3	D	L->S	Single Chain	Scwrl	6Y2E.A3D.pdb	Forced: Skipped
+6Y2E.pdb	A	2	D	Not L->S	Single Chain	Scwrl	6Y2E.A2D.pdb	Forced: Skipped
+6Y2E.pdb	A	2	F	Not L->S	Single Chain	Scwrl	6Y2E.A2F.pdb	Forced: Skipped
+6Y2E.pdb	A	2	L	Not L->S	Single Chain	Scwrl	6Y2E.A2L.pdb	Forced: Skipped
+6Y2E.pdb	A	3	M	L->S	Single Chain	Scwrl	6Y2E.A3M.pdb	Forced: Skipped
+6Y2E.pdb	A	2	N	Not L->S	Single Chain	Scwrl	6Y2E.A2N.pdb	Forced: Skipped
+6Y2E.pdb	A	3	I	L->S	Single Chain	Scwrl	6Y2E.A3I.pdb	Forced: Skipped
+6Y2E.pdb	A	3	E	L->S	Single Chain	Scwrl	6Y2E.A3E.pdb	Forced: Skipped
+6Y2E.pdb	A	2	Y	Not L->S	Single Chain	Scwrl	6Y2E.A2Y.pdb	Forced: Skipped
+6Y2E.pdb	A	3	S	L->S	Single Chain	Scwrl	6Y2E.A3S.pdb	Forced: Skipped
+6Y2E.pdb	A	3	W	Not L->S	Single Chain	Scwrl	6Y2E.A3W.pdb	Forced: Skipped
+6Y2E.pdb	A	3	H	L->S	Single Chain	Scwrl	6Y2E.A3H.pdb	Forced: Skipped
+6Y2E.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3Y.pdb	Forced: Skipped
+6Y2E.pdb	A	2	E	Not L->S	Single Chain	Scwrl	6Y2E.A2E.pdb	Forced: Skipped
+6Y2E.pdb	A	3	K	Not L->S	Single Chain	Scwrl	6Y2E.A3K.pdb	Forced: Skipped
+6Y2E.pdb	A	2	Q	Not L->S	Single Chain	Scwrl	6Y2E.A2Q.pdb	Forced: Skipped
+6Y2E.pdb	A	3	Q	L->S	Single Chain	Scwrl	6Y2E.A3Q.pdb	Forced: Skipped
+6Y2E.pdb	A	3	R	Not L->S	Single Chain	Scwrl	6Y2E.A3R.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	G	Error: No mutation needed
+6Y2E.A3E.pdb	A	3	E	Error: No mutation needed
+6Y2E.A3E.pdb	A	2	L	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2L.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	L	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3L.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	E	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2E.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A3E.A3G.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	C	L->S	Single Chain	Scwrl	6Y2E.A3E.A3C.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	P	L->S	Single Chain	Scwrl	6Y2E.A3E.A3P.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	K	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2K.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	I	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3I.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	M	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3M.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2Y.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	F	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3F.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	T	L->S	Single Chain	Scwrl	6Y2E.A3E.A3T.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	H	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2H.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	A	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2A.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	N	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2N.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2W.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	R	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3R.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	V	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2V.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	S	L->S	Single Chain	Scwrl	6Y2E.A3E.A3S.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A3E.A3A.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	Q	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3Q.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	D	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2D.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	C	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2C.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	F	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2F.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	S	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2S.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	V	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3V.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	T	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2T.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	M	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2M.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	I	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2I.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	W	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3W.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	Q	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2Q.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	P	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2P.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	N	L->S	Single Chain	Scwrl	6Y2E.A3E.A3N.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	H	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3H.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	D	L->S	Single Chain	Scwrl	6Y2E.A3E.A3D.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2R.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3Y.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	K	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3K.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	K	Error: No mutation needed
+6Y2E.A2K.pdb	A	3	F	Error: No mutation needed
+6Y2E.A2K.pdb	A	2	C	L->S	Single Chain	Scwrl	6Y2E.A2K.A2C.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	S	L->S	Single Chain	Scwrl	6Y2E.A2K.A2S.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	K	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A3K.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	G	L->S	Single Chain	Scwrl	6Y2E.A2K.A2G.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	F	L->S	Single Chain	Scwrl	6Y2E.A2K.A2F.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	C	L->S	Single Chain	Scwrl	6Y2E.A2K.A3C.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	L	L->S	Single Chain	Scwrl	6Y2E.A2K.A2L.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	P	L->S	Single Chain	Scwrl	6Y2E.A2K.A3P.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A2R.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A2K.A3G.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	I	L->S	Single Chain	Scwrl	6Y2E.A2K.A3I.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A2W.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	Y	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A2Y.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	M	L->S	Single Chain	Scwrl	6Y2E.A2K.A2M.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	T	L->S	Single Chain	Scwrl	6Y2E.A2K.A2T.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	Q	L->S	Single Chain	Scwrl	6Y2E.A2K.A3Q.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	N	L->S	Single Chain	Scwrl	6Y2E.A2K.A2N.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	D	L->S	Single Chain	Scwrl	6Y2E.A2K.A2D.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	I	L->S	Single Chain	Scwrl	6Y2E.A2K.A2I.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	P	L->S	Single Chain	Scwrl	6Y2E.A2K.A2P.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A2K.A3A.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	S	L->S	Single Chain	Scwrl	6Y2E.A2K.A3S.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	W	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A3W.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	E	L->S	Single Chain	Scwrl	6Y2E.A2K.A3E.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	H	L->S	Single Chain	Scwrl	6Y2E.A2K.A3H.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	R	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A3R.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	H	L->S	Single Chain	Scwrl	6Y2E.A2K.A2H.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	V	L->S	Single Chain	Scwrl	6Y2E.A2K.A2V.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	M	L->S	Single Chain	Scwrl	6Y2E.A2K.A3M.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	Q	L->S	Single Chain	Scwrl	6Y2E.A2K.A2Q.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	D	L->S	Single Chain	Scwrl	6Y2E.A2K.A3D.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	E	L->S	Single Chain	Scwrl	6Y2E.A2K.A2E.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	N	L->S	Single Chain	Scwrl	6Y2E.A2K.A3N.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	L	L->S	Single Chain	Scwrl	6Y2E.A2K.A3L.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	A	L->S	Single Chain	Scwrl	6Y2E.A2K.A2A.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	V	L->S	Single Chain	Scwrl	6Y2E.A2K.A3V.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A3Y.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	T	L->S	Single Chain	Scwrl	6Y2E.A2K.A3T.pdb	Forced: Skipped
+6Y2E.pdb	A	2	G	Error: No mutation needed
+6Y2E.pdb	A	3	F	Error: No mutation needed
+6Y2E.pdb	A	2	C	Not L->S	Single Chain	Scwrl	6Y2E.A2C.pdb	Forced: Skipped
+6Y2E.pdb	A	2	V	Not L->S	Single Chain	Scwrl	6Y2E.A2V.pdb	Forced: Skipped
+6Y2E.pdb	A	2	L	Not L->S	Single Chain	Scwrl	6Y2E.A2L.pdb	Forced: Skipped
+6Y2E.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A2R.pdb	Forced: Skipped
+6Y2E.pdb	A	3	D	L->S	Single Chain	Scwrl	6Y2E.A3D.pdb	Forced: Skipped
+6Y2E.pdb	A	2	I	Not L->S	Single Chain	Scwrl	6Y2E.A2I.pdb	Forced: Skipped
+6Y2E.pdb	A	3	T	L->S	Single Chain	Scwrl	6Y2E.A3T.pdb	Forced: Skipped
+6Y2E.pdb	A	2	T	Not L->S	Single Chain	Scwrl	6Y2E.A2T.pdb	Forced: Skipped
+6Y2E.pdb	A	2	F	Not L->S	Single Chain	Scwrl	6Y2E.A2F.pdb	Forced: Skipped
+6Y2E.pdb	A	2	M	Not L->S	Single Chain	Scwrl	6Y2E.A2M.pdb	Forced: Skipped
+6Y2E.pdb	A	2	A	Not L->S	Single Chain	Scwrl	6Y2E.A2A.pdb	Forced: Skipped
+6Y2E.pdb	A	3	V	L->S	Single Chain	Scwrl	6Y2E.A3V.pdb	Forced: Skipped
+6Y2E.pdb	A	2	H	Not L->S	Single Chain	Scwrl	6Y2E.A2H.pdb	Forced: Skipped
+6Y2E.pdb	A	2	Q	Not L->S	Single Chain	Scwrl	6Y2E.A2Q.pdb	Forced: Skipped
+6Y2E.pdb	A	2	Y	Not L->S	Single Chain	Scwrl	6Y2E.A2Y.pdb	Forced: Skipped
+6Y2E.pdb	A	3	H	L->S	Single Chain	Scwrl	6Y2E.A3H.pdb	Forced: Skipped
+6Y2E.pdb	A	3	W	Not L->S	Single Chain	Scwrl	6Y2E.A3W.pdb	Forced: Skipped
+6Y2E.pdb	A	2	S	Not L->S	Single Chain	Scwrl	6Y2E.A2S.pdb	Forced: Skipped
+6Y2E.pdb	A	2	N	Not L->S	Single Chain	Scwrl	6Y2E.A2N.pdb	Forced: Skipped
+6Y2E.pdb	A	3	P	L->S	Single Chain	Scwrl	6Y2E.A3P.pdb	Forced: Skipped
+6Y2E.pdb	A	2	D	Not L->S	Single Chain	Scwrl	6Y2E.A2D.pdb	Forced: Skipped
+6Y2E.pdb	A	3	K	Not L->S	Single Chain	Scwrl	6Y2E.A3K.pdb	Forced: Skipped
+6Y2E.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A3G.pdb	Forced: Skipped
+6Y2E.pdb	A	3	C	L->S	Single Chain	Scwrl	6Y2E.A3C.pdb	Forced: Skipped
+6Y2E.pdb	A	3	L	L->S	Single Chain	Scwrl	6Y2E.A3L.pdb	Forced: Skipped
+6Y2E.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A3A.pdb	Forced: Skipped
+6Y2E.pdb	A	2	P	Not L->S	Single Chain	Scwrl	6Y2E.A2P.pdb	Forced: Skipped
+6Y2E.pdb	A	2	K	Not L->S	Single Chain	Scwrl	6Y2E.A2K.pdb	Forced: Skipped
+6Y2E.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A2W.pdb	Forced: Skipped
+6Y2E.pdb	A	3	S	L->S	Single Chain	Scwrl	6Y2E.A3S.pdb	Forced: Skipped
+6Y2E.pdb	A	3	I	L->S	Single Chain	Scwrl	6Y2E.A3I.pdb	Forced: Skipped
+6Y2E.pdb	A	3	N	L->S	Single Chain	Scwrl	6Y2E.A3N.pdb	Forced: Skipped
+6Y2E.pdb	A	2	E	Not L->S	Single Chain	Scwrl	6Y2E.A2E.pdb	Forced: Skipped
+6Y2E.pdb	A	3	M	L->S	Single Chain	Scwrl	6Y2E.A3M.pdb	Forced: Skipped
+6Y2E.pdb	A	3	Q	L->S	Single Chain	Scwrl	6Y2E.A3Q.pdb	Forced: Skipped
+6Y2E.pdb	A	3	E	L->S	Single Chain	Scwrl	6Y2E.A3E.pdb	Forced: Skipped
+6Y2E.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3Y.pdb	Forced: Skipped
+6Y2E.pdb	A	3	R	Not L->S	Single Chain	Scwrl	6Y2E.A3R.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	E	Error: No mutation needed
+6Y2E.A3E.pdb	A	2	G	Error: No mutation needed
+6Y2E.A3E.pdb	A	2	T	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2T.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	N	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2N.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	I	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2I.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	V	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2V.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	M	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2M.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2W.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	C	L->S	Single Chain	Scwrl	6Y2E.A3E.A3C.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	D	L->S	Single Chain	Scwrl	6Y2E.A3E.A3D.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	S	L->S	Single Chain	Scwrl	6Y2E.A3E.A3S.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	V	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3V.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	H	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2H.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	T	L->S	Single Chain	Scwrl	6Y2E.A3E.A3T.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	A	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2A.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2Y.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	M	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3M.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	P	L->S	Single Chain	Scwrl	6Y2E.A3E.A3P.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3Y.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	L	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2L.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	S	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2S.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	K	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2K.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	C	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2C.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A3E.A3A.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	I	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3I.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	L	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3L.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A3E.A3G.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	F	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2F.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	P	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2P.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2R.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	D	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2D.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	N	L->S	Single Chain	Scwrl	6Y2E.A3E.A3N.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	E	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2E.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	F	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3F.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	2	Q	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A2Q.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	W	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3W.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	H	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3H.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	K	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3K.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	R	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3R.pdb	Forced: Skipped
+6Y2E.A3E.pdb	A	3	Q	Not L->S	Single Chain	Scwrl	6Y2E.A3E.A3Q.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	K	Error: No mutation needed
+6Y2E.A2K.pdb	A	3	F	Error: No mutation needed
+6Y2E.A2K.pdb	A	2	T	L->S	Single Chain	Scwrl	6Y2E.A2K.A2T.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	D	L->S	Single Chain	Scwrl	6Y2E.A2K.A2D.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	M	L->S	Single Chain	Scwrl	6Y2E.A2K.A2M.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	L	L->S	Single Chain	Scwrl	6Y2E.A2K.A2L.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	A	L->S	Single Chain	Scwrl	6Y2E.A2K.A2A.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A2K.A3G.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	V	L->S	Single Chain	Scwrl	6Y2E.A2K.A3V.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	N	L->S	Single Chain	Scwrl	6Y2E.A2K.A2N.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	C	L->S	Single Chain	Scwrl	6Y2E.A2K.A2C.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	G	L->S	Single Chain	Scwrl	6Y2E.A2K.A2G.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	I	L->S	Single Chain	Scwrl	6Y2E.A2K.A2I.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	Y	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A2Y.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	V	L->S	Single Chain	Scwrl	6Y2E.A2K.A2V.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	W	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A3W.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	H	L->S	Single Chain	Scwrl	6Y2E.A2K.A2H.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	I	L->S	Single Chain	Scwrl	6Y2E.A2K.A3I.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A2R.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	N	L->S	Single Chain	Scwrl	6Y2E.A2K.A3N.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	P	L->S	Single Chain	Scwrl	6Y2E.A2K.A3P.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	D	L->S	Single Chain	Scwrl	6Y2E.A2K.A3D.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A2W.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	F	L->S	Single Chain	Scwrl	6Y2E.A2K.A2F.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	E	L->S	Single Chain	Scwrl	6Y2E.A2K.A2E.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	L	L->S	Single Chain	Scwrl	6Y2E.A2K.A3L.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	H	L->S	Single Chain	Scwrl	6Y2E.A2K.A3H.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	P	L->S	Single Chain	Scwrl	6Y2E.A2K.A2P.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	S	L->S	Single Chain	Scwrl	6Y2E.A2K.A3S.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	S	L->S	Single Chain	Scwrl	6Y2E.A2K.A2S.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	C	L->S	Single Chain	Scwrl	6Y2E.A2K.A3C.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A2K.A3A.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	T	L->S	Single Chain	Scwrl	6Y2E.A2K.A3T.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	2	Q	L->S	Single Chain	Scwrl	6Y2E.A2K.A2Q.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	K	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A3K.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A3Y.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	M	L->S	Single Chain	Scwrl	6Y2E.A2K.A3M.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	Q	L->S	Single Chain	Scwrl	6Y2E.A2K.A3Q.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	E	L->S	Single Chain	Scwrl	6Y2E.A2K.A3E.pdb	Forced: Skipped
+6Y2E.A2K.pdb	A	3	R	Not L->S	Single Chain	Scwrl	6Y2E.A2K.A3R.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	G	Error: No mutation needed
+6Y2E.A3L.pdb	A	3	L	Error: No mutation needed
+6Y2E.A3L.pdb	A	3	C	L->S	Single Chain	Scwrl	6Y2E.A3L.A3C.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A3L.A3G.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	T	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2T.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	I	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2I.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A3L.A3A.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	P	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2P.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	C	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2C.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	I	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A3I.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	P	L->S	Single Chain	Scwrl	6Y2E.A3L.A3P.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	L	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2L.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	V	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2V.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	D	L->S	Single Chain	Scwrl	6Y2E.A3L.A3D.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	M	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2M.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	F	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2F.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	A	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2A.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2W.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	Q	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2Q.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	H	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2H.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	T	L->S	Single Chain	Scwrl	6Y2E.A3L.A3T.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	N	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2N.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	S	L->S	Single Chain	Scwrl	6Y2E.A3L.A3S.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	F	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A3F.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	N	L->S	Single Chain	Scwrl	6Y2E.A3L.A3N.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	K	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2K.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	S	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2S.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2R.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	H	L->S	Single Chain	Scwrl	6Y2E.A3L.A3H.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2Y.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A3Y.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	W	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A3W.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	V	L->S	Single Chain	Scwrl	6Y2E.A3L.A3V.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	M	L->S	Single Chain	Scwrl	6Y2E.A3L.A3M.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	E	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2E.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	2	D	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A2D.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	K	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A3K.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	E	L->S	Single Chain	Scwrl	6Y2E.A3L.A3E.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	Q	L->S	Single Chain	Scwrl	6Y2E.A3L.A3Q.pdb	Forced: Skipped
+6Y2E.A3L.pdb	A	3	R	Not L->S	Single Chain	Scwrl	6Y2E.A3L.A3R.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	F	Error: No mutation needed
+6Y2E.A2Y.pdb	A	2	Y	Error: No mutation needed
+6Y2E.A2Y.pdb	A	2	S	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2S.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	W	Not L->S	Single Chain	Scwrl	6Y2E.A2Y.A2W.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	I	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2I.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	N	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2N.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	G	L->S	Single Chain	Scwrl	6Y2E.A2Y.A3G.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	H	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2H.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	F	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2F.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	A	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2A.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	H	L->S	Single Chain	Scwrl	6Y2E.A2Y.A3H.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	A	L->S	Single Chain	Scwrl	6Y2E.A2Y.A3A.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	V	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2V.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	L	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2L.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	G	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2G.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	E	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2E.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	L	L->S	Single Chain	Scwrl	6Y2E.A2Y.A3L.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	M	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2M.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	P	L->S	Single Chain	Scwrl	6Y2E.A2Y.A3P.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	6Y2E.A2Y.A3Y.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	K	Not L->S	Single Chain	Scwrl	6Y2E.A2Y.A2K.pdb	Forced: Skipped
+6Y2E.A2Y.pdb	A	2	P	L->S	Single Chain	Scwrl	6Y2E.A2Y.A2P.pdb	Forced: Skipped
+6Y2E.pdb	A	2	A	Not L->S	Single Chain	Scwrl	6Y2E.A2A_em.pdb	Forced: Run
+6Y2E.pdb	A	2	R	Not L->S	Single Chain	Scwrl	6Y2E.A2R_em.pdb	Forced: Run
+6Y2E.pdb	A	12	A	L->S	Single Chain	Scwrl	6Y2E.A12A.pdb	Forced: Skipped
+6Y2E.A12A.pdb	A	12	R	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12R_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	N	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12N_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	D	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12D_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	C	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12C_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12Q_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	E	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12E_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	G	L->S	Single Chain	Scwrl	6Y2E.A12A.A12G_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	H	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12H_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	I	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12I_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	L	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12L_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	M	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12M_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	F	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12F_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	P	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12P_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	S	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12S_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	T	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12T_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	W	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12W_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12Y_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	12	V	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A12V_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A12A.A13A_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13R_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A12A.A13N_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A12A.A13D_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A12A.A13C_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13Q_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13E_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A12A.A13G_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13H_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13I_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13L_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13K_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13M_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13F_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A12A.A13P_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A12A.A13S_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A12A.A13T_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13W_em.pdb	Forced: Run
+6Y2E.A12A.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12A.A13Y_em.pdb	Forced: Run
+6Y2E.pdb	A	12	R	Not L->S	Single Chain	Scwrl	6Y2E.A12R.pdb	Forced: Skipped
+6Y2E.A12R.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A12R.A13A_em.pdb	Forced: Run
+6Y2E.A12R.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A12R.A13R_em.pdb	Forced: Run
+6Y2E.A12R.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A12R.A13N_em.pdb	Forced: Run
+6Y2E.A12R.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A12R.A13D_em.pdb	Forced: Run
+6Y2E.A12R.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A12R.A13C_em.pdb	Forced: Run
+6Y2E.A12R.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12R.A13Q_em.pdb	Forced: Run
+6Y2E.A12R.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A12R.A13E_em.pdb	Forced: Run
+6Y2E.A12R.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A12R.A13G_em.pdb	Forced: Run
+6Y2E.A12R.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A12R.A13H_em.pdb	Forced: Run
+6Y2E.A12R.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A12R.A13I_em.pdb	Forced: Run
+6Y2E.A12R.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A12R.A13L_em.pdb	Forced: Run
+6Y2E.A12R.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A12R.A13K_em.pdb	Forced: Run
+6Y2E.A12R.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A12R.A13M_em.pdb	Forced: Run
+6Y2E.A12R.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A12R.A13F_em.pdb	Forced: Run
+6Y2E.A12R.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A12R.A13P_em.pdb	Forced: Run
+6Y2E.A12R.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A12R.A13S_em.pdb	Forced: Run
+6Y2E.A12R.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A12R.A13T_em.pdb	Forced: Run
+6Y2E.A12R.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A12R.A13W_em.pdb	Forced: Run
+6Y2E.A12R.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12R.A13Y_em.pdb	Forced: Run
+6Y2E.pdb	A	12	N	L->S	Single Chain	Scwrl	6Y2E.A12N.pdb	Forced: Skipped
+6Y2E.A12N.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A12N.A13A_em.pdb	Forced: Run
+6Y2E.A12N.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A12N.A13R_em.pdb	Forced: Run
+6Y2E.A12N.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A12N.A13N_em.pdb	Forced: Run
+6Y2E.A12N.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A12N.A13D_em.pdb	Forced: Run
+6Y2E.A12N.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A12N.A13C_em.pdb	Forced: Run
+6Y2E.A12N.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12N.A13Q_em.pdb	Forced: Run
+6Y2E.A12N.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A12N.A13E_em.pdb	Forced: Run
+6Y2E.A12N.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A12N.A13G_em.pdb	Forced: Run
+6Y2E.A12N.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A12N.A13H_em.pdb	Forced: Run
+6Y2E.A12N.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A12N.A13I_em.pdb	Forced: Run
+6Y2E.A12N.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A12N.A13L_em.pdb	Forced: Run
+6Y2E.A12N.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A12N.A13K_em.pdb	Forced: Run
+6Y2E.A12N.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A12N.A13M_em.pdb	Forced: Run
+6Y2E.A12N.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A12N.A13F_em.pdb	Forced: Run
+6Y2E.A12N.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A12N.A13P_em.pdb	Forced: Run
+6Y2E.A12N.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A12N.A13S_em.pdb	Forced: Run
+6Y2E.A12N.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A12N.A13T_em.pdb	Forced: Run
+6Y2E.A12N.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A12N.A13W_em.pdb	Forced: Run
+6Y2E.pdb	A	12	D	L->S	Single Chain	Scwrl	6Y2E.A12D.pdb	Forced: Skipped
+6Y2E.A12N.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12N.A13Y_em.pdb	Forced: Run
+6Y2E.A12D.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A12D.A13A_em.pdb	Forced: Run
+6Y2E.A12D.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A12D.A13R_em.pdb	Forced: Run
+6Y2E.A12D.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A12D.A13N_em.pdb	Forced: Run
+6Y2E.A12D.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A12D.A13D_em.pdb	Forced: Run
+6Y2E.A12D.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A12D.A13C_em.pdb	Forced: Run
+6Y2E.A12D.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12D.A13Q_em.pdb	Forced: Run
+6Y2E.A12D.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A12D.A13E_em.pdb	Forced: Run
+6Y2E.A12D.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A12D.A13G_em.pdb	Forced: Run
+6Y2E.A12D.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A12D.A13H_em.pdb	Forced: Run
+6Y2E.A12D.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A12D.A13I_em.pdb	Forced: Run
+6Y2E.A12D.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A12D.A13L_em.pdb	Forced: Run
+6Y2E.A12D.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A12D.A13K_em.pdb	Forced: Run
+6Y2E.A12D.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A12D.A13M_em.pdb	Forced: Run
+6Y2E.A12D.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A12D.A13F_em.pdb	Forced: Run
+6Y2E.A12D.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A12D.A13P_em.pdb	Forced: Run
+6Y2E.A12D.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A12D.A13S_em.pdb	Forced: Run
+6Y2E.A12D.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A12D.A13T_em.pdb	Forced: Run
+6Y2E.A12D.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A12D.A13W_em.pdb	Forced: Run
+6Y2E.pdb	A	12	C	L->S	Single Chain	Scwrl	6Y2E.A12C.pdb	Forced: Skipped
+6Y2E.A12D.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12D.A13Y_em.pdb	Forced: Run
+6Y2E.A12C.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A12C.A13A_em.pdb	Forced: Run
+6Y2E.A12C.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A12C.A13R_em.pdb	Forced: Run
+6Y2E.A12C.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A12C.A13N_em.pdb	Forced: Run
+6Y2E.A12C.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A12C.A13D_em.pdb	Forced: Run
+6Y2E.A12C.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A12C.A13C_em.pdb	Forced: Run
+6Y2E.A12C.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12C.A13Q_em.pdb	Forced: Run
+6Y2E.A12C.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A12C.A13E_em.pdb	Forced: Run
+6Y2E.A12C.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A12C.A13G_em.pdb	Forced: Run
+6Y2E.A12C.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A12C.A13H_em.pdb	Forced: Run
+6Y2E.A12C.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A12C.A13I_em.pdb	Forced: Run
+6Y2E.A12C.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A12C.A13L_em.pdb	Forced: Run
+6Y2E.A12C.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A12C.A13K_em.pdb	Forced: Run
+6Y2E.A12C.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A12C.A13M_em.pdb	Forced: Run
+6Y2E.A12C.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A12C.A13F_em.pdb	Forced: Run
+6Y2E.A12C.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A12C.A13P_em.pdb	Forced: Run
+6Y2E.A12C.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A12C.A13S_em.pdb	Forced: Run
+6Y2E.A12C.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A12C.A13T_em.pdb	Forced: Run
+6Y2E.A12C.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A12C.A13W_em.pdb	Forced: Run
+6Y2E.pdb	A	12	Q	L->S	Single Chain	Scwrl	6Y2E.A12Q.pdb	Forced: Skipped
+6Y2E.A12C.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12C.A13Y_em.pdb	Forced: Run
+6Y2E.A12Q.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A12Q.A13A_em.pdb	Forced: Run
+6Y2E.A12Q.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A12Q.A13R_em.pdb	Forced: Run
+6Y2E.A12Q.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A12Q.A13N_em.pdb	Forced: Run
+6Y2E.A12Q.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A12Q.A13D_em.pdb	Forced: Run
+6Y2E.A12Q.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A12Q.A13C_em.pdb	Forced: Run
+6Y2E.A12Q.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12Q.A13Q_em.pdb	Forced: Run
+6Y2E.A12Q.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A12Q.A13E_em.pdb	Forced: Run
+6Y2E.A12Q.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A12Q.A13G_em.pdb	Forced: Run
+6Y2E.A12Q.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A12Q.A13H_em.pdb	Forced: Run
+6Y2E.A12Q.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A12Q.A13I_em.pdb	Forced: Run
+6Y2E.A12Q.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A12Q.A13L_em.pdb	Forced: Run
+6Y2E.A12Q.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A12Q.A13K_em.pdb	Forced: Run
+6Y2E.A12Q.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A12Q.A13M_em.pdb	Forced: Run
+6Y2E.A12Q.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A12Q.A13F_em.pdb	Forced: Run
+6Y2E.A12Q.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A12Q.A13P_em.pdb	Forced: Run
+6Y2E.A12Q.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A12Q.A13S_em.pdb	Forced: Run
+6Y2E.A12Q.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A12Q.A13T_em.pdb	Forced: Run
+6Y2E.A12Q.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A12Q.A13W_em.pdb	Forced: Run
+6Y2E.A12Q.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12Q.A13Y_em.pdb	Forced: Run
+6Y2E.pdb	A	12	E	L->S	Single Chain	Scwrl	6Y2E.A12E.pdb	Forced: Skipped
+6Y2E.A12E.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A12E.A13A_em.pdb	Forced: Run
+6Y2E.A12E.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A12E.A13R_em.pdb	Forced: Run
+6Y2E.A12E.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A12E.A13N_em.pdb	Forced: Run
+6Y2E.A12E.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A12E.A13D_em.pdb	Forced: Run
+6Y2E.A12E.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A12E.A13C_em.pdb	Forced: Run
+6Y2E.A12E.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12E.A13Q_em.pdb	Forced: Run
+6Y2E.A12E.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A12E.A13E_em.pdb	Forced: Run
+6Y2E.A12E.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A12E.A13G_em.pdb	Forced: Run
+6Y2E.A12E.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A12E.A13H_em.pdb	Forced: Run
+6Y2E.A12E.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A12E.A13I_em.pdb	Forced: Run
+6Y2E.A12E.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A12E.A13L_em.pdb	Forced: Run
+6Y2E.A12E.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A12E.A13K_em.pdb	Forced: Run
+6Y2E.A12E.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A12E.A13M_em.pdb	Forced: Run
+6Y2E.A12E.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A12E.A13F_em.pdb	Forced: Run
+6Y2E.A12E.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A12E.A13P_em.pdb	Forced: Run
+6Y2E.A12E.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A12E.A13S_em.pdb	Forced: Run
+6Y2E.A12E.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A12E.A13T_em.pdb	Forced: Run
+6Y2E.A12E.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A12E.A13W_em.pdb	Forced: Run
+6Y2E.A12E.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12E.A13Y_em.pdb	Forced: Run
+6Y2E.pdb	A	12	G	L->S	Single Chain	Scwrl	6Y2E.A12G.pdb	Forced: Skipped
+6Y2E.A12G.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A12G.A13A_em.pdb	Forced: Run
+6Y2E.A12G.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A12G.A13R_em.pdb	Forced: Run
+6Y2E.A12G.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A12G.A13N_em.pdb	Forced: Run
+6Y2E.A12G.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A12G.A13D_em.pdb	Forced: Run
+6Y2E.A12G.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A12G.A13C_em.pdb	Forced: Run
+6Y2E.A12G.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12G.A13Q_em.pdb	Forced: Run
+6Y2E.A12G.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A12G.A13E_em.pdb	Forced: Run
+6Y2E.A12G.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A12G.A13G_em.pdb	Forced: Run
+6Y2E.A12G.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A12G.A13H_em.pdb	Forced: Run
+6Y2E.A12G.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A12G.A13I_em.pdb	Forced: Run
+6Y2E.A12G.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A12G.A13L_em.pdb	Forced: Run
+6Y2E.A12G.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A12G.A13K_em.pdb	Forced: Run
+6Y2E.A12G.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A12G.A13M_em.pdb	Forced: Run
+6Y2E.A12G.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A12G.A13F_em.pdb	Forced: Run
+6Y2E.A12G.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A12G.A13P_em.pdb	Forced: Run
+6Y2E.A12G.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A12G.A13S_em.pdb	Forced: Run
+6Y2E.A12G.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A12G.A13T_em.pdb	Forced: Run
+6Y2E.A12G.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A12G.A13W_em.pdb	Forced: Run
+6Y2E.A12G.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12G.A13Y_em.pdb	Forced: Run
+6Y2E.pdb	A	12	H	L->S	Single Chain	Scwrl	6Y2E.A12H.pdb	Forced: Skipped
+6Y2E.A12H.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A12H.A13A_em.pdb	Forced: Run
+6Y2E.A12H.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A12H.A13R_em.pdb	Forced: Run
+6Y2E.A12H.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A12H.A13N_em.pdb	Forced: Run
+6Y2E.A12H.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A12H.A13D_em.pdb	Forced: Run
+6Y2E.A12H.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A12H.A13C_em.pdb	Forced: Run
+6Y2E.A12H.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12H.A13Q_em.pdb	Forced: Run
+6Y2E.A12H.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A12H.A13E_em.pdb	Forced: Run
+6Y2E.A12H.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A12H.A13G_em.pdb	Forced: Run
+6Y2E.A12H.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A12H.A13H_em.pdb	Forced: Run
+6Y2E.A12H.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A12H.A13I_em.pdb	Forced: Run
+6Y2E.A12H.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A12H.A13L_em.pdb	Forced: Run
+6Y2E.A12H.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A12H.A13K_em.pdb	Forced: Run
+6Y2E.A12H.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A12H.A13M_em.pdb	Forced: Run
+6Y2E.A12H.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A12H.A13F_em.pdb	Forced: Run
+6Y2E.A12H.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A12H.A13P_em.pdb	Forced: Run
+6Y2E.A12H.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A12H.A13S_em.pdb	Forced: Run
+6Y2E.A12H.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A12H.A13T_em.pdb	Forced: Run
+6Y2E.A12H.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A12H.A13W_em.pdb	Forced: Run
+6Y2E.A12H.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12H.A13Y_em.pdb	Forced: Run
+6Y2E.pdb	A	12	I	L->S	Single Chain	Scwrl	6Y2E.A12I.pdb	Forced: Skipped
+6Y2E.A12I.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A12I.A13A_em.pdb	Forced: Run
+6Y2E.A12I.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A12I.A13R_em.pdb	Forced: Run
+6Y2E.A12I.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A12I.A13N_em.pdb	Forced: Run
+6Y2E.A12I.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A12I.A13D_em.pdb	Forced: Run
+6Y2E.A12I.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A12I.A13C_em.pdb	Forced: Run
+6Y2E.A12I.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12I.A13Q_em.pdb	Forced: Run
+6Y2E.A12I.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A12I.A13E_em.pdb	Forced: Run
+6Y2E.A12I.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A12I.A13G_em.pdb	Forced: Run
+6Y2E.A12I.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A12I.A13H_em.pdb	Forced: Run
+6Y2E.A12I.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A12I.A13I_em.pdb	Forced: Run
+6Y2E.A12I.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A12I.A13L_em.pdb	Forced: Run
+6Y2E.A12I.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A12I.A13K_em.pdb	Forced: Run
+6Y2E.A12I.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A12I.A13M_em.pdb	Forced: Run
+6Y2E.A12I.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A12I.A13F_em.pdb	Forced: Run
+6Y2E.A12I.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A12I.A13P_em.pdb	Forced: Run
+6Y2E.A12I.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A12I.A13S_em.pdb	Forced: Run
+6Y2E.A12I.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A12I.A13T_em.pdb	Forced: Run
+6Y2E.A12I.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A12I.A13W_em.pdb	Forced: Run
+6Y2E.A12I.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12I.A13Y_em.pdb	Forced: Run
+6Y2E.pdb	A	12	L	L->S	Single Chain	Scwrl	6Y2E.A12L.pdb	Forced: Skipped
+6Y2E.A12L.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A12L.A13A_em.pdb	Forced: Run
+6Y2E.A12L.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A12L.A13R_em.pdb	Forced: Run
+6Y2E.A12L.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A12L.A13N_em.pdb	Forced: Run
+6Y2E.A12L.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A12L.A13D_em.pdb	Forced: Run
+6Y2E.A12L.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A12L.A13C_em.pdb	Forced: Run
+6Y2E.A12L.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12L.A13Q_em.pdb	Forced: Run
+6Y2E.A12L.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A12L.A13E_em.pdb	Forced: Run
+6Y2E.A12L.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A12L.A13G_em.pdb	Forced: Run
+6Y2E.A12L.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A12L.A13H_em.pdb	Forced: Run
+6Y2E.A12L.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A12L.A13I_em.pdb	Forced: Run
+6Y2E.A12L.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A12L.A13L_em.pdb	Forced: Run
+6Y2E.A12L.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A12L.A13K_em.pdb	Forced: Run
+6Y2E.A12L.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A12L.A13M_em.pdb	Forced: Run
+6Y2E.A12L.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A12L.A13F_em.pdb	Forced: Run
+6Y2E.A12L.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A12L.A13P_em.pdb	Forced: Run
+6Y2E.A12L.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A12L.A13S_em.pdb	Forced: Run
+6Y2E.A12L.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A12L.A13T_em.pdb	Forced: Run
+6Y2E.pdb	A	12	K	Error: No mutation needed
+6Y2E.A12L.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A12L.A13W_em.pdb	Forced: Run
+6Y2E.A12K.pdb	A	13	A	Error: Getting source residue
+6Y2E.A12L.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12L.A13Y_em.pdb	Forced: Run
+6Y2E.A12K.pdb	A	13	R	Error: Getting source residue
+6Y2E.A12K.pdb	A	13	N	Error: Getting source residue
+6Y2E.A12K.pdb	A	13	D	Error: Getting source residue
+6Y2E.A12K.pdb	A	13	C	Error: Getting source residue
+6Y2E.A12K.pdb	A	13	Q	Error: Getting source residue
+6Y2E.A12K.pdb	A	13	E	Error: Getting source residue
+6Y2E.A12K.pdb	A	13	G	Error: Getting source residue
+6Y2E.A12K.pdb	A	13	H	Error: Getting source residue
+6Y2E.A12K.pdb	A	13	I	Error: Getting source residue
+6Y2E.A12K.pdb	A	13	L	Error: Getting source residue
+6Y2E.A12K.pdb	A	13	K	Error: Getting source residue
+6Y2E.A12K.pdb	A	13	M	Error: Getting source residue
+6Y2E.A12K.pdb	A	13	F	Error: Getting source residue
+6Y2E.A12K.pdb	A	13	P	Error: Getting source residue
+6Y2E.A12K.pdb	A	13	S	Error: Getting source residue
+6Y2E.A12K.pdb	A	13	T	Error: Getting source residue
+6Y2E.A12K.pdb	A	13	W	Error: Getting source residue
+6Y2E.A12K.pdb	A	13	Y	Error: Getting source residue
+6Y2E.pdb	A	12	M	L->S	Single Chain	Scwrl	6Y2E.A12M.pdb	Forced: Skipped
+6Y2E.A12M.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A12M.A13A_em.pdb	Forced: Run
+6Y2E.A12M.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A12M.A13R_em.pdb	Forced: Run
+6Y2E.A12M.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A12M.A13N_em.pdb	Forced: Run
+6Y2E.A12M.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A12M.A13D_em.pdb	Forced: Run
+6Y2E.A12M.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A12M.A13C_em.pdb	Forced: Run
+6Y2E.A12M.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12M.A13Q_em.pdb	Forced: Run
+6Y2E.A12M.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A12M.A13E_em.pdb	Forced: Run
+6Y2E.A12M.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A12M.A13G_em.pdb	Forced: Run
+6Y2E.A12M.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A12M.A13H_em.pdb	Forced: Run
+6Y2E.A12M.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A12M.A13I_em.pdb	Forced: Run
+6Y2E.A12M.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A12M.A13L_em.pdb	Forced: Run
+6Y2E.A12M.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A12M.A13K_em.pdb	Forced: Run
+6Y2E.A12M.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A12M.A13M_em.pdb	Forced: Run
+6Y2E.A12M.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A12M.A13F_em.pdb	Forced: Run
+6Y2E.A12M.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A12M.A13P_em.pdb	Forced: Run
+6Y2E.A12M.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A12M.A13S_em.pdb	Forced: Run
+6Y2E.A12M.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A12M.A13T_em.pdb	Forced: Run
+6Y2E.A12M.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A12M.A13W_em.pdb	Forced: Run
+6Y2E.A12M.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12M.A13Y_em.pdb	Forced: Run
+6Y2E.pdb	A	12	F	L->S	Single Chain	Scwrl	6Y2E.A12F.pdb	Forced: Skipped
+6Y2E.A12F.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A12F.A13A_em.pdb	Forced: Run
+6Y2E.A12F.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A12F.A13R_em.pdb	Forced: Run
+6Y2E.A12F.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A12F.A13N_em.pdb	Forced: Run
+6Y2E.A12F.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A12F.A13D_em.pdb	Forced: Run
+6Y2E.A12F.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A12F.A13C_em.pdb	Forced: Run
+6Y2E.A12F.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12F.A13Q_em.pdb	Forced: Run
+6Y2E.A12F.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A12F.A13E_em.pdb	Forced: Run
+6Y2E.A12F.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A12F.A13G_em.pdb	Forced: Run
+6Y2E.A12F.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A12F.A13H_em.pdb	Forced: Run
+6Y2E.A12F.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A12F.A13I_em.pdb	Forced: Run
+6Y2E.A12F.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A12F.A13L_em.pdb	Forced: Run
+6Y2E.A12F.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A12F.A13K_em.pdb	Forced: Run
+6Y2E.A12F.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A12F.A13M_em.pdb	Forced: Run
+6Y2E.A12F.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A12F.A13F_em.pdb	Forced: Run
+6Y2E.A12F.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A12F.A13P_em.pdb	Forced: Run
+6Y2E.A12F.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A12F.A13S_em.pdb	Forced: Run
+6Y2E.A12F.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A12F.A13T_em.pdb	Forced: Run
+6Y2E.A12F.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A12F.A13W_em.pdb	Forced: Run
+6Y2E.A12F.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12F.A13Y_em.pdb	Forced: Run
+6Y2E.pdb	A	12	P	L->S	Single Chain	Scwrl	6Y2E.A12P.pdb	Forced: Skipped
+6Y2E.A12P.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A12P.A13A_em.pdb	Forced: Run
+6Y2E.A12P.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A12P.A13R_em.pdb	Forced: Run
+6Y2E.A12P.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A12P.A13N_em.pdb	Forced: Run
+6Y2E.A12P.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A12P.A13D_em.pdb	Forced: Run
+6Y2E.A12P.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A12P.A13C_em.pdb	Forced: Run
+6Y2E.A12P.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12P.A13Q_em.pdb	Forced: Run
+6Y2E.A12P.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A12P.A13E_em.pdb	Forced: Run
+6Y2E.A12P.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A12P.A13G_em.pdb	Forced: Run
+6Y2E.A12P.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A12P.A13H_em.pdb	Forced: Run
+6Y2E.A12P.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A12P.A13I_em.pdb	Forced: Run
+6Y2E.A12P.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A12P.A13L_em.pdb	Forced: Run
+6Y2E.A12P.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A12P.A13K_em.pdb	Forced: Run
+6Y2E.A12P.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A12P.A13M_em.pdb	Forced: Run
+6Y2E.A12P.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A12P.A13F_em.pdb	Forced: Run
+6Y2E.A12P.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A12P.A13P_em.pdb	Forced: Run
+6Y2E.A12P.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A12P.A13S_em.pdb	Forced: Run
+6Y2E.A12P.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A12P.A13T_em.pdb	Forced: Run
+6Y2E.A12P.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A12P.A13W_em.pdb	Forced: Run
+6Y2E.A12P.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12P.A13Y_em.pdb	Forced: Run
+6Y2E.pdb	A	12	S	L->S	Single Chain	Scwrl	6Y2E.A12S.pdb	Forced: Skipped
+6Y2E.A12S.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A12S.A13A_em.pdb	Forced: Run
+6Y2E.A12S.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A12S.A13R_em.pdb	Forced: Run
+6Y2E.A12S.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A12S.A13N_em.pdb	Forced: Run
+6Y2E.A12S.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A12S.A13D_em.pdb	Forced: Run
+6Y2E.A12S.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A12S.A13C_em.pdb	Forced: Run
+6Y2E.A12S.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12S.A13Q_em.pdb	Forced: Run
+6Y2E.A12S.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A12S.A13E_em.pdb	Forced: Run
+6Y2E.A12S.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A12S.A13G_em.pdb	Forced: Run
+6Y2E.A12S.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A12S.A13H_em.pdb	Forced: Run
+6Y2E.A12S.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A12S.A13I_em.pdb	Forced: Run
+6Y2E.A12S.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A12S.A13L_em.pdb	Forced: Run
+6Y2E.A12S.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A12S.A13K_em.pdb	Forced: Run
+6Y2E.A12S.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A12S.A13M_em.pdb	Forced: Run
+6Y2E.A12S.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A12S.A13F_em.pdb	Forced: Run
+6Y2E.A12S.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A12S.A13P_em.pdb	Forced: Run
+6Y2E.A12S.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A12S.A13S_em.pdb	Forced: Run
+6Y2E.A12S.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A12S.A13T_em.pdb	Forced: Run
+6Y2E.A12S.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A12S.A13W_em.pdb	Forced: Run
+6Y2E.A12S.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12S.A13Y_em.pdb	Forced: Run
+6Y2E.pdb	A	12	T	L->S	Single Chain	Scwrl	6Y2E.A12T.pdb	Forced: Skipped
+6Y2E.A12T.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A12T.A13A_em.pdb	Forced: Run
+6Y2E.A12T.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A12T.A13R_em.pdb	Forced: Run
+6Y2E.A12T.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A12T.A13N_em.pdb	Forced: Run
+6Y2E.A12T.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A12T.A13D_em.pdb	Forced: Run
+6Y2E.A12T.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A12T.A13C_em.pdb	Forced: Run
+6Y2E.A12T.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12T.A13Q_em.pdb	Forced: Run
+6Y2E.A12T.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A12T.A13E_em.pdb	Forced: Run
+6Y2E.A12T.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A12T.A13G_em.pdb	Forced: Run
+6Y2E.A12T.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A12T.A13H_em.pdb	Forced: Run
+6Y2E.A12T.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A12T.A13I_em.pdb	Forced: Run
+6Y2E.A12T.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A12T.A13L_em.pdb	Forced: Run
+6Y2E.A12T.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A12T.A13K_em.pdb	Forced: Run
+6Y2E.A12T.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A12T.A13M_em.pdb	Forced: Run
+6Y2E.A12T.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A12T.A13F_em.pdb	Forced: Run
+6Y2E.A12T.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A12T.A13P_em.pdb	Forced: Run
+6Y2E.A12T.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A12T.A13S_em.pdb	Forced: Run
+6Y2E.A12T.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A12T.A13T_em.pdb	Forced: Run
+6Y2E.A12T.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A12T.A13W_em.pdb	Forced: Run
+6Y2E.A12T.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12T.A13Y_em.pdb	Forced: Run
+6Y2E.pdb	A	12	W	Not L->S	Single Chain	Scwrl	6Y2E.A12W.pdb	Forced: Skipped
+6Y2E.A12W.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A12W.A13A_em.pdb	Forced: Run
+6Y2E.A12W.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A12W.A13R_em.pdb	Forced: Run
+6Y2E.A12W.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A12W.A13N_em.pdb	Forced: Run
+6Y2E.A12W.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A12W.A13D_em.pdb	Forced: Run
+6Y2E.A12W.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A12W.A13C_em.pdb	Forced: Run
+6Y2E.A12W.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12W.A13Q_em.pdb	Forced: Run
+6Y2E.A12W.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A12W.A13E_em.pdb	Forced: Run
+6Y2E.A12W.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A12W.A13G_em.pdb	Forced: Run
+6Y2E.A12W.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A12W.A13H_em.pdb	Forced: Run
+6Y2E.A12W.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A12W.A13I_em.pdb	Forced: Run
+6Y2E.A12W.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A12W.A13L_em.pdb	Forced: Run
+6Y2E.A12W.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A12W.A13K_em.pdb	Forced: Run
+6Y2E.A12W.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A12W.A13M_em.pdb	Forced: Run
+6Y2E.A12W.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A12W.A13F_em.pdb	Forced: Run
+6Y2E.A12W.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A12W.A13P_em.pdb	Forced: Run
+6Y2E.A12W.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A12W.A13S_em.pdb	Forced: Run
+6Y2E.A12W.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A12W.A13T_em.pdb	Forced: Run
+6Y2E.A12W.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A12W.A13W_em.pdb	Forced: Run
+6Y2E.pdb	A	12	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12Y.pdb	Forced: Skipped
+6Y2E.A12W.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12W.A13Y_em.pdb	Forced: Run
+6Y2E.A12Y.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A12Y.A13A_em.pdb	Forced: Run
+6Y2E.A12Y.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A12Y.A13R_em.pdb	Forced: Run
+6Y2E.A12Y.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A12Y.A13N_em.pdb	Forced: Run
+6Y2E.A12Y.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A12Y.A13D_em.pdb	Forced: Run
+6Y2E.A12Y.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A12Y.A13C_em.pdb	Forced: Run
+6Y2E.A12Y.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12Y.A13Q_em.pdb	Forced: Run
+6Y2E.A12Y.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A12Y.A13E_em.pdb	Forced: Run
+6Y2E.A12Y.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A12Y.A13G_em.pdb	Forced: Run
+6Y2E.A12Y.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A12Y.A13H_em.pdb	Forced: Run
+6Y2E.A12Y.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A12Y.A13I_em.pdb	Forced: Run
+6Y2E.A12Y.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A12Y.A13L_em.pdb	Forced: Run
+6Y2E.A12Y.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A12Y.A13K_em.pdb	Forced: Run
+6Y2E.A12Y.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A12Y.A13M_em.pdb	Forced: Run
+6Y2E.A12Y.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A12Y.A13F_em.pdb	Forced: Run
+6Y2E.A12Y.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A12Y.A13P_em.pdb	Forced: Run
+6Y2E.A12Y.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A12Y.A13S_em.pdb	Forced: Run
+6Y2E.A12Y.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A12Y.A13T_em.pdb	Forced: Run
+6Y2E.A12Y.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A12Y.A13W_em.pdb	Forced: Run
+6Y2E.pdb	A	12	V	L->S	Single Chain	Scwrl	6Y2E.A12V.pdb	Forced: Skipped
+6Y2E.A12Y.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12Y.A13Y_em.pdb	Forced: Run
+6Y2E.A12V.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A12V.A13A_em.pdb	Forced: Run
+6Y2E.A12V.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A12V.A13R_em.pdb	Forced: Run
+6Y2E.A12V.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A12V.A13N_em.pdb	Forced: Run
+6Y2E.A12V.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A12V.A13D_em.pdb	Forced: Run
+6Y2E.A12V.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A12V.A13C_em.pdb	Forced: Run
+6Y2E.A12V.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A12V.A13Q_em.pdb	Forced: Run
+6Y2E.A12V.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A12V.A13E_em.pdb	Forced: Run
+6Y2E.A12V.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A12V.A13G_em.pdb	Forced: Run
+6Y2E.A12V.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A12V.A13H_em.pdb	Forced: Run
+6Y2E.A12V.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A12V.A13I_em.pdb	Forced: Run
+6Y2E.A12V.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A12V.A13L_em.pdb	Forced: Run
+6Y2E.A12V.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A12V.A13K_em.pdb	Forced: Run
+6Y2E.A12V.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A12V.A13M_em.pdb	Forced: Run
+6Y2E.A12V.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A12V.A13F_em.pdb	Forced: Run
+6Y2E.A12V.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A12V.A13P_em.pdb	Forced: Run
+6Y2E.A12V.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A12V.A13S_em.pdb	Forced: Run
+6Y2E.A12V.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A12V.A13T_em.pdb	Forced: Run
+6Y2E.A12V.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A12V.A13W_em.pdb	Forced: Run
+6Y2E.pdb	A	13	A	L->S	Single Chain	Scwrl	6Y2E.A13A.pdb	Forced: Skipped
+6Y2E.A12V.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A12V.A13Y_em.pdb	Forced: Run
+6Y2E.pdb	A	13	R	Not L->S	Single Chain	Scwrl	6Y2E.A13R.pdb	Forced: Skipped
+6Y2E.pdb	A	13	N	L->S	Single Chain	Scwrl	6Y2E.A13N.pdb	Forced: Skipped
+6Y2E.pdb	A	13	D	L->S	Single Chain	Scwrl	6Y2E.A13D.pdb	Forced: Skipped
+6Y2E.pdb	A	13	C	L->S	Single Chain	Scwrl	6Y2E.A13C.pdb	Forced: Skipped
+6Y2E.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	6Y2E.A13Q.pdb	Forced: Skipped
+6Y2E.pdb	A	13	E	Not L->S	Single Chain	Scwrl	6Y2E.A13E.pdb	Forced: Skipped
+6Y2E.pdb	A	13	G	L->S	Single Chain	Scwrl	6Y2E.A13G.pdb	Forced: Skipped
+6Y2E.pdb	A	13	H	Not L->S	Single Chain	Scwrl	6Y2E.A13H.pdb	Forced: Skipped
+6Y2E.pdb	A	13	I	Not L->S	Single Chain	Scwrl	6Y2E.A13I.pdb	Forced: Skipped
+6Y2E.pdb	A	13	L	Not L->S	Single Chain	Scwrl	6Y2E.A13L.pdb	Forced: Skipped
+6Y2E.pdb	A	13	K	Not L->S	Single Chain	Scwrl	6Y2E.A13K.pdb	Forced: Skipped
+6Y2E.pdb	A	13	M	Not L->S	Single Chain	Scwrl	6Y2E.A13M.pdb	Forced: Skipped
+6Y2E.pdb	A	13	F	Not L->S	Single Chain	Scwrl	6Y2E.A13F.pdb	Forced: Skipped
+6Y2E.pdb	A	13	P	L->S	Single Chain	Scwrl	6Y2E.A13P.pdb	Forced: Skipped
+6Y2E.pdb	A	13	S	L->S	Single Chain	Scwrl	6Y2E.A13S.pdb	Forced: Skipped
+6Y2E.pdb	A	13	T	L->S	Single Chain	Scwrl	6Y2E.A13T.pdb	Forced: Skipped
+6Y2E.pdb	A	13	W	Not L->S	Single Chain	Scwrl	6Y2E.A13W.pdb	Forced: Skipped
+6Y2E.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	6Y2E.A13Y.pdb	Forced: Skipped
+6Y2E.pdb	A	13	V	Error: No mutation needed
+1CRN.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A13A.pdb	Forced: Skipped
+1CRN.A13A.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A13A.A13R_em.pdb	Forced: Run
+1CRN.A13A.pdb	A	13	N	Not L->S	Single Chain	Scwrl	1CRN.A13A.A13N_em.pdb	Forced: Run
+1CRN.A13A.pdb	A	13	D	Not L->S	Single Chain	Scwrl	1CRN.A13A.A13D_em.pdb	Forced: Run
+1CRN.A13A.pdb	A	13	C	Not L->S	Single Chain	Scwrl	1CRN.A13A.A13C_em.pdb	Forced: Run
+1CRN.A13A.pdb	A	13	Q	Not L->S	Single Chain	Scwrl	1CRN.A13A.A13Q_em.pdb	Forced: Run
+1CRN.A13A.pdb	A	13	E	Not L->S	Single Chain	Scwrl	1CRN.A13A.A13E_em.pdb	Forced: Run
+1CRN.A13A.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A13A.A13G_em.pdb	Forced: Run
+1CRN.A13A.pdb	A	13	H	Not L->S	Single Chain	Scwrl	1CRN.A13A.A13H_em.pdb	Forced: Run
+1CRN.A13A.pdb	A	13	I	Not L->S	Single Chain	Scwrl	1CRN.A13A.A13I_em.pdb	Forced: Run
+1CRN.A13A.pdb	A	13	L	Not L->S	Single Chain	Scwrl	1CRN.A13A.A13L_em.pdb	Forced: Run
+1CRN.A13A.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A13A.A13K_em.pdb	Forced: Run
+1CRN.A13A.pdb	A	13	M	Not L->S	Single Chain	Scwrl	1CRN.A13A.A13M_em.pdb	Forced: Run
+1CRN.A13A.pdb	A	13	P	Not L->S	Single Chain	Scwrl	1CRN.A13A.A13P_em.pdb	Forced: Run
+1CRN.A13A.pdb	A	13	S	Not L->S	Single Chain	Scwrl	1CRN.A13A.A13S_em.pdb	Forced: Run
+1CRN.A13A.pdb	A	13	T	Not L->S	Single Chain	Scwrl	1CRN.A13A.A13T_em.pdb	Forced: Run
+1CRN.A13A.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A13A.A13W_em.pdb	Forced: Run
+1CRN.A13A.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A13A.A13Y_em.pdb	Forced: Run
+1CRN.A13A.pdb	A	13	V	Not L->S	Single Chain	Scwrl	1CRN.A13A.A13V_em.pdb	Forced: Run
+1CRN.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A13R.pdb	Forced: Skipped
+1CRN.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A13N.pdb	Forced: Skipped
+1CRN.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A13D.pdb	Forced: Skipped
+1CRN.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A13C.pdb	Forced: Skipped
+1CRN.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A13Q.pdb	Forced: Skipped
+1CRN.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A13E.pdb	Forced: Skipped
+1CRN.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A13G.pdb	Forced: Skipped
+1CRN.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A13H.pdb	Forced: Skipped
+1CRN.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A13I.pdb	Forced: Skipped
+1CRN.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A13L.pdb	Forced: Skipped
+1CRN.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A13K.pdb	Forced: Skipped
+1CRN.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A13M.pdb	Forced: Skipped
+1CRN.pdb	A	13	F	Error: No mutation needed
+1CRN.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A13P.pdb	Forced: Skipped
+1CRN.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A13S.pdb	Forced: Skipped
+1CRN.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A13T.pdb	Forced: Skipped
+1CRN.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A13W.pdb	Forced: Skipped
+1CRN.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A13Y.pdb	Forced: Skipped
+1CRN.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A13V.pdb	Forced: Skipped
+1CRN.pdb	A	12	A	L->S	Single Chain	Scwrl	1CRN.A12A.pdb	Forced: Skipped
+1CRN.A12A.pdb	A	12	R	Not L->S	Single Chain	Scwrl	1CRN.A12A.A12R_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	12	D	Not L->S	Single Chain	Scwrl	1CRN.A12A.A12D_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	12	C	Not L->S	Single Chain	Scwrl	1CRN.A12A.A12C_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	12	Q	Not L->S	Single Chain	Scwrl	1CRN.A12A.A12Q_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	12	E	Not L->S	Single Chain	Scwrl	1CRN.A12A.A12E_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	12	G	L->S	Single Chain	Scwrl	1CRN.A12A.A12G_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	12	H	Not L->S	Single Chain	Scwrl	1CRN.A12A.A12H_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	12	I	Not L->S	Single Chain	Scwrl	1CRN.A12A.A12I_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	12	L	Not L->S	Single Chain	Scwrl	1CRN.A12A.A12L_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	12	K	Not L->S	Single Chain	Scwrl	1CRN.A12A.A12K_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	12	M	Not L->S	Single Chain	Scwrl	1CRN.A12A.A12M_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	12	F	Not L->S	Single Chain	Scwrl	1CRN.A12A.A12F_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	12	P	Not L->S	Single Chain	Scwrl	1CRN.A12A.A12P_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	12	S	Not L->S	Single Chain	Scwrl	1CRN.A12A.A12S_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	12	T	Not L->S	Single Chain	Scwrl	1CRN.A12A.A12T_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	12	W	Not L->S	Single Chain	Scwrl	1CRN.A12A.A12W_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	12	Y	Not L->S	Single Chain	Scwrl	1CRN.A12A.A12Y_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	12	V	Not L->S	Single Chain	Scwrl	1CRN.A12A.A12V_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A12A.A13A_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A12A.A13R_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A12A.A13N_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A12A.A13D_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A12A.A13C_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A12A.A13Q_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A12A.A13E_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A12A.A13G_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A12A.A13H_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A12A.A13I_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A12A.A13L_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A12A.A13K_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A12A.A13M_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A12A.A13P_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A12A.A13S_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A12A.A13T_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A12A.A13W_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A12A.A13Y_em.pdb	Forced: Run
+1CRN.A12A.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A12A.A13V_em.pdb	Forced: Run
+1CRN.pdb	A	12	R	Not L->S	Single Chain	Scwrl	1CRN.A12R.pdb	Forced: Skipped
+1CRN.A12R.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A12R.A13A_em.pdb	Forced: Run
+1CRN.A12R.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A12R.A13R_em.pdb	Forced: Run
+1CRN.A12R.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A12R.A13N_em.pdb	Forced: Run
+1CRN.A12R.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A12R.A13D_em.pdb	Forced: Run
+1CRN.A12R.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A12R.A13C_em.pdb	Forced: Run
+1CRN.A12R.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A12R.A13Q_em.pdb	Forced: Run
+1CRN.A12R.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A12R.A13E_em.pdb	Forced: Run
+1CRN.A12R.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A12R.A13G_em.pdb	Forced: Run
+1CRN.A12R.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A12R.A13H_em.pdb	Forced: Run
+1CRN.A12R.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A12R.A13I_em.pdb	Forced: Run
+1CRN.A12R.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A12R.A13L_em.pdb	Forced: Run
+1CRN.A12R.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A12R.A13K_em.pdb	Forced: Run
+1CRN.A12R.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A12R.A13M_em.pdb	Forced: Run
+1CRN.A12R.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A12R.A13P_em.pdb	Forced: Run
+1CRN.A12R.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A12R.A13S_em.pdb	Forced: Run
+1CRN.A12R.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A12R.A13T_em.pdb	Forced: Run
+1CRN.A12R.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A12R.A13W_em.pdb	Forced: Run
+1CRN.A12R.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A12R.A13Y_em.pdb	Forced: Run
+1CRN.pdb	A	12	N	Error: No mutation needed
+1CRN.A12R.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A12R.A13V_em.pdb	Forced: Run
+1CRN.A12N.pdb	A	13	A	Error: Getting source residue
+1CRN.A12N.pdb	A	13	R	Error: Getting source residue
+1CRN.A12N.pdb	A	13	N	Error: Getting source residue
+1CRN.A12N.pdb	A	13	D	Error: Getting source residue
+1CRN.A12N.pdb	A	13	C	Error: Getting source residue
+1CRN.A12N.pdb	A	13	Q	Error: Getting source residue
+1CRN.A12N.pdb	A	13	E	Error: Getting source residue
+1CRN.A12N.pdb	A	13	G	Error: Getting source residue
+1CRN.A12N.pdb	A	13	H	Error: Getting source residue
+1CRN.A12N.pdb	A	13	I	Error: Getting source residue
+1CRN.A12N.pdb	A	13	L	Error: Getting source residue
+1CRN.A12N.pdb	A	13	K	Error: Getting source residue
+1CRN.A12N.pdb	A	13	M	Error: Getting source residue
+1CRN.A12N.pdb	A	13	P	Error: Getting source residue
+1CRN.A12N.pdb	A	13	S	Error: Getting source residue
+1CRN.A12N.pdb	A	13	T	Error: Getting source residue
+1CRN.A12N.pdb	A	13	W	Error: Getting source residue
+1CRN.A12N.pdb	A	13	Y	Error: Getting source residue
+1CRN.A12N.pdb	A	13	V	Error: Getting source residue
+1CRN.pdb	A	12	D	L->S	Single Chain	Scwrl	1CRN.A12D.pdb	Forced: Skipped
+1CRN.A12D.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A12D.A13A_em.pdb	Forced: Run
+1CRN.A12D.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A12D.A13R_em.pdb	Forced: Run
+1CRN.A12D.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A12D.A13N_em.pdb	Forced: Run
+1CRN.A12D.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A12D.A13D_em.pdb	Forced: Run
+1CRN.A12D.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A12D.A13C_em.pdb	Forced: Run
+1CRN.A12D.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A12D.A13Q_em.pdb	Forced: Run
+1CRN.A12D.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A12D.A13E_em.pdb	Forced: Run
+1CRN.A12D.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A12D.A13G_em.pdb	Forced: Run
+1CRN.A12D.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A12D.A13H_em.pdb	Forced: Run
+1CRN.A12D.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A12D.A13I_em.pdb	Forced: Run
+1CRN.A12D.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A12D.A13L_em.pdb	Forced: Run
+1CRN.A12D.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A12D.A13K_em.pdb	Forced: Run
+1CRN.A12D.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A12D.A13M_em.pdb	Forced: Run
+1CRN.A12D.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A12D.A13P_em.pdb	Forced: Run
+1CRN.A12D.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A12D.A13S_em.pdb	Forced: Run
+1CRN.A12D.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A12D.A13T_em.pdb	Forced: Run
+1CRN.A12D.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A12D.A13W_em.pdb	Forced: Run
+1CRN.A12D.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A12D.A13Y_em.pdb	Forced: Run
+1CRN.A12D.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A12D.A13V_em.pdb	Forced: Run
+1CRN.pdb	A	12	C	L->S	Single Chain	Scwrl	1CRN.A12C.pdb	Forced: Skipped
+1CRN.A12C.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A12C.A13A_em.pdb	Forced: Run
+1CRN.A12C.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A12C.A13R_em.pdb	Forced: Run
+1CRN.A12C.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A12C.A13N_em.pdb	Forced: Run
+1CRN.A12C.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A12C.A13D_em.pdb	Forced: Run
+1CRN.A12C.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A12C.A13C_em.pdb	Forced: Run
+1CRN.A12C.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A12C.A13Q_em.pdb	Forced: Run
+1CRN.A12C.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A12C.A13E_em.pdb	Forced: Run
+1CRN.A12C.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A12C.A13G_em.pdb	Forced: Run
+1CRN.A12C.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A12C.A13H_em.pdb	Forced: Run
+1CRN.A12C.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A12C.A13I_em.pdb	Forced: Run
+1CRN.A12C.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A12C.A13L_em.pdb	Forced: Run
+1CRN.A12C.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A12C.A13K_em.pdb	Forced: Run
+1CRN.A12C.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A12C.A13M_em.pdb	Forced: Run
+1CRN.A12C.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A12C.A13P_em.pdb	Forced: Run
+1CRN.A12C.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A12C.A13S_em.pdb	Forced: Run
+1CRN.A12C.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A12C.A13T_em.pdb	Forced: Run
+1CRN.A12C.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A12C.A13W_em.pdb	Forced: Run
+1CRN.A12C.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A12C.A13Y_em.pdb	Forced: Run
+1CRN.A12C.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A12C.A13V_em.pdb	Forced: Run
+1CRN.pdb	A	12	Q	Not L->S	Single Chain	Scwrl	1CRN.A12Q.pdb	Forced: Skipped
+1CRN.A12Q.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A12Q.A13A_em.pdb	Forced: Run
+1CRN.A12Q.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A12Q.A13R_em.pdb	Forced: Run
+1CRN.A12Q.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A12Q.A13N_em.pdb	Forced: Run
+1CRN.A12Q.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A12Q.A13D_em.pdb	Forced: Run
+1CRN.A12Q.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A12Q.A13C_em.pdb	Forced: Run
+1CRN.A12Q.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A12Q.A13Q_em.pdb	Forced: Run
+1CRN.A12Q.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A12Q.A13E_em.pdb	Forced: Run
+1CRN.A12Q.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A12Q.A13G_em.pdb	Forced: Run
+1CRN.A12Q.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A12Q.A13H_em.pdb	Forced: Run
+1CRN.A12Q.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A12Q.A13I_em.pdb	Forced: Run
+1CRN.A12Q.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A12Q.A13L_em.pdb	Forced: Run
+1CRN.A12Q.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A12Q.A13K_em.pdb	Forced: Run
+1CRN.A12Q.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A12Q.A13M_em.pdb	Forced: Run
+1CRN.A12Q.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A12Q.A13P_em.pdb	Forced: Run
+1CRN.A12Q.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A12Q.A13S_em.pdb	Forced: Run
+1CRN.A12Q.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A12Q.A13T_em.pdb	Forced: Run
+1CRN.A12Q.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A12Q.A13W_em.pdb	Forced: Run
+1CRN.A12Q.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A12Q.A13Y_em.pdb	Forced: Run
+1CRN.pdb	A	12	E	Not L->S	Single Chain	Scwrl	1CRN.A12E.pdb	Forced: Skipped
+1CRN.A12Q.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A12Q.A13V_em.pdb	Forced: Run
+1CRN.A12E.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A12E.A13A_em.pdb	Forced: Run
+1CRN.A12E.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A12E.A13R_em.pdb	Forced: Run
+1CRN.A12E.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A12E.A13N_em.pdb	Forced: Run
+1CRN.A12E.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A12E.A13D_em.pdb	Forced: Run
+1CRN.A12E.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A12E.A13C_em.pdb	Forced: Run
+1CRN.A12E.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A12E.A13Q_em.pdb	Forced: Run
+1CRN.A12E.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A12E.A13E_em.pdb	Forced: Run
+1CRN.A12E.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A12E.A13G_em.pdb	Forced: Run
+1CRN.A12E.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A12E.A13H_em.pdb	Forced: Run
+1CRN.A12E.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A12E.A13I_em.pdb	Forced: Run
+1CRN.A12E.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A12E.A13L_em.pdb	Forced: Run
+1CRN.A12E.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A12E.A13K_em.pdb	Forced: Run
+1CRN.A12E.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A12E.A13M_em.pdb	Forced: Run
+1CRN.A12E.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A12E.A13P_em.pdb	Forced: Run
+1CRN.A12E.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A12E.A13S_em.pdb	Forced: Run
+1CRN.A12E.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A12E.A13T_em.pdb	Forced: Run
+1CRN.A12E.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A12E.A13W_em.pdb	Forced: Run
+1CRN.A12E.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A12E.A13Y_em.pdb	Forced: Run
+1CRN.A12E.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A12E.A13V_em.pdb	Forced: Run
+1CRN.pdb	A	12	G	L->S	Single Chain	Scwrl	1CRN.A12G.pdb	Forced: Skipped
+1CRN.A12G.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A12G.A13A_em.pdb	Forced: Run
+1CRN.A12G.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A12G.A13R_em.pdb	Forced: Run
+1CRN.A12G.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A12G.A13N_em.pdb	Forced: Run
+1CRN.A12G.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A12G.A13D_em.pdb	Forced: Run
+1CRN.A12G.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A12G.A13C_em.pdb	Forced: Run
+1CRN.A12G.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A12G.A13Q_em.pdb	Forced: Run
+1CRN.A12G.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A12G.A13E_em.pdb	Forced: Run
+1CRN.A12G.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A12G.A13G_em.pdb	Forced: Run
+1CRN.A12G.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A12G.A13H_em.pdb	Forced: Run
+1CRN.A12G.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A12G.A13I_em.pdb	Forced: Run
+1CRN.A12G.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A12G.A13L_em.pdb	Forced: Run
+1CRN.A12G.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A12G.A13K_em.pdb	Forced: Run
+1CRN.A12G.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A12G.A13M_em.pdb	Forced: Run
+1CRN.A12G.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A12G.A13P_em.pdb	Forced: Run
+1CRN.A12G.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A12G.A13S_em.pdb	Forced: Run
+1CRN.A12G.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A12G.A13T_em.pdb	Forced: Run
+1CRN.A12G.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A12G.A13W_em.pdb	Forced: Run
+1CRN.A12G.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A12G.A13Y_em.pdb	Forced: Run
+1CRN.A12G.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A12G.A13V_em.pdb	Forced: Run
+1CRN.pdb	A	12	H	Not L->S	Single Chain	Scwrl	1CRN.A12H.pdb	Forced: Skipped
+1CRN.A12H.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A12H.A13A_em.pdb	Forced: Run
+1CRN.A12H.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A12H.A13R_em.pdb	Forced: Run
+1CRN.A12H.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A12H.A13N_em.pdb	Forced: Run
+1CRN.A12H.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A12H.A13D_em.pdb	Forced: Run
+1CRN.A12H.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A12H.A13C_em.pdb	Forced: Run
+1CRN.A12H.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A12H.A13Q_em.pdb	Forced: Run
+1CRN.A12H.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A12H.A13E_em.pdb	Forced: Run
+1CRN.A12H.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A12H.A13G_em.pdb	Forced: Run
+1CRN.A12H.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A12H.A13H_em.pdb	Forced: Run
+1CRN.A12H.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A12H.A13I_em.pdb	Forced: Run
+1CRN.A12H.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A12H.A13L_em.pdb	Forced: Run
+1CRN.A12H.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A12H.A13K_em.pdb	Forced: Run
+1CRN.A12H.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A12H.A13M_em.pdb	Forced: Run
+1CRN.A12H.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A12H.A13P_em.pdb	Forced: Run
+1CRN.A12H.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A12H.A13S_em.pdb	Forced: Run
+1CRN.A12H.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A12H.A13T_em.pdb	Forced: Run
+1CRN.A12H.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A12H.A13W_em.pdb	Forced: Run
+1CRN.A12H.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A12H.A13Y_em.pdb	Forced: Run
+1CRN.A12H.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A12H.A13V_em.pdb	Forced: Run
+1CRN.pdb	A	12	I	Not L->S	Single Chain	Scwrl	1CRN.A12I.pdb	Forced: Skipped
+1CRN.A12I.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A12I.A13A_em.pdb	Forced: Run
+1CRN.A12I.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A12I.A13R_em.pdb	Forced: Run
+1CRN.A12I.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A12I.A13N_em.pdb	Forced: Run
+1CRN.A12I.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A12I.A13D_em.pdb	Forced: Run
+1CRN.A12I.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A12I.A13C_em.pdb	Forced: Run
+1CRN.A12I.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A12I.A13Q_em.pdb	Forced: Run
+1CRN.A12I.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A12I.A13E_em.pdb	Forced: Run
+1CRN.A12I.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A12I.A13G_em.pdb	Forced: Run
+1CRN.A12I.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A12I.A13H_em.pdb	Forced: Run
+1CRN.A12I.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A12I.A13I_em.pdb	Forced: Run
+1CRN.A12I.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A12I.A13L_em.pdb	Forced: Run
+1CRN.A12I.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A12I.A13K_em.pdb	Forced: Run
+1CRN.A12I.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A12I.A13M_em.pdb	Forced: Run
+1CRN.A12I.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A12I.A13P_em.pdb	Forced: Run
+1CRN.A12I.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A12I.A13S_em.pdb	Forced: Run
+1CRN.A12I.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A12I.A13T_em.pdb	Forced: Run
+1CRN.A12I.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A12I.A13W_em.pdb	Forced: Run
+1CRN.A12I.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A12I.A13Y_em.pdb	Forced: Run
+1CRN.pdb	A	12	L	Not L->S	Single Chain	Scwrl	1CRN.A12L.pdb	Forced: Skipped
+1CRN.A12I.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A12I.A13V_em.pdb	Forced: Run
+1CRN.A12L.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A12L.A13A_em.pdb	Forced: Run
+1CRN.A12L.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A12L.A13R_em.pdb	Forced: Run
+1CRN.A12L.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A12L.A13N_em.pdb	Forced: Run
+1CRN.A12L.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A12L.A13D_em.pdb	Forced: Run
+1CRN.A12L.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A12L.A13C_em.pdb	Forced: Run
+1CRN.A12L.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A12L.A13Q_em.pdb	Forced: Run
+1CRN.A12L.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A12L.A13E_em.pdb	Forced: Run
+1CRN.A12L.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A12L.A13G_em.pdb	Forced: Run
+1CRN.A12L.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A12L.A13H_em.pdb	Forced: Run
+1CRN.A12L.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A12L.A13I_em.pdb	Forced: Run
+1CRN.A12L.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A12L.A13L_em.pdb	Forced: Run
+1CRN.A12L.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A12L.A13K_em.pdb	Forced: Run
+1CRN.A12L.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A12L.A13M_em.pdb	Forced: Run
+1CRN.A12L.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A12L.A13P_em.pdb	Forced: Run
+1CRN.A12L.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A12L.A13S_em.pdb	Forced: Run
+1CRN.A12L.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A12L.A13T_em.pdb	Forced: Run
+1CRN.A12L.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A12L.A13W_em.pdb	Forced: Run
+1CRN.A12L.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A12L.A13Y_em.pdb	Forced: Run
+1CRN.A12L.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A12L.A13V_em.pdb	Forced: Run
+1CRN.pdb	A	12	K	Not L->S	Single Chain	Scwrl	1CRN.A12K.pdb	Forced: Skipped
+1CRN.A12K.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A12K.A13A_em.pdb	Forced: Run
+1CRN.A12K.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A12K.A13R_em.pdb	Forced: Run
+1CRN.A12K.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A12K.A13N_em.pdb	Forced: Run
+1CRN.A12K.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A12K.A13D_em.pdb	Forced: Run
+1CRN.A12K.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A12K.A13C_em.pdb	Forced: Run
+1CRN.A12K.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A12K.A13Q_em.pdb	Forced: Run
+1CRN.A12K.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A12K.A13E_em.pdb	Forced: Run
+1CRN.A12K.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A12K.A13G_em.pdb	Forced: Run
+1CRN.A12K.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A12K.A13H_em.pdb	Forced: Run
+1CRN.A12K.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A12K.A13I_em.pdb	Forced: Run
+1CRN.A12K.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A12K.A13L_em.pdb	Forced: Run
+1CRN.A12K.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A12K.A13K_em.pdb	Forced: Run
+1CRN.A12K.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A12K.A13M_em.pdb	Forced: Run
+1CRN.A12K.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A12K.A13P_em.pdb	Forced: Run
+1CRN.A12K.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A12K.A13S_em.pdb	Forced: Run
+1CRN.A12K.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A12K.A13T_em.pdb	Forced: Run
+1CRN.A12K.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A12K.A13W_em.pdb	Forced: Run
+1CRN.A12K.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A12K.A13Y_em.pdb	Forced: Run
+1CRN.pdb	A	12	M	Not L->S	Single Chain	Scwrl	1CRN.A12M.pdb	Forced: Skipped
+1CRN.A12K.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A12K.A13V_em.pdb	Forced: Run
+1CRN.A12M.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A12M.A13A_em.pdb	Forced: Run
+1CRN.A12M.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A12M.A13R_em.pdb	Forced: Run
+1CRN.A12M.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A12M.A13N_em.pdb	Forced: Run
+1CRN.A12M.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A12M.A13D_em.pdb	Forced: Run
+1CRN.A12M.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A12M.A13C_em.pdb	Forced: Run
+1CRN.A12M.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A12M.A13Q_em.pdb	Forced: Run
+1CRN.A12M.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A12M.A13E_em.pdb	Forced: Run
+1CRN.A12M.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A12M.A13G_em.pdb	Forced: Run
+1CRN.A12M.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A12M.A13H_em.pdb	Forced: Run
+1CRN.A12M.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A12M.A13I_em.pdb	Forced: Run
+1CRN.A12M.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A12M.A13L_em.pdb	Forced: Run
+1CRN.A12M.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A12M.A13K_em.pdb	Forced: Run
+1CRN.A12M.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A12M.A13M_em.pdb	Forced: Run
+1CRN.A12M.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A12M.A13P_em.pdb	Forced: Run
+1CRN.A12M.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A12M.A13S_em.pdb	Forced: Run
+1CRN.A12M.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A12M.A13T_em.pdb	Forced: Run
+1CRN.A12M.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A12M.A13W_em.pdb	Forced: Run
+1CRN.A12M.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A12M.A13Y_em.pdb	Forced: Run
+1CRN.A12M.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A12M.A13V_em.pdb	Forced: Run
+1CRN.pdb	A	12	F	Not L->S	Single Chain	Scwrl	1CRN.A12F.pdb	Forced: Skipped
+1CRN.A12F.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A12F.A13A_em.pdb	Forced: Run
+1CRN.A12F.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A12F.A13R_em.pdb	Forced: Run
+1CRN.A12F.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A12F.A13N_em.pdb	Forced: Run
+1CRN.A12F.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A12F.A13D_em.pdb	Forced: Run
+1CRN.A12F.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A12F.A13C_em.pdb	Forced: Run
+1CRN.A12F.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A12F.A13Q_em.pdb	Forced: Run
+1CRN.A12F.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A12F.A13E_em.pdb	Forced: Run
+1CRN.A12F.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A12F.A13G_em.pdb	Forced: Run
+1CRN.A12F.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A12F.A13H_em.pdb	Forced: Run
+1CRN.A12F.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A12F.A13I_em.pdb	Forced: Run
+1CRN.A12F.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A12F.A13L_em.pdb	Forced: Run
+1CRN.A12F.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A12F.A13K_em.pdb	Forced: Run
+1CRN.A12F.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A12F.A13M_em.pdb	Forced: Run
+1CRN.A12F.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A12F.A13P_em.pdb	Forced: Run
+1CRN.A12F.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A12F.A13S_em.pdb	Forced: Run
+1CRN.A12F.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A12F.A13T_em.pdb	Forced: Run
+1CRN.A12F.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A12F.A13W_em.pdb	Forced: Run
+1CRN.A12F.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A12F.A13Y_em.pdb	Forced: Run
+1CRN.pdb	A	12	P	Not L->S	Single Chain	Scwrl	1CRN.A12P.pdb	Forced: Skipped
+1CRN.A12F.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A12F.A13V_em.pdb	Forced: Run
+1CRN.A12P.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A12P.A13A_em.pdb	Forced: Run
+1CRN.A12P.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A12P.A13R_em.pdb	Forced: Run
+1CRN.A12P.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A12P.A13N_em.pdb	Forced: Run
+1CRN.A12P.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A12P.A13D_em.pdb	Forced: Run
+1CRN.A12P.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A12P.A13C_em.pdb	Forced: Run
+1CRN.A12P.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A12P.A13Q_em.pdb	Forced: Run
+1CRN.A12P.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A12P.A13E_em.pdb	Forced: Run
+1CRN.A12P.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A12P.A13G_em.pdb	Forced: Run
+1CRN.A12P.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A12P.A13H_em.pdb	Forced: Run
+1CRN.A12P.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A12P.A13I_em.pdb	Forced: Run
+1CRN.A12P.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A12P.A13L_em.pdb	Forced: Run
+1CRN.A12P.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A12P.A13K_em.pdb	Forced: Run
+1CRN.A12P.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A12P.A13M_em.pdb	Forced: Run
+1CRN.A12P.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A12P.A13P_em.pdb	Forced: Run
+1CRN.A12P.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A12P.A13S_em.pdb	Forced: Run
+1CRN.A12P.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A12P.A13T_em.pdb	Forced: Run
+1CRN.A12P.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A12P.A13W_em.pdb	Forced: Run
+1CRN.A12P.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A12P.A13Y_em.pdb	Forced: Run
+1CRN.A12P.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A12P.A13V_em.pdb	Forced: Run
+1CRN.pdb	A	12	S	L->S	Single Chain	Scwrl	1CRN.A12S.pdb	Forced: Skipped
+1CRN.A12S.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A12S.A13A_em.pdb	Forced: Run
+1CRN.A12S.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A12S.A13R_em.pdb	Forced: Run
+1CRN.A12S.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A12S.A13N_em.pdb	Forced: Run
+1CRN.A12S.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A12S.A13D_em.pdb	Forced: Run
+1CRN.A12S.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A12S.A13C_em.pdb	Forced: Run
+1CRN.A12S.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A12S.A13Q_em.pdb	Forced: Run
+1CRN.A12S.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A12S.A13E_em.pdb	Forced: Run
+1CRN.A12S.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A12S.A13G_em.pdb	Forced: Run
+1CRN.A12S.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A12S.A13H_em.pdb	Forced: Run
+1CRN.A12S.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A12S.A13I_em.pdb	Forced: Run
+1CRN.A12S.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A12S.A13L_em.pdb	Forced: Run
+1CRN.A12S.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A12S.A13K_em.pdb	Forced: Run
+1CRN.A12S.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A12S.A13M_em.pdb	Forced: Run
+1CRN.A12S.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A12S.A13P_em.pdb	Forced: Run
+1CRN.A12S.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A12S.A13S_em.pdb	Forced: Run
+1CRN.A12S.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A12S.A13T_em.pdb	Forced: Run
+1CRN.A12S.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A12S.A13W_em.pdb	Forced: Run
+1CRN.A12S.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A12S.A13Y_em.pdb	Forced: Run
+1CRN.pdb	A	12	T	Not L->S	Single Chain	Scwrl	1CRN.A12T.pdb	Forced: Skipped
+1CRN.A12S.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A12S.A13V_em.pdb	Forced: Run
+1CRN.A12T.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A12T.A13A_em.pdb	Forced: Run
+1CRN.A12T.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A12T.A13R_em.pdb	Forced: Run
+1CRN.A12T.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A12T.A13N_em.pdb	Forced: Run
+1CRN.A12T.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A12T.A13D_em.pdb	Forced: Run
+1CRN.A12T.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A12T.A13C_em.pdb	Forced: Run
+1CRN.A12T.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A12T.A13Q_em.pdb	Forced: Run
+1CRN.A12T.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A12T.A13E_em.pdb	Forced: Run
+1CRN.A12T.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A12T.A13G_em.pdb	Forced: Run
+1CRN.A12T.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A12T.A13H_em.pdb	Forced: Run
+1CRN.A12T.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A12T.A13I_em.pdb	Forced: Run
+1CRN.A12T.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A12T.A13L_em.pdb	Forced: Run
+1CRN.A12T.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A12T.A13K_em.pdb	Forced: Run
+1CRN.A12T.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A12T.A13M_em.pdb	Forced: Run
+1CRN.A12T.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A12T.A13P_em.pdb	Forced: Run
+1CRN.A12T.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A12T.A13S_em.pdb	Forced: Run
+1CRN.A12T.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A12T.A13T_em.pdb	Forced: Run
+1CRN.A12T.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A12T.A13W_em.pdb	Forced: Run
+1CRN.A12T.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A12T.A13Y_em.pdb	Forced: Run
+1CRN.A12T.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A12T.A13V_em.pdb	Forced: Run
+1CRN.pdb	A	12	W	Not L->S	Single Chain	Scwrl	1CRN.A12W.pdb	Forced: Skipped
+1CRN.A12W.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A12W.A13A_em.pdb	Forced: Run
+1CRN.A12W.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A12W.A13R_em.pdb	Forced: Run
+1CRN.A12W.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A12W.A13N_em.pdb	Forced: Run
+1CRN.A12W.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A12W.A13D_em.pdb	Forced: Run
+1CRN.A12W.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A12W.A13C_em.pdb	Forced: Run
+1CRN.A12W.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A12W.A13Q_em.pdb	Forced: Run
+1CRN.A12W.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A12W.A13E_em.pdb	Forced: Run
+1CRN.A12W.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A12W.A13G_em.pdb	Forced: Run
+1CRN.A12W.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A12W.A13H_em.pdb	Forced: Run
+1CRN.A12W.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A12W.A13I_em.pdb	Forced: Run
+1CRN.A12W.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A12W.A13L_em.pdb	Forced: Run
+1CRN.A12W.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A12W.A13K_em.pdb	Forced: Run
+1CRN.A12W.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A12W.A13M_em.pdb	Forced: Run
+1CRN.A12W.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A12W.A13P_em.pdb	Forced: Run
+1CRN.A12W.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A12W.A13S_em.pdb	Forced: Run
+1CRN.A12W.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A12W.A13T_em.pdb	Forced: Run
+1CRN.A12W.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A12W.A13W_em.pdb	Forced: Run
+1CRN.A12W.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A12W.A13Y_em.pdb	Forced: Run
+1CRN.pdb	A	12	Y	Not L->S	Single Chain	Scwrl	1CRN.A12Y.pdb	Forced: Skipped
+1CRN.A12W.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A12W.A13V_em.pdb	Forced: Run
+1CRN.A12Y.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A12Y.A13A_em.pdb	Forced: Run
+1CRN.A12Y.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A12Y.A13R_em.pdb	Forced: Run
+1CRN.A12Y.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A12Y.A13N_em.pdb	Forced: Run
+1CRN.A12Y.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A12Y.A13D_em.pdb	Forced: Run
+1CRN.A12Y.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A12Y.A13C_em.pdb	Forced: Run
+1CRN.A12Y.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A12Y.A13Q_em.pdb	Forced: Run
+1CRN.A12Y.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A12Y.A13E_em.pdb	Forced: Run
+1CRN.A12Y.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A12Y.A13G_em.pdb	Forced: Run
+1CRN.A12Y.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A12Y.A13H_em.pdb	Forced: Run
+1CRN.A12Y.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A12Y.A13I_em.pdb	Forced: Run
+1CRN.A12Y.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A12Y.A13L_em.pdb	Forced: Run
+1CRN.A12Y.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A12Y.A13K_em.pdb	Forced: Run
+1CRN.A12Y.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A12Y.A13M_em.pdb	Forced: Run
+1CRN.A12Y.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A12Y.A13P_em.pdb	Forced: Run
+1CRN.A12Y.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A12Y.A13S_em.pdb	Forced: Run
+1CRN.A12Y.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A12Y.A13T_em.pdb	Forced: Run
+1CRN.A12Y.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A12Y.A13W_em.pdb	Forced: Run
+1CRN.A12Y.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A12Y.A13Y_em.pdb	Forced: Run
+1CRN.pdb	A	12	V	Not L->S	Single Chain	Scwrl	1CRN.A12V.pdb	Forced: Skipped
+1CRN.A12Y.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A12Y.A13V_em.pdb	Forced: Run
+1CRN.A12V.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A12V.A13A_em.pdb	Forced: Run
+1CRN.A12V.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A12V.A13R_em.pdb	Forced: Run
+1CRN.A12V.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A12V.A13N_em.pdb	Forced: Run
+1CRN.A12V.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A12V.A13D_em.pdb	Forced: Run
+1CRN.A12V.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A12V.A13C_em.pdb	Forced: Run
+1CRN.A12V.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A12V.A13Q_em.pdb	Forced: Run
+1CRN.A12V.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A12V.A13E_em.pdb	Forced: Run
+1CRN.A12V.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A12V.A13G_em.pdb	Forced: Run
+1CRN.A12V.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A12V.A13H_em.pdb	Forced: Run
+1CRN.A12V.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A12V.A13I_em.pdb	Forced: Run
+1CRN.A12V.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A12V.A13L_em.pdb	Forced: Run
+1CRN.A12V.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A12V.A13K_em.pdb	Forced: Run
+1CRN.A12V.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A12V.A13M_em.pdb	Forced: Run
+1CRN.A12V.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A12V.A13P_em.pdb	Forced: Run
+1CRN.A12V.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A12V.A13S_em.pdb	Forced: Run
+1CRN.A12V.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A12V.A13T_em.pdb	Forced: Run
+1CRN.A12V.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A12V.A13W_em.pdb	Forced: Run
+1CRN.A12V.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A12V.A13Y_em.pdb	Forced: Run
+1CRN.pdb	A	13	A	L->S	Single Chain	Scwrl	1CRN.A13A.pdb	Forced: Skipped
+1CRN.A12V.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A12V.A13V_em.pdb	Forced: Run
+1CRN.pdb	A	13	R	Not L->S	Single Chain	Scwrl	1CRN.A13R.pdb	Forced: Skipped
+1CRN.pdb	A	13	N	L->S	Single Chain	Scwrl	1CRN.A13N.pdb	Forced: Skipped
+1CRN.pdb	A	13	D	L->S	Single Chain	Scwrl	1CRN.A13D.pdb	Forced: Skipped
+1CRN.pdb	A	13	C	L->S	Single Chain	Scwrl	1CRN.A13C.pdb	Forced: Skipped
+1CRN.pdb	A	13	Q	L->S	Single Chain	Scwrl	1CRN.A13Q.pdb	Forced: Skipped
+1CRN.pdb	A	13	E	L->S	Single Chain	Scwrl	1CRN.A13E.pdb	Forced: Skipped
+1CRN.pdb	A	13	G	L->S	Single Chain	Scwrl	1CRN.A13G.pdb	Forced: Skipped
+1CRN.pdb	A	13	H	L->S	Single Chain	Scwrl	1CRN.A13H.pdb	Forced: Skipped
+1CRN.pdb	A	13	I	L->S	Single Chain	Scwrl	1CRN.A13I.pdb	Forced: Skipped
+1CRN.pdb	A	13	L	L->S	Single Chain	Scwrl	1CRN.A13L.pdb	Forced: Skipped
+1CRN.pdb	A	13	K	Not L->S	Single Chain	Scwrl	1CRN.A13K.pdb	Forced: Skipped
+1CRN.pdb	A	13	M	L->S	Single Chain	Scwrl	1CRN.A13M.pdb	Forced: Skipped
+1CRN.pdb	A	13	F	Error: No mutation needed
+1CRN.pdb	A	13	P	L->S	Single Chain	Scwrl	1CRN.A13P.pdb	Forced: Skipped
+1CRN.pdb	A	13	S	L->S	Single Chain	Scwrl	1CRN.A13S.pdb	Forced: Skipped
+1CRN.pdb	A	13	T	L->S	Single Chain	Scwrl	1CRN.A13T.pdb	Forced: Skipped
+1CRN.pdb	A	13	W	Not L->S	Single Chain	Scwrl	1CRN.A13W.pdb	Forced: Skipped
+1CRN.pdb	A	13	Y	Not L->S	Single Chain	Scwrl	1CRN.A13Y.pdb	Forced: Skipped
+1CRN.pdb	A	13	V	L->S	Single Chain	Scwrl	1CRN.A13V.pdb	Forced: Skipped

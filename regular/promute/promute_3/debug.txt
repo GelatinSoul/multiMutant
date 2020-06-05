@@ -1,0 +1,162 @@
+1CRN.pdb	A	4	C	Error: No mutation needed
+1CRN.pdb	A	3	C	Error: No mutation needed
+1CRN.pdb	A	4	S	Not L->S	Single Chain	Scwrl	1CRN.A4S.pdb	Forced: Skipped
+1CRN.pdb	A	4	T	Not L->S	Single Chain	Scwrl	1CRN.A4T.pdb	Forced: Skipped
+1CRN.pdb	A	3	A	L->S	Single Chain	Scwrl	1CRN.A3A.pdb	Forced: Skipped
+1CRN.pdb	A	3	N	Not L->S	Single Chain	Scwrl	1CRN.A3N.pdb	Forced: Skipped
+1CRN.pdb	A	4	V	Not L->S	Single Chain	Scwrl	1CRN.A4V.pdb	Forced: Skipped
+1CRN.pdb	A	3	W	Not L->S	Single Chain	Scwrl	1CRN.A3W.pdb	Forced: Skipped
+1CRN.pdb	A	3	Q	Not L->S	Single Chain	Scwrl	1CRN.A3Q.pdb	Forced: Skipped
+1CRN.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	1CRN.A3Y.pdb	Forced: Skipped
+1CRN.pdb	A	3	M	Not L->S	Single Chain	Scwrl	1CRN.A3M.pdb	Forced: Skipped
+1CRN.pdb	A	3	I	Not L->S	Single Chain	Scwrl	1CRN.A3I.pdb	Forced: Skipped
+1CRN.pdb	A	4	A	L->S	Single Chain	Scwrl	1CRN.A4A.pdb	Forced: Skipped
+1CRN.pdb	A	3	S	Not L->S	Single Chain	Scwrl	1CRN.A3S.pdb	Forced: Skipped
+1CRN.pdb	A	3	V	Not L->S	Single Chain	Scwrl	1CRN.A3V.pdb	Forced: Skipped
+1CRN.pdb	A	4	G	L->S	Single Chain	Scwrl	1CRN.A4G.pdb	Forced: Skipped
+1CRN.pdb	A	3	P	Not L->S	Single Chain	Scwrl	1CRN.A3P.pdb	Forced: Skipped
+1CRN.pdb	A	3	F	Not L->S	Single Chain	Scwrl	1CRN.A3F.pdb	Forced: Skipped
+1CRN.pdb	A	3	D	Not L->S	Single Chain	Scwrl	1CRN.A3D.pdb	Forced: Skipped
+1CRN.pdb	A	4	L	Not L->S	Single Chain	Scwrl	1CRN.A4L.pdb	Forced: Skipped
+1CRN.pdb	A	4	P	Not L->S	Single Chain	Scwrl	1CRN.A4P.pdb	Forced: Skipped
+1CRN.pdb	A	4	I	Not L->S	Single Chain	Scwrl	1CRN.A4I.pdb	Forced: Skipped
+1CRN.pdb	A	4	M	Not L->S	Single Chain	Scwrl	1CRN.A4M.pdb	Forced: Skipped
+1CRN.pdb	A	3	L	Not L->S	Single Chain	Scwrl	1CRN.A3L.pdb	Forced: Skipped
+1CRN.pdb	A	4	W	Not L->S	Single Chain	Scwrl	1CRN.A4W.pdb	Forced: Skipped
+1CRN.pdb	A	4	E	Not L->S	Single Chain	Scwrl	1CRN.A4E.pdb	Forced: Skipped
+1CRN.pdb	A	3	G	L->S	Single Chain	Scwrl	1CRN.A3G.pdb	Forced: Skipped
+1CRN.pdb	A	3	E	Not L->S	Single Chain	Scwrl	1CRN.A3E.pdb	Forced: Skipped
+1CRN.pdb	A	4	F	Not L->S	Single Chain	Scwrl	1CRN.A4F.pdb	Forced: Skipped
+1CRN.pdb	A	3	K	Not L->S	Single Chain	Scwrl	1CRN.A3K.pdb	Forced: Skipped
+1CRN.pdb	A	4	D	Not L->S	Single Chain	Scwrl	1CRN.A4D.pdb	Forced: Skipped
+1CRN.pdb	A	3	H	Not L->S	Single Chain	Scwrl	1CRN.A3H.pdb	Forced: Skipped
+1CRN.pdb	A	4	Y	Not L->S	Single Chain	Scwrl	1CRN.A4Y.pdb	Forced: Skipped
+1CRN.pdb	A	4	N	Not L->S	Single Chain	Scwrl	1CRN.A4N.pdb	Forced: Skipped
+1CRN.pdb	A	3	T	Not L->S	Single Chain	Scwrl	1CRN.A3T.pdb	Forced: Skipped
+1CRN.pdb	A	4	Q	Not L->S	Single Chain	Scwrl	1CRN.A4Q.pdb	Forced: Skipped
+1CRN.pdb	A	3	R	Not L->S	Single Chain	Scwrl	1CRN.A3R.pdb	Forced: Skipped
+1CRN.pdb	A	4	K	Not L->S	Single Chain	Scwrl	1CRN.A4K.pdb	Forced: Skipped
+1CRN.pdb	A	4	H	Not L->S	Single Chain	Scwrl	1CRN.A4H.pdb	Forced: Skipped
+1CRN.pdb	A	4	R	Not L->S	Single Chain	Scwrl	1CRN.A4R.pdb	Forced: Skipped
+1CRN.pdb	A	3	C	Error: No mutation needed
+1CRN.pdb	A	4	C	Error: No mutation needed
+1CRN.pdb	A	3	G	L->S	Single Chain	Scwrl	1CRN.A3G.pdb	Forced: Skipped
+1CRN.pdb	A	3	S	Not L->S	Single Chain	Scwrl	1CRN.A3S.pdb	Forced: Skipped
+1CRN.pdb	A	3	T	Not L->S	Single Chain	Scwrl	1CRN.A3T.pdb	Forced: Skipped
+1CRN.pdb	A	3	K	Not L->S	Single Chain	Scwrl	1CRN.A3K.pdb	Forced: Skipped
+1CRN.pdb	A	4	Q	Not L->S	Single Chain	Scwrl	1CRN.A4Q.pdb	Forced: Skipped
+1CRN.pdb	A	3	A	L->S	Single Chain	Scwrl	1CRN.A3A.pdb	Forced: Skipped
+1CRN.pdb	A	4	P	Not L->S	Single Chain	Scwrl	1CRN.A4P.pdb	Forced: Skipped
+1CRN.pdb	A	4	Y	Not L->S	Single Chain	Scwrl	1CRN.A4Y.pdb	Forced: Skipped
+1CRN.pdb	A	4	A	L->S	Single Chain	Scwrl	1CRN.A4A.pdb	Forced: Skipped
+1CRN.pdb	A	4	T	Not L->S	Single Chain	Scwrl	1CRN.A4T.pdb	Forced: Skipped
+1CRN.pdb	A	3	M	Not L->S	Single Chain	Scwrl	1CRN.A3M.pdb	Forced: Skipped
+1CRN.pdb	A	3	I	Not L->S	Single Chain	Scwrl	1CRN.A3I.pdb	Forced: Skipped
+1CRN.pdb	A	3	P	Not L->S	Single Chain	Scwrl	1CRN.A3P.pdb	Forced: Skipped
+1CRN.pdb	A	4	L	Not L->S	Single Chain	Scwrl	1CRN.A4L.pdb	Forced: Skipped
+1CRN.pdb	A	3	L	Not L->S	Single Chain	Scwrl	1CRN.A3L.pdb	Forced: Skipped
+1CRN.pdb	A	3	V	Not L->S	Single Chain	Scwrl	1CRN.A3V.pdb	Forced: Skipped
+1CRN.pdb	A	4	I	Not L->S	Single Chain	Scwrl	1CRN.A4I.pdb	Forced: Skipped
+1CRN.pdb	A	3	D	Not L->S	Single Chain	Scwrl	1CRN.A3D.pdb	Forced: Skipped
+1CRN.pdb	A	3	W	Not L->S	Single Chain	Scwrl	1CRN.A3W.pdb	Forced: Skipped
+1CRN.pdb	A	4	G	L->S	Single Chain	Scwrl	1CRN.A4G.pdb	Forced: Skipped
+1CRN.pdb	A	3	E	Not L->S	Single Chain	Scwrl	1CRN.A3E.pdb	Forced: Skipped
+1CRN.pdb	A	3	F	Not L->S	Single Chain	Scwrl	1CRN.A3F.pdb	Forced: Skipped
+1CRN.pdb	A	4	F	Not L->S	Single Chain	Scwrl	1CRN.A4F.pdb	Forced: Skipped
+1CRN.pdb	A	4	M	Not L->S	Single Chain	Scwrl	1CRN.A4M.pdb	Forced: Skipped
+1CRN.pdb	A	4	S	Not L->S	Single Chain	Scwrl	1CRN.A4S.pdb	Forced: Skipped
+1CRN.pdb	A	3	H	Not L->S	Single Chain	Scwrl	1CRN.A3H.pdb	Forced: Skipped
+1CRN.pdb	A	4	R	Not L->S	Single Chain	Scwrl	1CRN.A4R.pdb	Forced: Skipped
+1CRN.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	1CRN.A3Y.pdb	Forced: Skipped
+1CRN.pdb	A	4	W	Not L->S	Single Chain	Scwrl	1CRN.A4W.pdb	Forced: Skipped
+1CRN.pdb	A	3	N	Not L->S	Single Chain	Scwrl	1CRN.A3N.pdb	Forced: Skipped
+1CRN.pdb	A	4	V	Not L->S	Single Chain	Scwrl	1CRN.A4V.pdb	Forced: Skipped
+1CRN.pdb	A	3	R	Not L->S	Single Chain	Scwrl	1CRN.A3R.pdb	Forced: Skipped
+1CRN.pdb	A	4	D	Not L->S	Single Chain	Scwrl	1CRN.A4D.pdb	Forced: Skipped
+1CRN.pdb	A	4	E	Not L->S	Single Chain	Scwrl	1CRN.A4E.pdb	Forced: Skipped
+1CRN.pdb	A	3	Q	Not L->S	Single Chain	Scwrl	1CRN.A3Q.pdb	Forced: Skipped
+1CRN.pdb	A	4	H	Not L->S	Single Chain	Scwrl	1CRN.A4H.pdb	Forced: Skipped
+1CRN.pdb	A	4	N	Not L->S	Single Chain	Scwrl	1CRN.A4N.pdb	Forced: Skipped
+1CRN.pdb	A	4	K	Not L->S	Single Chain	Scwrl	1CRN.A4K.pdb	Forced: Skipped
+1CRN.pdb	A	4	C	Error: No mutation needed
+1CRN.pdb	A	3	C	Error: No mutation needed
+1CRN.pdb	A	3	A	L->S	Single Chain	Scwrl	1CRN.A3A.pdb	Forced: Skipped
+1CRN.pdb	A	3	V	Not L->S	Single Chain	Scwrl	1CRN.A3V.pdb	Forced: Skipped
+1CRN.pdb	A	3	P	Not L->S	Single Chain	Scwrl	1CRN.A3P.pdb	Forced: Skipped
+1CRN.pdb	A	4	A	L->S	Single Chain	Scwrl	1CRN.A4A.pdb	Forced: Skipped
+1CRN.pdb	A	3	L	Not L->S	Single Chain	Scwrl	1CRN.A3L.pdb	Forced: Skipped
+1CRN.pdb	A	4	P	Not L->S	Single Chain	Scwrl	1CRN.A4P.pdb	Forced: Skipped
+1CRN.pdb	A	3	G	L->S	Single Chain	Scwrl	1CRN.A3G.pdb	Forced: Skipped
+1CRN.pdb	A	4	L	Not L->S	Single Chain	Scwrl	1CRN.A4L.pdb	Forced: Skipped
+1CRN.pdb	A	3	S	Not L->S	Single Chain	Scwrl	1CRN.A3S.pdb	Forced: Skipped
+1CRN.pdb	A	4	I	Not L->S	Single Chain	Scwrl	1CRN.A4I.pdb	Forced: Skipped
+1CRN.pdb	A	4	V	Not L->S	Single Chain	Scwrl	1CRN.A4V.pdb	Forced: Skipped
+1CRN.pdb	A	4	G	L->S	Single Chain	Scwrl	1CRN.A4G.pdb	Forced: Skipped
+1CRN.pdb	A	3	M	Not L->S	Single Chain	Scwrl	1CRN.A3M.pdb	Forced: Skipped
+1CRN.pdb	A	4	M	Not L->S	Single Chain	Scwrl	1CRN.A4M.pdb	Forced: Skipped
+1CRN.pdb	A	3	I	Not L->S	Single Chain	Scwrl	1CRN.A3I.pdb	Forced: Skipped
+1CRN.pdb	A	4	W	Not L->S	Single Chain	Scwrl	1CRN.A4W.pdb	Forced: Skipped
+1CRN.pdb	A	3	F	Not L->S	Single Chain	Scwrl	1CRN.A3F.pdb	Forced: Skipped
+1CRN.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	1CRN.A3Y.pdb	Forced: Skipped
+1CRN.pdb	A	4	T	Not L->S	Single Chain	Scwrl	1CRN.A4T.pdb	Forced: Skipped
+1CRN.pdb	A	3	T	Not L->S	Single Chain	Scwrl	1CRN.A3T.pdb	Forced: Skipped
+1CRN.pdb	A	4	D	Not L->S	Single Chain	Scwrl	1CRN.A4D.pdb	Forced: Skipped
+1CRN.pdb	A	4	S	Not L->S	Single Chain	Scwrl	1CRN.A4S.pdb	Forced: Skipped
+1CRN.pdb	A	3	W	Not L->S	Single Chain	Scwrl	1CRN.A3W.pdb	Forced: Skipped
+1CRN.pdb	A	4	E	Not L->S	Single Chain	Scwrl	1CRN.A4E.pdb	Forced: Skipped
+1CRN.pdb	A	3	D	Not L->S	Single Chain	Scwrl	1CRN.A3D.pdb	Forced: Skipped
+1CRN.pdb	A	3	E	Not L->S	Single Chain	Scwrl	1CRN.A3E.pdb	Forced: Skipped
+1CRN.pdb	A	4	F	Not L->S	Single Chain	Scwrl	1CRN.A4F.pdb	Forced: Skipped
+1CRN.pdb	A	3	H	Not L->S	Single Chain	Scwrl	1CRN.A3H.pdb	Forced: Skipped
+1CRN.pdb	A	3	K	Not L->S	Single Chain	Scwrl	1CRN.A3K.pdb	Forced: Skipped
+1CRN.pdb	A	4	N	Not L->S	Single Chain	Scwrl	1CRN.A4N.pdb	Forced: Skipped
+1CRN.pdb	A	4	Q	Not L->S	Single Chain	Scwrl	1CRN.A4Q.pdb	Forced: Skipped
+1CRN.pdb	A	4	R	Not L->S	Single Chain	Scwrl	1CRN.A4R.pdb	Forced: Skipped
+1CRN.pdb	A	3	N	Not L->S	Single Chain	Scwrl	1CRN.A3N.pdb	Forced: Skipped
+1CRN.pdb	A	4	K	Not L->S	Single Chain	Scwrl	1CRN.A4K.pdb	Forced: Skipped
+1CRN.pdb	A	4	Y	Not L->S	Single Chain	Scwrl	1CRN.A4Y.pdb	Forced: Skipped
+1CRN.pdb	A	4	H	Not L->S	Single Chain	Scwrl	1CRN.A4H.pdb	Forced: Skipped
+1CRN.pdb	A	3	R	Not L->S	Single Chain	Scwrl	1CRN.A3R.pdb	Forced: Skipped
+1CRN.pdb	A	3	Q	Not L->S	Single Chain	Scwrl	1CRN.A3Q.pdb	Forced: Skipped
+1CRN.pdb	A	3	C	Error: No mutation needed
+1CRN.pdb	A	4	C	Error: No mutation needed
+1CRN.pdb	A	3	I	Not L->S	Single Chain	Scwrl	1CRN.A3I.pdb	Forced: Skipped
+1CRN.pdb	A	3	L	Not L->S	Single Chain	Scwrl	1CRN.A3L.pdb	Forced: Skipped
+1CRN.pdb	A	3	P	Not L->S	Single Chain	Scwrl	1CRN.A3P.pdb	Forced: Skipped
+1CRN.pdb	A	3	M	Not L->S	Single Chain	Scwrl	1CRN.A3M.pdb	Forced: Skipped
+1CRN.pdb	A	3	S	Not L->S	Single Chain	Scwrl	1CRN.A3S.pdb	Forced: Skipped
+1CRN.pdb	A	4	P	Not L->S	Single Chain	Scwrl	1CRN.A4P.pdb	Forced: Skipped
+1CRN.pdb	A	3	E	Not L->S	Single Chain	Scwrl	1CRN.A3E.pdb	Forced: Skipped
+1CRN.pdb	A	3	G	L->S	Single Chain	Scwrl	1CRN.A3G.pdb	Forced: Skipped
+1CRN.pdb	A	3	N	Not L->S	Single Chain	Scwrl	1CRN.A3N.pdb	Forced: Skipped
+1CRN.pdb	A	4	L	Not L->S	Single Chain	Scwrl	1CRN.A4L.pdb	Forced: Skipped
+1CRN.pdb	A	3	T	Not L->S	Single Chain	Scwrl	1CRN.A3T.pdb	Forced: Skipped
+1CRN.pdb	A	3	V	Not L->S	Single Chain	Scwrl	1CRN.A3V.pdb	Forced: Skipped
+1CRN.pdb	A	3	A	L->S	Single Chain	Scwrl	1CRN.A3A.pdb	Forced: Skipped
+1CRN.pdb	A	4	K	Not L->S	Single Chain	Scwrl	1CRN.A4K.pdb	Forced: Skipped
+1CRN.pdb	A	4	S	Not L->S	Single Chain	Scwrl	1CRN.A4S.pdb	Forced: Skipped
+1CRN.pdb	A	3	R	Not L->S	Single Chain	Scwrl	1CRN.A3R.pdb	Forced: Skipped
+1CRN.pdb	A	4	F	Not L->S	Single Chain	Scwrl	1CRN.A4F.pdb	Forced: Skipped
+1CRN.pdb	A	4	A	L->S	Single Chain	Scwrl	1CRN.A4A.pdb	Forced: Skipped
+1CRN.pdb	A	4	M	Not L->S	Single Chain	Scwrl	1CRN.A4M.pdb	Forced: Skipped
+1CRN.pdb	A	4	I	Not L->S	Single Chain	Scwrl	1CRN.A4I.pdb	Forced: Skipped
+1CRN.pdb	A	3	W	Not L->S	Single Chain	Scwrl	1CRN.A3W.pdb	Forced: Skipped
+1CRN.pdb	A	3	D	Not L->S	Single Chain	Scwrl	1CRN.A3D.pdb	Forced: Skipped
+1CRN.pdb	A	3	F	Not L->S	Single Chain	Scwrl	1CRN.A3F.pdb	Forced: Skipped
+1CRN.pdb	A	4	T	Not L->S	Single Chain	Scwrl	1CRN.A4T.pdb	Forced: Skipped
+1CRN.pdb	A	3	Q	Not L->S	Single Chain	Scwrl	1CRN.A3Q.pdb	Forced: Skipped
+1CRN.pdb	A	4	G	L->S	Single Chain	Scwrl	1CRN.A4G.pdb	Forced: Skipped
+1CRN.pdb	A	4	V	Not L->S	Single Chain	Scwrl	1CRN.A4V.pdb	Forced: Skipped
+1CRN.pdb	A	3	H	Not L->S	Single Chain	Scwrl	1CRN.A3H.pdb	Forced: Skipped
+1CRN.pdb	A	4	E	Not L->S	Single Chain	Scwrl	1CRN.A4E.pdb	Forced: Skipped
+1CRN.pdb	A	3	Y	Not L->S	Single Chain	Scwrl	1CRN.A3Y.pdb	Forced: Skipped
+1CRN.pdb	A	3	K	Not L->S	Single Chain	Scwrl	1CRN.A3K.pdb	Forced: Skipped
+1CRN.pdb	A	4	D	Not L->S	Single Chain	Scwrl	1CRN.A4D.pdb	Forced: Skipped
+1CRN.pdb	A	4	N	Not L->S	Single Chain	Scwrl	1CRN.A4N.pdb	Forced: Skipped
+1CRN.pdb	A	4	R	Not L->S	Single Chain	Scwrl	1CRN.A4R.pdb	Forced: Skipped
+1CRN.pdb	A	4	W	Not L->S	Single Chain	Scwrl	1CRN.A4W.pdb	Forced: Skipped
+1CRN.pdb	A	4	Y	Not L->S	Single Chain	Scwrl	1CRN.A4Y.pdb	Forced: Skipped
+1CRN.pdb	A	4	H	Not L->S	Single Chain	Scwrl	1CRN.A4H.pdb	Forced: Skipped
+1CRN.pdb	A	4	Q	Not L->S	Single Chain	Scwrl	1CRN.A4Q.pdb	Forced: Skipped
+6Y2E.pdb	A	135	A	L->S	Single Chain	Scwrl	6Y2E.A135A.pdb	Forced: Skipped
+6Y2E.pdb	A	135	A	L->S	Single Chain	Scwrl	6Y2E.A135A.pdb	Forced: Skipped
